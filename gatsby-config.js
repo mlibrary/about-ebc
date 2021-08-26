@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `ACLS Humanities EBook`,
-    description: `ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700 foundational books in the humanities and social sciences, presented in collaboration with over 120 publishers and Michigan Publishing.`,
-    author: `ACLS Humanities EBook`,
+    title: `Michigan Ebook Collection`,
+    description: `Michigan Ebook Collection`,
+    author: `Michigan Ebook Collection`,
   },
   plugins: [
     {
