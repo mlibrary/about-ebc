@@ -15,7 +15,7 @@ if (process.env.BRANCH === "preview") {
     config: {
       backend: {
         name: 'gitlab',
-        repo: 'michigan-publishing/about-heb',
+        repo: 'michigan-publishing/about-ebc',
         branch: 'preview',
         auth_type: 'implicit',
         app_id: '',
@@ -30,10 +30,10 @@ if (process.env.BRANCH === "preview") {
     config: {
       backend: {
         name: 'gitlab',
-        repo: 'michigan-publishing/about-heb',
+        repo: 'michigan-publishing/about-ebc',
         branch: 'master',
         auth_type: 'implicit',
-        app_id: '858414e24ddf77a7f901ad551f195e54f2f1cedfedb8454c4f1061f17324c9c6',
+        app_id: '60532e95a86f6c52febcb09273cf306ea5439e2bb1cb30bfc33e46810131798b',
         api_root: 'https://gitlab.umich.edu/api/v4',
         base_url: 'https://gitlab.umich.edu',
         auth_endpoint: 'oauth/authorize'
