@@ -1,154 +1,21 @@
+# example netlify.toml
 [build]
   command = "gatsby build"
-  functions = "functions"
-  publish = "public/"
+  functions = "netlify/functions"
+  publish = "public"
 
- [[redirects]]
-  from = "/about-us"
-  to = "/about"
-  status = 301
+  ## Uncomment to use this redirect for Single Page Applications like create-react-app.
+  ## Not needed for static site generators.
+  #[[redirects]]
+  #  from = "/*"
+  #  to = "/index.html"
+  #  status = 200
 
-[[redirects]]
-  from = "/about-us/for-librarians"
-  to = "/librarians"
-  status = 301
+  ## (optional) Settings for Netlify Dev
+  ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
+  #[dev]
+  #  command = "yarn start" # Command to start your dev server
+  #  port = 3000 # Port that the dev server will be listening on
+  #  publish = "dist" # Folder with the static content for _redirect file
 
-[[redirects]]
-  from = "/about/for-librarians"
-  to = "/librarians"
-  status = 301
-
-[[redirects]]
-  from = "/about-us/contact"
-  to = "/contact"
-  status = 301
-
-[[redirects]]
-  from = "/news"
-  to = "/"
-  status = 301
-
-[[redirects]]
-  from = "/news/*"
-  to = "/"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/acls-centennial-series"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/acls-fellows-publications"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/american-historical-associations-guide-historical-literature"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/american-sociological-associations-rose-series-sociology"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/atla-special-series"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/cambridge-university-press"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/catalogus-translationum-et-commentariorum"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/collected-writings-walt-whitman"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/college-art-association-monographs"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/english-institute-publications"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/fordham-university-press"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/gutenberg-e"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/john-harvard-library"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/littman-library-jewish-civilization"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/records-of-civilization"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/society-biblical-literature"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/transformation-classical-heritage"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/villa-i-tatti-series"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/west-virginia-university-press"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/special-series/works-henry-steele-commager"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/acls-fellows-publications"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/the-collection/humanities-open-book"
-  to = "https://fulcrum.org/heb"
-  status = 301
-
-[[redirects]]
-  from = "/terms-of-service"
-  to = "/terms"
-  status = 301
+  ## more info on configuring this file: https://www.netlify.com/docs/netlify-toml-reference/
