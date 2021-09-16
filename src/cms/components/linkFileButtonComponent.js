@@ -15,10 +15,10 @@ const LinkFileButtonComponent = {
       };
     },
     toBlock: function({file, text}) {
-      return `<a class="btn btn-primary" href="${file}">${text}</a>`
+      return `<a class="btn btn-primary" href="${file.replace(/^.*assets/, "/assets")}">${text}</a>`
     },
     toPreview: function({file, text}) {
-      return `<a class="btn btn-primary" href="${file}">${text}</a>`
+      return `<a class="btn btn-primary" href="${file.replace(/^.*assets/, "/assets")}">${text}</a>`
     }
   }
   

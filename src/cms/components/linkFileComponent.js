@@ -15,10 +15,10 @@ const LinkFileComponent = {
     };
   },
   toBlock: function({file, text}) {
-    return `<a href="${file}">${text}</a>`
+    return `<a href="${file.replace(/^.*assets/, "/assets")}">${text}</a>`
   },
   toPreview: function({file, text}) {
-    return `<a href="${file}">${text}</a>`
+    return `<a href="${file.replace(/^.*assets/, "/assets")}">${text}</a>`
   }
 }
 
