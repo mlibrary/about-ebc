@@ -12,7 +12,13 @@ The ACLS Humanities Ebook Collection (ACLS HEB) is a collaboration between the A
 
 ACLS HEB began in 1999 as the History Ebook Project, with funding from the Andrew W. Mellon Foundation and the Gladys Krieble Delmas Foundation. The collection was originally launched online in 2002, thanks to support with development from the Organization of American Historians, the American Historical Association, the Renaissance Society of America, the Society for the History of Technology, and the Middle East Studies Association. In 2019, ACLS COO and Vice President James Shulman led an initiative to transfer operations of ACLS HEB to Michigan Publishing (which had hosted the collection since 2005). In 2020, more funding from the Mellon Foundation has given MPUB an opportunity to re-envision the collection by improving user experience, increasing access, and developing the list of titles to include more analyses of power and social location.
 
-<a href=""></a>
+<a href="assets/lever-press-bylaws.pdf">test 1</a>
+
+<a href="assets/lever_press_business_plan_final_feb15-2.pdf">test 2</a>
+
+<a href="assets/mpacpleverfinalredct.pdf">test 3</a>
+
+<a href="assets/oberlin_rfp_nov14_v1.1.pdf">test 4</a>
 
 ## Distinctive Features
 
