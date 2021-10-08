@@ -1,7 +1,6 @@
 import React from "react"
 
 const CallToAction = ({callToAction}) => {
-  console.log(callToAction)
   return (
     <div className="container">
       <div className="row"> 

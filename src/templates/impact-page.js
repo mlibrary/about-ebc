@@ -2,8 +2,9 @@ import React from 'react'
 import SEO from "../components/seo"
 import Layout from '../components/layout'
 import Title from '../components/title'
-import {graphql} from 'gatsby'
-import ReactMarkdown from "react-markdown";
+import StoryList from '../components/stories/storyList'
+import {graphql, Link} from 'gatsby'
+import ReactMarkdown from "react-markdown"
 
 const Impact = ({data}) => {
   const {
@@ -11,6 +12,8 @@ const Impact = ({data}) => {
     readershipMapDescription,
     googleDataStudioDescription
   } = data.markdownRemark.frontmatter
+
+  const stories = data.stories.edges
 
   // When we have markdown in the frontmatter, we need to process it
   // with ReactMarkdown (or something) or something similar.
@@ -21,6 +24,16 @@ const Impact = ({data}) => {
       <SEO title={title} />
       <div className="container">
         <Title title={title} />
+        <section>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a lacus. Aliquam ultrices sagittis orci a scelerisque purus semper. Libero enim sed faucibus turpis. Elementum tempus egestas sed sed risus pretium quam. Est lorem ipsum dolor sit amet consectetur. Tempus iaculis urna id volutpat lacus laoreet non. Leo vel fringilla est ullamcorper eget nulla facilisi. Diam donec adipiscing tristique risus nec. Quisque egestas diam in arcu cursus euismod quis. Egestas erat imperdiet sed euismod nisi porta lorem mollis. Ac turpis egestas maecenas pharetra convallis posuere morbi leo. Erat imperdiet sed euismod nisi porta lorem. Ornare arcu dui vivamus arcu. Id nibh tortor id aliquet lectus proin nibh nisl condimentum.</p>
+        </section>
+        <section className="cards-container container">
+          <h3>Stories of Impact</h3>
+          <StoryList stories={stories} />
+          <Link to="/stories" className="nav-link text-dark">
+              Read More Stories
+          </Link>
+        </section>
         <div className="readership-map">
           <ReactMarkdown source={readershipMapDescription} />
           <div className="readership-map-embed">
@@ -45,6 +58,27 @@ export const query = graphql`
         title
         readershipMapDescription
         googleDataStudioDescription
+      }
+    },
+    stories: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "story"}}}, sort: {fields: frontmatter___date, order: DESC}, limit: 2) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            summary
+            storyImage {
+              childImageSharp {
+                fluid { 
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }     
+          }
+        }
       }
     }
   }

@@ -33,7 +33,7 @@ query {
         buttonLabel
       }
     }
-  }
+  },
   cards: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "card" } }

@@ -23,6 +23,18 @@ collections:
       - { name: title, label: "Page Title" }
       - { name: pageUrl, label: "Page URL" }
       - { name: order, label: "Order in footer" }
+  - name: stories
+    label: Stories
+    folder: src/content/stories
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: story }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: storyImage, label: "Story Image", widget: image }
+      - { name: body, label: Body, widget: markdown }
+      - { name: date, label: Published, widget: datetime }
   - name: pages
     label: Pages
     files:
@@ -75,27 +87,6 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
           - { name: title, label: Contact }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/librarians.md"
-        name: librarians
-        label: Librarians
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-          - { name: title, label: Librarians }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/publishers.md"
-        name: publishers
-        label: Publishers
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
-          - { name: title, label: Publishers }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/societies.md"
-        name: societies
-        label: Societies
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: societies-page }
-          - { name: title, label: Societies }
-          - { name: body, label: Body, widget: markdown }
       - file: "src/content/help.md"
         name: help
         label: Help
@@ -125,3 +116,18 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: terms-page }
           - { name: title, label: Terms }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/invest.md"
+        name: invest
+        label: Invest
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: invest-page }
+          - { name: title, label: Invest }
+          - { name: body, label: Body, widger: markdown }
+      - file: "src/content/implement.md"
+        name: implement
+        label: Implement
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: implement-page }
+          - { name: title, label: Implement }
+          - { name: body, label: Body, widger: markdown }
+      

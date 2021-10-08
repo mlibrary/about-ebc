@@ -56,18 +56,15 @@ const Navbar = () => {
           <nav className="nav d-flex justify-content-between">
             <Link to="/about" className="nav-link text-dark">
               About
-            </Link>    
-            <Link to="/librarians" className="nav-link text-dark">
-              For Librarians
             </Link>
-            <Link to="/publishers" className="nav-link text-dark">
-              For Publishers
+            <Link to="/implement" className="nav-link text-dark">
+              Implement the Collection
             </Link>
-            <Link to="/societies" className="nav-link text-dark">
-              For Societies
+            <Link to="/invest" className="nav-link text-dark">
+              Invest in Open Access
             </Link>
             <Link to="/impact" className="nav-link text-dark">
-              Impact
+              Advance Social Impact
             </Link>
           </nav>
         </div>

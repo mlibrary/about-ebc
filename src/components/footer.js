@@ -19,6 +19,7 @@ export const titleQuery = graphql`
   ) {
     edges {
       node {
+        id
         frontmatter {
           title
           pageUrl
@@ -67,9 +68,9 @@ const Footer = () => {
           <section className="col-md-2">
             <h2 className="text-light">Information For</h2>
               <ul className="list-unstyled">
-                <li><a className="text-light" href="/librarians">Librarians</a></li>
-                <li><a className="text-light" href="/publishers">Publishers</a></li>
-                <li><a className="text-light" href="/societies">Societies</a></li>
+                <li></li>
+                <li></li>
+                <li></li>
               </ul>
           </section>
           <section className="col-md-2">
@@ -79,7 +80,7 @@ const Footer = () => {
                 quickLinks.map(({node}) => {
                   return (
                     <li>
-                      <a href={node.frontmatter.pageUrl} className="text-light">{node.frontmatter.title}</a>
+                      <a key={node.id} href={node.frontmatter.pageUrl} className="text-light">{node.frontmatter.title}</a>
                     </li>
                   )
                 })

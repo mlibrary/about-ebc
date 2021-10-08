@@ -71,8 +71,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       createNodeField({
         node,
         name: `cardImage`,
-        //value: path.join("/", node.frontmatter.cardImage)
-        //value: node.frontmatter.cardImage
         value: node.frontmatter.cardImage.replace(/^.*assets/, "/assets")
       })
     }
