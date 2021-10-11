@@ -3,14 +3,23 @@ import {graphql} from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import StoryList from "../components/stories/storyList"
+import Title from '../components/title'
 
 const Stories = ({data}) => {
-  const stories = data.allMarkdownRemark.edges
+  const title = data.storyPage.frontmatter.title
+  const html = data.storyPage.html
+  const stories = data.stories.edges
 
   return (
     <Layout>
       <SEO title="Stories" />
       <div className="container page-container">
+      <div className="row">
+        <div className="col-md-12">
+          <Title title={title} />
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+        </div>
+      </div>
       <div className="row text-right">
           <div className="col-md-12">
             <p className="social scala-sans">Connect with us  <a href="https://www.facebook.com/LeverPress/"><svg width="24px" height="24px" viewBox="0 0 24 24" className="social-link fb" aria-hidden="false"><title>Facebook</title><path d="M20.9,2H3.1A1.1,1.1,0,0,0,2,3.1V20.9A1.1,1.1,0,0,0,3.1,22h9.58V14.25h-2.6v-3h2.6V9a3.64,3.64,0,0,1,3.88-4,20.26,20.26,0,0,1,2.33.12v2.7h-1.6c-1.25,0-1.49.59-1.49,1.47v1.92h3l-.39,3H15.8V22h5.1A1.1,1.1,0,0,0,22,20.9V3.1A1.1,1.1,0,0,0,20.9,2Z"></path></svg></a>
@@ -30,8 +39,14 @@ const Stories = ({data}) => {
 }
 
 export const query = graphql`
-{
-  allMarkdownRemark (
+query {
+  storyPage: markdownRemark(frontmatter: { templateKey: { eq: "stories-page" } }) {
+    html
+    frontmatter {
+      title
+    }
+  }
+  stories: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "story" } }
     },
