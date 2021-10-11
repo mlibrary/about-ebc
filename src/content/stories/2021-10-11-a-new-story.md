@@ -7,4 +7,4 @@ date: 2021-10-11T17:25:42.690Z
 ---
 This is the body of the new story.
 
-<a href="/"></a>
+<a href="/assets/mpacpleverfinalredct.pdf">linked pdf</a>
