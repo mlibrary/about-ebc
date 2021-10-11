@@ -66,17 +66,11 @@ export const query = graphql`
           id
           fields {
             slug
+            storyImage
           }
           frontmatter {
             title
-            summary
-            storyImage {
-              childImageSharp {
-                fluid { 
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }     
+            summary  
           }
         }
       }

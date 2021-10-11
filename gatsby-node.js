@@ -74,6 +74,16 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         value: node.frontmatter.cardImage.replace(/^.*assets/, "/assets")
       })
     }
+
+    if (node.frontmatter.storyImage) {
+      console.log("OLDPATH", node.frontmatter.storyImage)
+      console.log("FIXPATH", node.frontmatter.storyImage.replace(/^.*assets/, "/assets"))
+      createNodeField({
+        node,
+        name: `storyImage`,
+        value: node.frontmatter.storyImage.replace(/^.*assets/, "/assets")
+      })
+    }
     // end HELIO-3193
 
     const value = createFilePath({ node, getNode });

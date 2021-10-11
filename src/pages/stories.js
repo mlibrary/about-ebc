@@ -37,7 +37,7 @@ export const query = graphql`
     },
     sort: {
       fields: frontmatter___date,
-      order: ASC
+      order: DESC
     }
   ) {
     edges {
@@ -45,18 +45,11 @@ export const query = graphql`
         id
         fields {
           slug
+          storyImage
         }
-        id
         frontmatter {
           title
           summary
-          storyImage {
-            childImageSharp {
-              fluid { 
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }     
         }
       }
     }
