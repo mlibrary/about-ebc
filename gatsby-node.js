@@ -55,10 +55,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 
-const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+//const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  fmImagesToRelative(node);
+  //fmImagesToRelative(node);
 
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
