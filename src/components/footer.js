@@ -79,8 +79,8 @@ const Footer = () => {
               {
                 quickLinks.map(({node}) => {
                   return (
-                    <li>
-                      <a key={node.id} href={node.frontmatter.pageUrl} className="text-light">{node.frontmatter.title}</a>
+                    <li key={node.id}>
+                      <a href={node.frontmatter.pageUrl} className="text-light">{node.frontmatter.title}</a>
                     </li>
                   )
                 })
