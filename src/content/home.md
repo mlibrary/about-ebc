@@ -2,22 +2,20 @@
 templateKey: home-page
 taglineSection:
   buttonLabel: Explore the Collection
-  buttonUrl: 'http://fulcrum.org/heb'
+  buttonUrl: 'http://fulcrum.org/michigan'
   text: >-
-    The ACLS Humanities Ebook Collection (ACLS HEB) presents thousands of
-    foundational books in the humanities and social sciences from hundreds of
-    publishers.
+    Through its ebook collection, U-M Press partners with libraries to support faculty public engagement, catalyze academic innovation, and advance more equitable access to information.
 firstCallToActionSection:
-  description: 'Keep up to date with collection updates, news, and more'
+  description: 'Ready to add UMP EBC to your library?'
+  buttonLabel: Support Open Access
+  buttonUrl: /invest
+secondCallToActionSection:
+  description: Learn more about how we're doing
+  buttonLabel: Visualize Impact
+  buttonUrl: /impact
+thirdCallToActionSection:
+  description: Stay up to date with our title list and latest news
   buttonLabel: Join Our List
   buttonUrl: >-
-    https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=d47a9ddff3
-secondCallToActionSection:
-  description: Bring the collection to your library
-  buttonLabel: Subscribe Here
-  buttonUrl: /librarians
-thirdCallToActionSection:
-  description: Visualize our global reach and impact
-  buttonLabel: Explore the Data
-  buttonUrl: /impact
+    https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=ee5048bf45
 ---

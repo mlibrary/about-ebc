@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About ACLS HEB
+title: About UMP EBC
 ---
 <p class="lead">The American Council of Learned Societies Humanities Ebook Collection is a collection of over 5,700 scholarly books, from over 125 publishers, sold as a subscription package to over 800 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and Michigan Publishing licenses them and pays royalties to contributing publishers.</p>
 

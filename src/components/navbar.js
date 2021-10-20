@@ -24,11 +24,11 @@ const Navbar = () => {
           <div className="row justify-content-end">
             <div className="col-md-8">
               <a href="/" className="navbar-brand">
-                <img src="/assets/HEB-REDBLACK_NOFILL_CROP.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>ACLS<br/> Humanities EBook</h1>
+                <img src="/assets/HEB-REDBLACK_NOFILL_CROP.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>University of Michigan Press<br/> Ebook Collection</h1>
               </a>
             </div>
             <div className="col-md-4 pt-3">
-              <form className="search-form navbar-left navbar-form" action="https://fulcrum.org/heb?locale=en" acceptCharset="UTF-8" method="get">
+              <form className="search-form navbar-left navbar-form" action="https://fulcrum.org/michigan?locale=en" acceptCharset="UTF-8" method="get">
                 <fieldset>
                   <div className="input-group">
                     <label className="sr-only" htmlFor="catalog_search">Search and discover books</label>
@@ -44,8 +44,8 @@ const Navbar = () => {
                 </fieldset>
               </form>
               <div className="nav-browse mt-1">
-                <a className="pr-4" href="https://fulcrum.org/heb/">Browse Books</a>
-                <a href="https://tools.lib.umich.edu/confluence/display/FPS/ACLS+HEB">Help</a>
+                <a className="pr-4" href="https://fulcrum.org/michigan/">Browse Books</a>
+                <a href="https://tools.lib.umich.edu/confluence/display/FPS/UMP+EBC">Help</a>
               </div>
             </div> 
           </div>
