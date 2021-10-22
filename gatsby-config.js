@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Michigan Ebook Collection`,
-    description: `Michigan Ebook Collection`,
-    author: `Michigan Ebook Collection`,
+    title: `University of Michigan Press Ebook Collection`,
+    description: `University of Michigan Press Ebook Collection`,
+    author: `University of Michgian Press`,
   },
   plugins: [
     {
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/HEB-REDBLACK.svg`, // This path is relative to the root of the site.
+        icon: `src/images/UMP-Logo-MASTER-BLUE.svg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
