@@ -75,7 +75,9 @@ h5 {
 }
 
 a:focus,
-button:focus {
+button:focus,
+.form-control:focus,
+.btn:focus {
   outline: 0;
   box-shadow: 0 0 0 2px #FFCB05,0 0 0 3px #212B36;
   border-radius: 2px !important;
@@ -326,6 +328,12 @@ p.social {
   border-top: 2px solid #4C6781;
   padding: 3rem 0 1rem;
 
+  .contact {
+    a.logo {
+      display: block;
+    }
+  }
+  
   ul li a,
   ol li a {
     text-decoration: none;
