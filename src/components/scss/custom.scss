@@ -1,54 +1,62 @@
 // colors and theming
 $theme-colors: (
-  "primary": #333333,
-  "secondary": #91A3B0,
+  "primary": #F5F0F0,
+  "secondary": #00274C,
   "muted": #E9EDF0
 );
 
 
 @import "../bootstrap/scss/bootstrap";
-@import url("https://use.typekit.net/rqe4rki.css");
+@import url("https://use.typekit.net/hfw0vui.css");
 
 // colors
-$heb-brand-color: #333333;
-$heb-accent-color: #91A3B0;
-$heb-accent-color-dark: #65778B;
-$heb-red: #9E172E;
+$ebc-brand-color: #4C6781;
+$ebc-accent-color: #00274C;
+$ebc-accent-color-light: #E5E9ED;
+$ebc-headings: rgb(33, 43, 54);
 
 // typography
-@mixin proxima-nova {
-  font-family: proxima-nova, Arial, Helvetica, sans-serif;
+@mixin muli {
+  font-family: muli, Arial, Helvetica, sans-serif;
 }
 
-.proxima-nova {
-  @include proxima-nova;
+.muli {
+  @include muli;
 }
 
-@mixin freight-text {
-  font-family: freight-text-pro, Georgia, 'Times New Roman', Times, serif;
+@mixin meta-serif {
+  font-family: ff-meta-serif-web-pro, Georgia, 'Times New Roman', Times, serif;
 }
 
-.freight-text {
-  @include freight-text;
+.meta-serif {
+  @include meta-serif;
 }
 
 body {
-  @include freight-text;
+  @include meta-serif;
 }
 
-h1,
+h1 {
+  @include meta-serif;
+  font-weight: 700;
+  color:$ebc-headings;
+}
+
+.bold {
+  font-weight: 700;
+}
+
 h2,
 h3,
 h4,
 h5 {
-    @include proxima-nova;
+    @include muli;
     font-weight: 700;
-    color:$heb-brand-color;
+    color:$ebc-headings;
 }
 
 h1 {
   font-size: 1.95rem;
-  text-transform: uppercase;
 }
 
 h2 {
@@ -68,31 +76,45 @@ h5 {
 
 a:focus,
 button:focus {
-  color: #495057 !important;
-  background-color: #fff !important;
-  border-color: #737373 !important;
-  outline: 0 !important;
-  box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.25) !important;
+  outline: 0;
+  box-shadow: 0 0 0 2px #FFCB05,0 0 0 3px #212B36;
+  border-radius: 2px !important;
 }
 
 
 // links
 p, ul li, ol li {
+  font-weight: 300;
   a {
   text-decoration: underline;
+  color: rgb(29, 116, 145);
   }
+  a:hover {
+    text-decoration-thickness: 2px;
+    color: rgb(29, 116, 145);
+  }
+}
+
+.link {
+    text-decoration: underline;
+    color: rgb(29, 116, 145);
+}
+
+.link:hover {
+  text-decoration-thickness: 2px;
+  color: rgb(29, 116, 145);
 }
 
 // buttons
 .btn {
-  @include proxima-nova;
+  @include muli;
   font-weight: 600;
 }
 
 // header and navigation
 .nav,
 header {
-  @include proxima-nova;
+  @include muli;
 }
 
 header {
@@ -132,7 +154,7 @@ header {
   position: relative;
   z-index: 2;
   overflow-y: hidden;
-  border-bottom: 2px solid $heb-red;
+  border-bottom: 2px solid #4C6781;
   
   .nav {
     display: -webkit-box;
@@ -170,6 +192,8 @@ header {
   margin-bottom: -8px;
   vertical-align: bottom;
   font-size: 26px;
+  @include muli;
+  color: $ebc-accent-color;
 }
 
 // cards
@@ -218,7 +242,7 @@ header {
 
 // home - tagline and cta button
 .tagline-container {
-  background-color: $heb-brand-color;
+  background-color: $ebc-brand-color;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
 
@@ -245,6 +269,10 @@ header {
 
 // impact
 
+.google-data-studio-oa {
+  padding-top: 2rem;
+}
+
 .map-container {
   background: url(/assets/impact-usage.png) no-repeat;
   background-size: cover;
@@ -256,7 +284,7 @@ header {
   .stats {
     display: flex;
     justify-content: space-evenly;
-    @include proxima-nova;
+    @include muli;
     font-weight: 600;
     font-size: 25px;
     margin-top: 6.5rem;
@@ -281,7 +309,7 @@ p.social {
     svg {
       display: inline-block;
       vertical-align: middle;
-      fill: $heb-red;
+      fill: #fff;
     }
   }
 }
@@ -294,8 +322,8 @@ p.social {
 
 // footer
 .footer {
-  background-color: $heb-accent-color-dark;
-  border-top: 2px solid $heb-red;
+  background-color: $ebc-accent-color;
+  border-top: 2px solid #4C6781;
   padding: 3rem 0 1rem;
 
   ul li a,
@@ -320,7 +348,7 @@ p.social {
 
   h2 {
     font-size: 17px;
-    @include proxima-nova;
+    @include muli;
     text-transform: uppercase;
     margin-top: 0;
   }
@@ -340,7 +368,7 @@ p.social {
       svg {
         display: inline-block;
         vertical-align: middle;
-        fill: $heb-red;
+        fill: #fff;
       }
     }
   }

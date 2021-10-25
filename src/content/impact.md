@@ -5,7 +5,7 @@ readershipMapDescription: >-
   ## Readership Map
 
 
-  The Readership Map replays every view or download of ACLS HEB books or media
+  The Readership Map replays every view or download of UMP EBC books or media
   components that occurred the previous four weeks.
 googleDataStudioDescription: >-
   ## Book Usage

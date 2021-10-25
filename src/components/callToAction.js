@@ -8,7 +8,7 @@ const CallToAction = ({callToAction}) => {
           <p>{callToAction.description}</p>
         </div>
         <div className="col-md-6 text-center">
-          <a className="btn btn-primary" href={callToAction.buttonUrl}>{callToAction.buttonLabel}</a>
+          <a className="btn btn-secondary" href={callToAction.buttonUrl}>{callToAction.buttonLabel}</a>
         </div>
       </div>
     </div>
