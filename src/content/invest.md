@@ -76,6 +76,7 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
 </table>
 
 #### 2021 and 2022 Frontlist Pricing
+
 Purchase of the restricted-access frontlist (minimum of 80 restricted access titles + 10 additional OA). Libraries will own the restricted titles in perpetuity and have term-access to the backlist through the publishing year purchased.
 
 <table class="table table-bordered">
@@ -120,6 +121,66 @@ Purchase of the restricted-access frontlist (minimum of 80 restricted access tit
         </tr>
     </tbody>
 </table>
+
+#### Backlist Bundle Pricing
+
+Upfront perpetual purchase of the current complete backlist (years 2012-2020) with term access to the growing archive of pre-2012 titles.
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Carnegie Classification</th>
+            <th scope="col">CRKN Bands</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+            <th scope="row"></th>
+            <td>15</td>
+            <td>Bands 12, 13</td>
+            <td>$47,769</td>
+        </tr>
+         <tr>
+            <th scope="row">4</th>
+            <td>16-18</td>
+            <td>Bands 11, 10</td>
+            <td>$35,825</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td>19-21</td>
+            <td>Bands 9, 8</td>
+            <td>$23,889</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>22-23</td>
+            <td>Bands 7, 6, 5</td>
+            <td>$11,944</td>
+        </tr>
+        <tr>
+            <th scope="row">1</th>
+            <td>1-14</td>
+            <td>Bands 4, 3, 2, 1</td>
+            <td>$5,729</td>
+        </tr>
+    </tbody>
+</table>
+
+<a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0">Complete Title List</a>
+
+### The Mission
+
+With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
+
+- Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
+- Increase the number of accessible, open learning resources for students that are instantly available,downloadable, and free of DRM restrictions;
+- Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
+- Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+- Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+
 
 <h2 id="how">How We Open Content</h2>
 
