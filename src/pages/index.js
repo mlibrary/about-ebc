@@ -81,7 +81,7 @@ const IndexPage = ({data}) => {
               <div className="tagline col-md-8">
                 <Tagline text={tagline.text} />
               </div>
-              <div className="cta-tagline col-md-3">
+              <div className="cta-tagline col-md-4">
                 <a className="btn btn-lg btn-primary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
               </div>
             </div>

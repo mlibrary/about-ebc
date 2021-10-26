@@ -7,7 +7,7 @@ taglineSection:
     Through its ebook collection, U-M Press partners with libraries to support faculty public engagement, catalyze academic innovation, and advance more equitable access to information.
 firstCallToActionSection:
   description: 'Ready to add UMP EBC to your library?'
-  buttonLabel: Support Open Access
+  buttonLabel: Support OA
   buttonUrl: /invest
 secondCallToActionSection:
   description: Learn more about how we're doing
