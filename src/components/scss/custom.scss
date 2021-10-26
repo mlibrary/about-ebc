@@ -68,6 +68,10 @@ h3 {
   font-size: 1.3rem;
 }
 
+h4 {
+  font-size: 1rem;
+}
+
 h3, 
 h4,
 h5 {
@@ -268,6 +272,11 @@ header {
   .cta-1-container, .cta-2-container, .cta-3-container {
     margin-top: 15px;
   }
+}
+
+// tables
+thead {
+  @include muli;
 }
 
 // impact
