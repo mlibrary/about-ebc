@@ -2,4 +2,4 @@
 templateKey: implement-page
 title: Implement the Collection
 ---
-Implement Page
+## What problem does UMP EBC solve for libraries?
