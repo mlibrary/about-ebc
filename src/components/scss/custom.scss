@@ -132,6 +132,7 @@ header {
     border-left: none;
     height: 100%;
     padding: 0;
+    position: relative;
   }
   
   .nav-browse {
@@ -333,7 +334,7 @@ p.social {
       display: block;
     }
   }
-  
+
   ul li a,
   ol li a {
     text-decoration: none;
