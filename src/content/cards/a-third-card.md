@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: ' '
+title: ' Fund to Mission'
 description: >-
   The Press is transitioning to an open access monograph model termed Fund to
   Mission.
