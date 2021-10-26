@@ -1,17 +1,33 @@
 ---
 templateKey: about-page
-title: About UMP EBC
+title: About
 ---
-<p class="lead">This is a lead paragraph for giving a brief overview of UMP and UMP EBC with a link to the subject page on Press Web.</p>
+<ul class="list-unstyled">
+<li><a href="#mission">Mission Statement</a></li>
+<li><a href="#ebc">About UMP EBC</a></li>
+<li><a href="#oa">Open Access for HSS</a></li>
+<li><a href="#dei">Diversity, Equity, and Inclusion</a></li>
+<li><a href="#governance">Governance</a></li>
+</ul>
 
-<a href="https://www.dropbox.com/scl/fi/y6ra7plyzmjacmeniow4o/UMP-EBC-Title-List.xls?dl=0&rlkey=74ij3d6uroembnq5lqhs2v5s4" class="btn btn-secondary">View Title List</a>
+<h2 id="mission">The University of Michigan Press</h2>
+The University of Michigan Press is a vital component of U-M Library's [Michigan Publishing](https://publishing.umich.edu), which is the primary academic publishing division of the University. In partnership with our authors and series editors, we publish in [a wide range of humanities and social science disciplines](https://www.press.umich.edu/browse/subjects). We champion the Library's research and scholarly communication missions through our global digital and print publishing and distribution programs.
 
-## Overview of Collection and Fund to Mission
+Together with our authors, we also play a critical role in the teaching and learning mission of the University by applying new pedagogies to the development of instructional materials that promote college success for students. To address the educational and information needs of our regional readers, the Press also produces publications on Michigan and the Great Lakes region.
 
-## Why OA Matters
+The Press, with our rich history of publishing expertise, continues to lead in the development of digital scholarship and to support the dissemination of knowledge as widely and freely as possible.
 
-## Mission Statement
+<h2 id="ebc">University of Michigan Press Ebook Collection (UMP EBC)</h2>
 
-## DEIA Statement
+The UMP EBC is a comprehensive collection of the University of Michigan Press’s scholarly ebooks for sale to libraries. The Press adds at least 80 titles annually. The UMP EBC is fully accessible on Fulcrum, a leading community-developed, open source platform for digital scholarship developed by Michigan Publishing and the U-M Library. Fulcrum offers users the ability to read books with associated digital enhancements, such as: 3-D models, embedded audio, video, and databases; zoomable online images, and interactive media. Explore open access titles at https://www.fulcrum.org/michigan. 
 
-## Governance
+<a href="//https://www.dropbox.com/scl/fi/y6ra7plyzmjacmeniow4o/UMP-EBC-Title-List.xls?dl=0&rlkey=74ij3d6uroembnq5lqhs2v5s4" class="btn btn-secondary btn-lg">View Title List</a>
+
+<h2 id="oa">Open Access for HSS</h2>
+
+<h2 id="dei">Diversity, Equity, Inclusion, and Accessibility at UMP</h2>
+
+The University of Michigan Press strongly supports the struggle for racial justice. We publish and distribute books in the humanities and social sciences that seek to make sense of society and culture. We must and will question through whose lens those concepts are constructed. In addition, we recognize the important role that we play in helping to determine which voices are able to participate in the social and academic discourse, making it all the more important that we evaluate our practices critically and progressively. We seek to increase the participation of Black, Indigenous, and People of Color (BIPOC) in our publishing as authors, domain experts, and selectors. We commit to developing an anti-racist workplace climate, improving our shared awareness of the language and systems that serve to perpetuate racism so we can change them. We will also continue to develop strategies that improve equitable access to our publications, recognizing that current systems exclude many readers who need the important works that we publish but cannot access them.
+
+<h2 id="governance">Governance</h2>
+The quality of the publishing program of the Press is assured through a rigorous peer review process overseen by its faculty Executive Committee. The purpose of the Executive Committee is to approve (or decline to approve) projects for publication, proposed series, and proposed distributed clients under the University of Michigan Press imprint, advise the Press director on strategic directions, and serve as a productive interface between the Press, the University of Michigan, and the academic community more broadly. It is composed of nine voting members of the University of Michigan (Ann Arbor) faculty. The Executive Committee guidelines describe its operations more fully.
