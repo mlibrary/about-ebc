@@ -1,11 +1,11 @@
 ---
 templateKey: card
-title: Updates for Library Subscribers
+title: ' '
 description: >-
-  MARC Records have been updated with the latest titles. Select the button to
-  download.
-buttonLabel: Download Now
-buttonUrl: 'https://umich.app.box.com/s/fue0o10hutvb221nrrf8wxkj1hpytwbi'
-cardImage: /assets/marc.png
-date: 2021-04-04T13:25:21.341Z
+  The Press is transitioning to an open access monograph model termed Fund to
+  Mission.
+buttonLabel: Learn More
+buttonUrl: /invest
+cardImage: assets/impact-usage.png
+date: 2021-10-26T13:25:00.000Z
 ---
