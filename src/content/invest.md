@@ -175,7 +175,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
     </tbody>
 </table>
 
-<a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0">Complete Title List</a>
+<p><a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0">Complete Title List</a></p>
 
 ### The Mission
 
