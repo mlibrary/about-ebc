@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: The Collection
+title: Our Books
 description: >-
   The University of Michigan Press Ebook Collection contains thousands of
   humanities and social sciences monographs.
