@@ -211,22 +211,21 @@ The following chart shows what percentage of titles in the University of Michiga
             <th scope="col">Open Access Goal</th>
         </tr>
     </thead>
-    <tbody>\
+    <tbody>
     <tr>
-            <td>2021 Collection</th>
+            <td>2021 Collection</td>
             <td>20%</td>
         </tr>
         <tr>
-            <td>2022 Collection</th>
+            <td>2022 Collection</td>
             <td>50%</td>
         </tr>        
 
 <tr>
-            <td>2023 Collection</th>
+            <td>2023 Collection</td>
             <td>75%</td>
         </tr>
-
-\    </tbody>\
+   </tbody>
 </table>
 
 Those percentages mean that, at least in the near future, some monographs will be restricted access. The decision of which titles to open and which to restrict is based on multiple considerations.
