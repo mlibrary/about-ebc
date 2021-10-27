@@ -6,6 +6,6 @@ description: >-
   Mission.
 buttonLabel: Learn More
 buttonUrl: /invest
-cardImage: assets/impact-usage.png
+cardImage: assets/fund-to-mission-wordmark_navy.png
 date: 2021-10-26T13:25:00.000Z
 ---
