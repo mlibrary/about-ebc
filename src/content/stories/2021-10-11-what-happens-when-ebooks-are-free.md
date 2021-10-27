@@ -4,9 +4,7 @@ title: >-
   What Happens When Ebooks are Free-to-Read? Reflecting on UMP's COVID-19
   Response
 summary: >-
-  Between March 20 and August 31, 2020, the University of Michigan Press made
-  all the titles in its hosted ebook collection, the University of Michigan
-  Press Ebook Collection (UMP EBC), free-to-read.
+  A discussion of UMP's free-to-read initiatve between March 20 and August 31, 2020.
 storyImage: assets/engin-akyurt-x5qyx7ws628-unsplash.jpg
 date: 2021-10-11T17:25:42.690Z
 ---

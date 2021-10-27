@@ -16,7 +16,7 @@ console.log(data.markdownRemark.fields.storyImage)
       <div className="container page-container">
         <div className="row justify-content-md-center">
           <div className="col-md-10">
-            <img src={storyImage} alt={`${title}`} className="card-img" />
+            <img src={storyImage} alt={`${title}`} className="card-img-main" />
             <br />
             <h1 className="mb-3">{title}</h1>
             <div className="summary">

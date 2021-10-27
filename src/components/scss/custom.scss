@@ -210,6 +210,11 @@ header {
 
   .card-list {
     justify-content: space-evenly;
+
+    a:hover {
+      text-decoration: none;
+      box-shadow: 0 2px 8px 0 rgba(0,0,0,.2);
+    }
   }
   
   .card {
@@ -239,6 +244,7 @@ header {
 
     .card-text {
       font-size: .9rem;
+      color: #333;
     }
 
     .cover-only-img {
@@ -281,7 +287,32 @@ thead {
 
 // impact
 
+b, strong {
+  font-weight: 700;
+}
+
+.card-img-main {
+  padding-bottom: 3rem;
+  width: 100%;
+  border-radius: calc(.25rem - 1px);
+}
+
+.summary {
+  font-size: 1.3rem;
+  @include muli;
+}
+
+blockquote {
+  @include muli;
+  margin: 0 4rem 1rem;
+}
+
 .google-data-studio-oa {
+  padding-top: 2rem;
+}
+
+// stories
+.stories {
   padding-top: 2rem;
 }
 

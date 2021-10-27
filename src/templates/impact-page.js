@@ -24,13 +24,11 @@ const Impact = ({data}) => {
       <SEO title={title} />
       <div className="container">
         <Title title={title} />
-        <section>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a lacus. Aliquam ultrices sagittis orci a scelerisque purus semper. Libero enim sed faucibus turpis. Elementum tempus egestas sed sed risus pretium quam. Est lorem ipsum dolor sit amet consectetur. Tempus iaculis urna id volutpat lacus laoreet non. Leo vel fringilla est ullamcorper eget nulla facilisi. Diam donec adipiscing tristique risus nec. Quisque egestas diam in arcu cursus euismod quis. Egestas erat imperdiet sed euismod nisi porta lorem mollis. Ac turpis egestas maecenas pharetra convallis posuere morbi leo. Erat imperdiet sed euismod nisi porta lorem. Ornare arcu dui vivamus arcu. Id nibh tortor id aliquet lectus proin nibh nisl condimentum.</p>
-        </section>
+        
         <section className="cards-container">
-          <h2>Stories of Impact</h2>
+          <h2 className="mb-4">Stories of Impact</h2>
           <StoryList stories={stories} />
-          <Link to="/stories" className="btn btn-secondary">
+          <Link to="/stories" className="btn btn-secondary mt-4 float-right">
               Read More Stories
           </Link>
         </section>

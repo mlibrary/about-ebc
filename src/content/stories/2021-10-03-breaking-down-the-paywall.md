@@ -2,11 +2,11 @@
 templateKey: story
 title: 'Breaking Down the Paywall: Author Relationships with Open Access'
 summary: >-
-  UMP authors to discuss the impact of Authors discuss Open Access on their
+  UMP authors discuss the impact of Open Access on their
   scholarship and on the way they view diversity, equity, and inclusion in their
   fields.
 storyImage: assets/susan-q-yin-2jivbogleho-unsplash.jpg
-date: 2021-02-03T18:55:26.820Z
+date: 2021-10-03T18:55:26.820Z
 ---
 This year marks the 50th anniversary of when Michael Hart digitized the Declaration of Independence, creating what is [commonly considered the first ebook](https://www.theguardian.com/books/2011/sep/08/michael-hart-inventor-ebook-dies). Since then, innovation in the realm of digital publishing has only accelerated. Optimizing scholarship for the digital age has resulted in the creation of new formats of publishable materials; emphasized the importance of accessible websites, articles, and books; and has resulted in more people, in more places, having access to more content.
 
