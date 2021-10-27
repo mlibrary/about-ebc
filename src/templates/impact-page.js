@@ -30,7 +30,7 @@ const Impact = ({data}) => {
         <section className="cards-container">
           <h2>Stories of Impact</h2>
           <StoryList stories={stories} />
-          <Link to="/stories" className="link">
+          <Link to="/stories" className="btn btn-secondary">
               Read More Stories
           </Link>
         </section>
