@@ -16,7 +16,7 @@ The University of Michigan Press is a vital component of U-M Library's <a href="
 
 Together with our authors, we also play a critical role in the teaching and learning mission of the University by applying new pedagogies to the development of instructional materials that promote college success for students. To address the educational and information needs of our regional readers, the Press also produces publications on Michigan and the Great Lakes region.
 
-The Press, with our rich history of publishing expertise, continues to lead in the development of digital scholarship and to support the dissemination of knowledge as widely and freely as possible.
+The Press, with our rich history of publishing expertise, [continues to lead in the development of digital scholarship](https://youtu.be/EK7r6Eowccw) and to support the dissemination of knowledge as widely and freely as possible.
 
 <h2 id="ebc">University of Michigan Press Ebook Collection (UMP EBC)</h2>
 
