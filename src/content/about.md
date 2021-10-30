@@ -20,7 +20,7 @@ The Press, with our rich history of publishing expertise, continues to lead in t
 
 <h2 id="ebc">University of Michigan Press Ebook Collection (UMP EBC)</h2>
 
-The UMP EBC is a comprehensive collection of the University of Michigan Press’s scholarly ebooks for sale to libraries. The Press adds at least 80 titles annually. The UMP EBC is fully accessible on <a href="https://www.fulcrum.org/michigan">Fulcrum</a>, a leading community-developed, open source platform for digital scholarship developed by Michigan Publishing and the U-M Library. Fulcrum offers users the ability to read books with associated digital enhancements, such as: 3-D models, embedded audio, video, and databases; zoomable online images, and interactive media. Explore open access titles at <a href="https://www.fulcrum.org/michigan">https://www.fulcrum.org/michigan</a>. 
+The UMP EBC is a comprehensive collection of the University of Michigan Press’s scholarly ebooks for sale to libraries. The Press adds at least 80 titles annually. The UMP EBC is fully accessible on <a href="https://www.fulcrum.org/michigan">Fulcrum</a>, a leading community-developed, open-source platform for digital scholarship developed by Michigan Publishing and the U-M Library. Fulcrum offers users the ability to read books with associated digital enhancements, such as 3-D models, embedded audio, video, and databases; zoomable online images, and interactive media. Explore open access titles at <a href="https://www.fulcrum.org/michigan">https://www.fulcrum.org/michigan</a>. 
 
 <div class="title"><a class="btn btn-secondary btn-lg" href="<https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0>">View Title List</a></div>
 
