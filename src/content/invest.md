@@ -49,7 +49,7 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
     </thead>
     <tbody>
        <tr>
-            <th scope="row"></th>
+            <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
             <td>$17,877</td>
@@ -96,7 +96,7 @@ Purchase of the restricted-access frontlist (minimum of 80 restricted access tit
     </thead>
     <tbody>
        <tr>
-            <th scope="row"></th>
+            <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
             <td>$5,959</td>
@@ -143,7 +143,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
     </thead>
     <tbody>
        <tr>
-            <th scope="row"></th>
+            <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
             <td>$47,769</td>
@@ -193,7 +193,7 @@ In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysi
 
 Our current goal is to receive $400,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
 
-* Approximately 15% of the money from the Fund to Mission program goes to LYRASIS to support their efforts in publicizing and managing the institutional-side of the program.
+* Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
 * Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
 * Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
 * The rest of the money goes back into the program for editing, production, design work, and marketing.
@@ -265,7 +265,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Michigan State University
 * Montana State University
 * Northwestern University
-* NYU
+* New York University
 * The Ohio State University
 * Pennsylvania State University
 * Princeton University
@@ -289,8 +289,8 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Maryland
 * University of Minnesota
 * University of Nebraska
-* UNC Chapel Hill
-* UNC Greensboro
+* University of North Carolina Chapel Hill
+* University of North Carolina Greensboro
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
