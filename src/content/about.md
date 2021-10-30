@@ -32,6 +32,7 @@ The endeavor of opening humanities content to the world is a vital one. As the c
 
 The University of Michigan Press exists within a network of university presses that are supported by their parent institutions and work together to provide the infrastructure of the humanities. The Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen our shared understanding of the beautiful diversity of culture, society, and identity.
 
+<div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/usa-with-caption.png" onclick="ga('send', 'event', 'mission','click','impact-report');"><img class="mb-4" src="/assets/usa-with-caption.png"></a></div>
 ![Map showing the over 100 university presses in the USA that are part of the Association of University Presses. It shows how they are connected with each other and form a networked infrastructure for the humanities. It is licensed under a CC-BY license, ebc.press.umich.edu](assets/usa-with-caption.png)
 
 <h2 id="dei">Diversity, Equity, Inclusion, and Accessibility at UMP</h2>
