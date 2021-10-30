@@ -24,7 +24,7 @@ The UMP EBC is a comprehensive collection of the University of Michigan Press’
 
 <div class="title"><a class="btn btn-secondary btn-lg" href="<https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0>">View Title List</a></div>
 
-<h2 id="oa">Open Access for HSS</h2>
+<h2 id="oa">Open Access for the Humanities and Qualitative Social Sciences</h2>
 
 In the humanities, the monograph often acts as the lab where scholars experiment and engage with other thinkers. Despite the valuable ideas emerging from these fields, the academic community has struggled to find sustainable ways to make humanities monographs open access. Grant money and other funding is often less available to these scholars than to their counterparts in the sciences. As a result, the academic and publishing communities have had to explore new ways to make the turn to open. Fund to Mission from the University of Michigan Press is one such project to open the humanities.
 
