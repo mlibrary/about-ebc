@@ -30,7 +30,9 @@ In the humanities, the monograph often acts as the lab where scholars experiment
 
 The endeavor of opening humanities content to the world is a vital one. As the core places where work in these fields is done, monographs have the potential to be spaces that inspire dialogues and connections. When monographs exist only behind paywalls, there is less of an opportunity for global collaborations to happen. However, when these monographs become open access, new opportunities for interdisciplinary exchange emerge.
 
-The University of Michigan Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen the humanities.
+The University of Michigan Press exists within a network of university presses that are supported by their parent institutions to provide the infrastructure of the humanities. The Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen our shared understanding of the beautiful diversity of culture, society, and identity.
+
+![](assets/usa-with-caption.png)
 
 <h2 id="dei">Diversity, Equity, Inclusion, and Accessibility at UMP</h2>
 
