@@ -22,7 +22,7 @@ The Press, with our rich history of publishing expertise, continues to lead in t
 
 The UMP EBC is a comprehensive collection of the University of Michigan Press’s scholarly ebooks for sale to libraries. The Press adds at least 80 titles annually. The UMP EBC is fully accessible on <a href="https://www.fulcrum.org/michigan">Fulcrum</a>, a leading community-developed, open-source platform for digital scholarship developed by Michigan Publishing and the U-M Library. Fulcrum offers users the ability to read books with associated digital enhancements, such as 3-D models, embedded audio, video, and databases; zoomable online images, and interactive media. Explore open access titles at <a href="https://www.fulcrum.org/michigan">https://www.fulcrum.org/michigan</a>. 
 
-<div class="title"><a class="btn btn-secondary btn-lg" href="<https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0>">View Title List</a></div>
+<div class="title"><a class="btn btn-secondary btn-lg" href="<https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0%22">View Title List</a></div>
 
 <h2 id="oa">Open Access for the Humanities and Qualitative Social Sciences</h2>
 
@@ -33,7 +33,6 @@ The endeavor of opening humanities content to the world is a vital one. As the c
 The University of Michigan Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. It exists within a network of university presses that are supported by their parent institutions and work together to provide the infrastructure of the humanities. Ensuring that everyone has access to the scholarship published by these presses, no matter where they are located or what their institutional affiliation is, can only strengthen our shared understanding of the beautiful diversity of culture, society, and identity.
 
 <div class="lg:float-right lg:-mr-64 lg:w-3/5 border-l-8 border-sea-blue px-6 pt-6 ml-6 mb-4"><a href="/assets/usa-with-caption.png" onclick="ga('send', 'event', 'mission','click','impact-report');"><img class="mb-4" src="/assets/usa-with-caption.png"></a></div>
-
 
 \[Map showing the over 100 university presses in the USA that are part of the Association of University Presses. It shows how they are connected with each other and form a networked infrastructure for the humanities. It is licensed under a CC-BY license, ebc.press.umich.edu]
 
