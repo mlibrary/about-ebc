@@ -83,4 +83,4 @@ U-M Press has several agreements to make UMP EBC collections more discoverable a
     </tbody>
 </table>
 
-Usage Stats for your institution are available in <a href="https://fulcrum.org/counter_reports">COUNTER format</a>.
+Usage Stats for your institution are available in <a href="https://fulcrum.org/counter_reports">COUNTER 5 format</a>.
