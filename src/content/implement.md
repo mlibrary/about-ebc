@@ -10,7 +10,7 @@ Explore pricing and license at https://www.lyrasis.org/content/Pages/product-det
 
 If you are a library interested in purchasing UMP EBC, please contact LYRASIS at [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org).
 
-View a complete title list at https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0".
+View a complete title list at https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0"
 
 ## Implement
 
