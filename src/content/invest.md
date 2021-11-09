@@ -275,6 +275,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Saint Ambrose University
 * Simon Fraser University
 * Stanford University
+* Syracuse University
 * Swarthmore College
 * Trent University
 * University of Alberta
