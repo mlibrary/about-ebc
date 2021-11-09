@@ -20,6 +20,8 @@ U-M Press has several agreements to make UMP EBC collections more discoverable a
 
 <table class="table table-bordered">
     <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption>
+
+  <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
     <thead class="thead-light">
         <tr>
             <th scope="col">Vendor</th>
