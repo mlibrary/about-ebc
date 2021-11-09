@@ -41,7 +41,7 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"></th>
+            <th scope="col"><Tier/th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -88,7 +88,7 @@ Purchase of the restricted-access frontlist (minimum of 80 restricted access tit
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"></th>
+            <th scope="col"><Tier/th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -135,7 +135,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"></th>
+            <th scope="col"><Tier/th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -181,11 +181,11 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
 
 With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
 
-* \- Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
-* \- Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
-* \- Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-* \- Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
-* \- Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+* Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
+* Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
+* Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
+* Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+* Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
 
 #### What We Do With the Money
 
@@ -193,10 +193,10 @@ In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysi
 
 Our current goal is to receive $400,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
 
-* \- Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
-* \- Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
-* \- Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
-* \- The rest of the money goes back into the program for editing, production, design work, and marketing.
+* Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
+* Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
+* Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
+* The rest of the money goes back into the program for editing, production, design work, and marketing.
 
 Once the 2021 collection year has closed we are excited to share a thorough breakdown of how the money was spent.
 
