@@ -4,7 +4,7 @@ title: Invest in Open Access
 ---
 <ul class="list-unstyled">
 <li><a href="#oa">Open Access</a></li>
-<li><a href="#model">Overview of Fund to Mission OA Model</a></li>
+<li><a href="#model">Overview of Fund to Mission Model</a></li>
 
 <li><a href="#purchase">How to Purchase</a></li>
 <li><a href="#how">How We Open Content</a></li>
