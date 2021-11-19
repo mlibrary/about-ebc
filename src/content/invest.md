@@ -6,7 +6,7 @@ title: Invest in Open Access
 <li><a href="#oa">Open Access</a></li>
 <li><a href="#model">Overview of Fund to Mission OA Model</a></li>
 
-<li><a href="#model">How to Purchase</a></li>
+<li><a href="#purchase">How to Purchase</a></li>
 <li><a href="#how">How We Open Content</a></li>
 <li><a href="#supporters">Our Library Supporters</a></li>
 <li><a href="#advisory">Advisory Group</a></li>
@@ -202,7 +202,7 @@ Our current goal is to receive $400,000 in continuing support from libraries for
 
 Once the 2021 collection year has closed we are excited to share a thorough breakdown of how the money was spent.
 
-<h2 id="how">How to Purchase</h2>
+<h2 id="purchase">How to Purchase</h2>
 
 Libraries interested in supporting Fund to Mission can request a quote from LYRASIS, our sales partner, here: https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8d37544b-f9aa-e811-9416-00155da0e429.
 
