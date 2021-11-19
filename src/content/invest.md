@@ -20,7 +20,7 @@ The endeavor of opening humanities content to the world is a vital one. As the c
 
 The University of Michigan Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen the humanities.
 
-<h2 id="model">Overview of OA Model</h2>
+<h2 id="model">Overview of Fund to Mission Open Access Model</h2>
 
 Working with LYRASIS, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced it is transitioning to an open access monograph model termed Fund to Mission. 
 
@@ -31,7 +31,9 @@ Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-valu
 Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed below), libraries:
 
 * Support the conversion to open access of at least half (~40) of University of Michigan Press scholarly monographs in 2022. (If we realize our goal, we will expand this percentage in succeeding years.);
-* Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist(~1,700 titles), which will otherwise remain closed to non-purchasers;
+
+
+* Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,700 titles), which will otherwise remain closed to non-purchasers;
 * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
 
 ### Investment Options
