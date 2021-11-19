@@ -238,13 +238,16 @@ The following chart shows what percentage of titles in the University of Michiga
 
 Those percentages mean that, at least in the near future, some monographs will be restricted access. The decision of which titles to open and which to restrict is based on multiple considerations.
 
-* \- When determining whether or not a title will be open access we first appraise the potential impact of the scholarship and the benefit to broader society of making it widely and freely available. Issues regarding diversity, equity, inclusion, and accessibility are cornerstones in our strategic mission and play a role in our decision-making process. We also use our knowledge of the subject area of a given title. How friendly is the field to open access? Will publishing the title open access make it ineligible for the major reviews and awards in the field?
+* When determining whether or not a title will be open access we first appraise the potential impact of the scholarship and the benefit to broader society of making it widely and freely available. Issues regarding diversity, equity, inclusion, and accessibility are cornerstones in our strategic mission and play a role in our decision-making process. We also use our knowledge of the subject area of a given title. How friendly is the field to open access? Will publishing the title open access make it ineligible for the major reviews and awards in the field?
 
-  \- Our next step involves having a conversation with the author. We share information about how making monographs open access increases their readership and impact globally, and we discuss concerns the author may have, including their own perception of OA in their field, whether or not tenure standards at their institution consider OA material to be qualifying scholarly contributions, their relationship to royalties, and numerous other factors.
 
-  \- If we think that a title is a good candidate for open access and the author agrees with us, then we move forward with our standard monograph peer review, editorial, production, and marketing processes. We believe that opening scholarship does not mean decreasing publication standards. Rather, open access is simply a different, more equitable, funding model that deepens global conversations and enables monographs to have a larger impact.
+* Our next step involves having a conversation with the author. We share information about how making monographs open access increases their readership and impact globally, and we discuss concerns the author may have, including their own perception of OA in their field, whether or not tenure standards at their institution consider OA material to be qualifying scholarly contributions, their relationship to royalties, and numerous other factors.
 
-By opening our content and showing that monographs increase their usage, reach, and accolades by being open, we hope to encourage more scholars to pursue open access scholarship in the future.
+
+* If we think that a title is a good candidate for open access and the author agrees with us, then we move forward with our standard monograph peer review, editorial, production, and marketing processes. We believe that opening scholarship does not mean decreasing publication standards. Rather, open access is simply a different, more equitable, funding model that deepens global conversations and enables monographs to have a larger impact.
+
+
+* By opening our content and showing that monographs increase their usage, reach, and accolades by being open, we hope to encourage more scholars to pursue open access scholarship in the future.
 
 <h2 id="supporters">Our Library Supporters</h2>
 
