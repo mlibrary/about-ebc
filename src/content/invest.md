@@ -31,8 +31,6 @@ Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-valu
 Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed below), libraries:
 
 * Support the conversion to open access of at least half (~40) of University of Michigan Press scholarly monographs in 2022. (If we realize our goal, we will expand this percentage in succeeding years.);
-
-
 * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,700 titles), which will otherwise remain closed to non-purchasers;
 * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
 
@@ -179,6 +177,50 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
     </tbody>
 </table>
 
+
+
+#### International Pricing
+
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.		
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col"><Tier/th>
+            <th scope="col">High Income</th>
+            <th scope="col">Upper Midldle Income (25%)</th>
+            <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+            <th scope="row">Doctoral</th>
+            <td>$5,959</td>
+            <td>$4,469</td>
+            <td>$2,980</td><td>$1,490</td>
+        </tr>
+         <tr>
+            <th scope="row">Master's</th>
+            <td>$4,469</td>
+            <td>$3,352</td>
+            <td>$2,235</td><td>$1,117</td>
+        </tr>
+        <tr>
+            <th scope="row">Baccalaureate</th>
+            <td>$1,490</td>
+            <td>$1,118</td>
+            <td>$745</td><td>$373</td>
+        </tr>
+        <tr>
+            <th scope="row">Associates</th>
+            <td>$715</td>
+            <td>$536</td>
+            <td>$358</td>    <td>$179</td>
+        </tr>
+      
+    </tbody>
+</table>
+
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0">Complete Title List</a></p>
 
 ### The Mission
@@ -241,14 +283,8 @@ The following chart shows what percentage of titles in the University of Michiga
 Those percentages mean that, at least in the near future, some monographs will be restricted access. The decision of which titles to open and which to restrict is based on multiple considerations.
 
 * When determining whether or not a title will be open access we first appraise the potential impact of the scholarship and the benefit to broader society of making it widely and freely available. Issues regarding diversity, equity, inclusion, and accessibility are cornerstones in our strategic mission and play a role in our decision-making process. We also use our knowledge of the subject area of a given title. How friendly is the field to open access? Will publishing the title open access make it ineligible for the major reviews and awards in the field?
-
-
 * Our next step involves having a conversation with the author. We share information about how making monographs open access increases their readership and impact globally, and we discuss concerns the author may have, including their own perception of OA in their field, whether or not tenure standards at their institution consider OA material to be qualifying scholarly contributions, their relationship to royalties, and numerous other factors.
-
-
 * If we think that a title is a good candidate for open access and the author agrees with us, then we move forward with our standard monograph peer review, editorial, production, and marketing processes. We believe that opening scholarship does not mean decreasing publication standards. Rather, open access is simply a different, more equitable, funding model that deepens global conversations and enables monographs to have a larger impact.
-
-
 * By opening our content and showing that monographs increase their usage, reach, and accolades by being open, we hope to encourage more scholars to pursue open access scholarship in the future.
 
 <h2 id="supporters">Our Library Supporters</h2>
