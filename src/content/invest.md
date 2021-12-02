@@ -177,8 +177,6 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
     </tbody>
 </table>
 
-
-
 #### International Pricing
 
 Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.		
@@ -221,7 +219,7 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     </tbody>
 </table>
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/nzqdzcm8qbbfdso/UMP%20EBC%20Title%20List.xls?dl=0">Complete Title List</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0">Complete Title List</a></p>
 
 ### The Mission
 
