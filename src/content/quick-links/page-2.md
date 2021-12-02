@@ -1,7 +1,6 @@
 ---
 templateKey: quick-link
 title: Title List
-pageUrl: >-
-  https://www.dropbox.com/scl/fi/y6ra7plyzmjacmeniow4o/UMP-EBC-Title-List.xls?dl=0&rlkey=74ij3d6uroembnq5lqhs2v5s4
+pageUrl: 'https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0'
 order: 2
 ---
