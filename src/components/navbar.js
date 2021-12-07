@@ -34,7 +34,7 @@ const Navbar = () => {
                     <label className="sr-only" htmlFor="catalog_search">Search and discover books</label>
                     <input type="search" name="q" id="catalog_search" className="q search-query form-control" placeholder="Search and discover books" tabIndex="0"/>
                     <div className="input-group-btn">
-                      <button type="submit" className="search-submit" id="keyword-search-submit" tabIndex="0">
+                      <button type="submit" className="search-submit" id="keyword-search-submit" tabIndex="0" aria-label="Submit search">
                         
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="mx-3"><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" y1="21" x2="15.8" y2="15.8"></line></svg>
                 

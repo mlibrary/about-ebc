@@ -10,9 +10,9 @@ const Layout = ({ children }) => {
   return (
     <div>
       <Navbar />
-      <div className="page-container">
+      <main className="page-container">
         {children}
-      </div>
+      </main>
       <Footer />
       <Helmet>
         <script src={withPrefix('bootstrap.min.js')} type="text/javascript" />
