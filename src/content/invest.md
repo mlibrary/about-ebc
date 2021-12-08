@@ -43,7 +43,7 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"><Tier/th>
+            <th scope="col">Tier</th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -90,7 +90,7 @@ Purchase of the restricted-access frontlist (minimum of 80 restricted access tit
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"><Tier/th>
+            <th scope="col">Tier</th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -137,7 +137,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2020) wi
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"><Tier/th>
+            <th scope="col">Tier</th>
             <th scope="col">Carnegie Classification</th>
             <th scope="col">CRKN Bands</th>
             <th scope="col">Price</th>
@@ -184,7 +184,7 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
-            <th scope="col"><Tier/th>
+            <th scope="col">Tier</th>
             <th scope="col">High Income</th>
             <th scope="col">Upper Midldle Income (25%)</th>
             <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
@@ -213,9 +213,9 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
             <th scope="row">Associates</th>
             <td>$715</td>
             <td>$536</td>
-            <td>$358</td>    <td>$179</td>
+            <td>$358</td>    
+            <td>$179</td>
         </tr>
-      
     </tbody>
 </table>
 

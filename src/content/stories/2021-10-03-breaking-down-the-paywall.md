@@ -28,7 +28,7 @@ From his experiences growing up in Mexico and then moving to Southeast Asia to t
 
 By taking full advantage of open access, Miguel allows readers to interact with his own computational theatre research: in addition to the text itself, Theater as Data provides code and research files, videos, programming tutorials, and illustrative data so that readers can delve into his analysis. Miguel’s relationship to open access allowed him to express his ideas in the way that he wanted, knowing that many, instead of just a few, could interact with his scholarship. “We need to be able to openly share data, code – and especially ideas – if we want this field to develop. If the book had not been planned for open access, I wouldn’t have been able to present this argument with confidence.”
 
-To learn more about *Theatre as Data*, [click here](https://www.fulcrum.org/concern/monographs/fq977w923?locale=en).
+[Learn more about *Theatre as Data*](https://www.fulcrum.org/concern/monographs/fq977w923?locale=en).
 
 *This open access version is made available by the National University of Singapore.*
 
@@ -44,7 +44,7 @@ Wang's book makes waves in the field of Chinese literature studies: current scho
 >
 > – Yuanfei Wang, Author of *Writing Pirates*
 
-To learn more about *Writing Pirates*, [click here](https://www.fulcrum.org/concern/monographs/8336h409h?locale=en).
+[Learn more about *Writing Pirates*](https://www.fulcrum.org/concern/monographs/8336h409h?locale=en).
 
 *This publication was made possible in part by an award from the James P. Geiss and Margaret Y. Hsu Foundation.*
 
@@ -56,7 +56,7 @@ But what about reaching audiences that don’t necessarily fit the typical acade
 
 And when the book hit the Twittersphere, the editors said it made its way around the world in a matter of hours, with members of Tumblr communities excited to see their impact. Readers were interacting with the content most relevant to them, holding classroom discussions and online conversations with editors, to really dig into the material. “The fact that we did not have to go through a paywall or a corporate conglomerate to achieve worldwide distribution was extremely gratifying and very much in the spirit of Tumblr’s global access as a platform,” said Allison.
 
-To learn more about *a tumblr book*, [click here](https://www.fulcrum.org/concern/monographs/x346d608w?locale=en).
+[Learn more about *a tumblr book*](https://www.fulcrum.org/concern/monographs/x346d608w?locale=en).
 
 *This Open Access edition is made available through financial support from Depaul University, Middlebury College, and the University of California President's Postdoctoral Fellow's Research Fund.*
 

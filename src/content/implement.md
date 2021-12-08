@@ -36,22 +36,22 @@ U-M Press has several agreements to make UMP EBC collections more discoverable a
             <td>EBSCO Discovery Service</td>
         </tr>
          <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">EBSCO</span></th>
             <td>Knowledge Base</td>
             <td>Holdings & Linking Manager (HLM)</td>
         </tr>
-               <tr>
+        <tr>
             <th scope="row">OCLC</th>
             <td>Knowledge Base</td>
             <td>Collection Manager</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">OCLC</span></th>
             <td>Knowledge Base</td>
             <td>WorldCat</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">OCLC</span></th>
             <td>Knowledge Base</td>
             <td>WorldShare</td>
         </tr>
@@ -61,22 +61,22 @@ U-M Press has several agreements to make UMP EBC collections more discoverable a
             <td>Primo (Central Discovery Index)</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
             <td>Discovery</td>
             <td>Summon (Central Discovery Index)</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
             <td>Knowledge Base</td>
             <td>360 (Client Center, Intota)</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
             <td>Knowledge Base</td>
             <td>Alma Community Zone</td>
         </tr>
                <tr>
-            <th scope="row"></th>
+            <th scope="row"><span class="sr-only">ProQuest / Ex Libris</span></th>
             <td>Knowledge Base</td>
             <td>SFX</td>
         </tr>
