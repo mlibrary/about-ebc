@@ -334,6 +334,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Illinois
 * University of Iowa
 * University of Kansas
+* University of Massachusetts Amherst
 * University of Maryland
 * University of Minnesota
 * University of Nebraska
