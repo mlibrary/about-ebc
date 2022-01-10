@@ -186,7 +186,7 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
         <tr>
             <th scope="col">Tier</th>
             <th scope="col">High Income</th>
-            <th scope="col">Upper Midldle Income (25%)</th>
+            <th scope="col">Upper Middle Income (25%)</th>
             <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
         </tr>
     </thead>
