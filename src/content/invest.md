@@ -308,6 +308,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Johns Hopkins University
 * Kenyon College
 * Lafayette College
+* Loyola University Chicago
 * Luther College
 * Michigan State University
 * Montana State University
@@ -334,8 +335,8 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Illinois
 * University of Iowa
 * University of Kansas
-* University of Massachusetts Amherst
 * University of Maryland
+* University of Massachusetts Amherst
 * University of Minnesota
 * University of Nebraska
 * University of North Carolina Chapel Hill
@@ -344,6 +345,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Ottawa
 * University of Pennsylvania
 * University of Rhode Island
+* University of San Francisco
 * University of Toronto
 * University of Washington
 * University of Wisconsin
