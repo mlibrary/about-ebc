@@ -300,6 +300,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Drake University
 * Duke University
 * Duquesne University
+* Emory University
 * Georgia Gwinnett College
 * Grinnell College
 * Harvard University
