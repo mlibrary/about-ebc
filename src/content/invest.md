@@ -9,7 +9,7 @@ title: Invest in Open Access
 <li><a href="#purchase">How to Purchase</a></li>
 <li><a href="#how">How We Open Content</a></li>
 <li><a href="#supporters">Our Library Supporters</a></li>
-<li><a href="#partner group">Library Partner Group</a></li>
+<li><a href="#partnergroup">Library Partner Group</a></li>
 </ul>
 
 <h2 id="oa">Open Access</h2>
@@ -353,6 +353,6 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Vassar College
 * Yale University
 
-<h2 id="partner group">Library Partner Group</h2>
+<h2 id="partnergroup">Library Partner Group</h2>
 
 The University of Michigan Press is launching its Library Partner Group as part of our efforts to engage with the needs of the library community and the complexity of the open access landscape. We look forward to sharing more details about the group in February 2022. If you have questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
