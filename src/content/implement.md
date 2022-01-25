@@ -14,7 +14,7 @@ View the complete UMP EBC title list here: https://www.dropbox.com/s/wjk485gdpj2
 
 ## Implement
 
-Access to the collection is authenticated via IP address / Proxy. See our <a href="https://tools.lib.umich.edu/confluence/display/FPS/UMP+EBC#UMPEBC-EZProxyStanzas">technical documentation for more details</a>. If you are experiencing access issues, or need to update your IP addresses, please contact [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
+Access to the collection is authenticated via IP address / Proxy. See our <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC">technical documentation for more details</a>. If you are experiencing access issues, or need to update your IP addresses, please contact [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
 
 U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
 
