@@ -16,12 +16,14 @@ View the complete UMP EBC title list here: https://www.dropbox.com/s/wjk485gdpj2
 
 Access to the collection is authenticated via IP address / Proxy. See our <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC">technical documentation for more details</a>. If you are experiencing access issues, or need to update your IP addresses, please contact [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
 
-U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
-
 <table class="table table-bordered">
     <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption>
 
   <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
+
+  <caption><a class="btn btn-secondary btn-lg" href="https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0">Download Complete Title List</a></caption>
+
+U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
     <thead class="thead-light">
         <tr>
             <th scope="col">Vendor</th>
