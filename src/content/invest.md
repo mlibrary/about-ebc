@@ -61,7 +61,7 @@ Once the 2021 collection year has closed we are excited to share a thorough brea
 
 Libraries interested in supporting Fund to Mission can request a quote from LYRASIS, our sales partner, here:
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8d37544b-f9aa-e811-9416-00155da0e429=0">Request a Quote</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.lyrasis.org/content/pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429">Request a Quote</a></p>
 
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
