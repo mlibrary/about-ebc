@@ -28,11 +28,44 @@ Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-valu
 
 ### The Funding Model
 
-Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed below), libraries:
+Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed under "Investment Options"), libraries:
 
 * Support the conversion to open access of at least half (~40) of University of Michigan Press scholarly monographs in 2022. (If we realize our goal, we will expand this percentage in succeeding years.);
 * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,700 titles), which will otherwise remain closed to non-purchasers;
 * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
+
+### The Mission
+
+With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
+
+* Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
+* Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
+* Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
+* Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+* Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
+
+#### What We Do With the Money
+
+In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, and that meant that in order to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, author and funding institutions, and library investments. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
+
+Our current goal is to receive $400,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
+
+* Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
+* Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
+* Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
+* The rest of the money goes back into the program for editing, production, design work, and marketing.
+
+Once the 2021 collection year has closed we are excited to share a thorough breakdown of how the money was spent.
+
+<h2 id="purchase">How to Purchase</h2>
+
+Libraries interested in supporting Fund to Mission can request a quote from LYRASIS, our sales partner, here:
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8d37544b-f9aa-e811-9416-00155da0e429=0">Request a Quote</a></p>
+
+With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0">Complete Title List</a></p>
 
 ### Investment Options
 
@@ -218,37 +251,6 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
         </tr>
     </tbody>
 </table>
-
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0">Complete Title List</a></p>
-
-### The Mission
-
-With Fund to Mission, we are asking for shared investment in strengthening humanities and social sciences infrastructure and scholarship. Through a transparent model that fits with existing library workflows and provides unique benefits to supporters, we hope to:
-
-* Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
-* Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
-* Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-* Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
-* Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
-
-#### What We Do With the Money
-
-In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, and that meant that in order to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, author and funding institutions, and library investments. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
-
-Our current goal is to receive $400,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
-
-* Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
-* Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
-* Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
-* The rest of the money goes back into the program for editing, production, design work, and marketing.
-
-Once the 2021 collection year has closed we are excited to share a thorough breakdown of how the money was spent.
-
-<h2 id="purchase">How to Purchase</h2>
-
-Libraries interested in supporting Fund to Mission can request a quote from LYRASIS, our sales partner, here: https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8d37544b-f9aa-e811-9416-00155da0e429.
-
-With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
 
 <h2 id="how">How We Open Content</h2>
 
