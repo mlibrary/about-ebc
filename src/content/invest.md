@@ -296,6 +296,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Brock University
 * Broward College
 * Buena Vista University
+* Cardiff University
 * The Claremont Colleges
 * Colby College
 * College of Coastal Georgia
@@ -317,6 +318,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Luther College
 * Michigan State University
 * Montana State University
+* Northwest Florida State College
 * Northwestern University
 * New York University
 * The Ohio State University
@@ -337,6 +339,8 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of California Berkeley
 * University of California San Diego
 * University of Chicago
+* University of Florida
+* University of Guelph
 * University of Illinois
 * University of Iowa
 * University of Kansas
