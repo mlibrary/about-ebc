@@ -369,7 +369,7 @@ We hope to receive feedback on all aspects of the open access lifecycle, from te
 
 The group is made up of [UMP library supporters](https://ebc.press.umich.edu/invest/#supporters). The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
 
-**How the group works**  
+#### **How the group works**  
 
 With the exception of University of Michigan Press staff, the group will be limited to library staff members of supporting institutions of the University of Michigan Press Ebook collection.  
 
