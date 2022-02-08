@@ -367,7 +367,7 @@ The purpose of the Library Partner Group is to provide the University of Michiga
 
 We hope to receive feedback on all aspects of the open access lifecycle, from technical and metadata concerns to the difficulties of access and how to ensure that our approach to open access reflects our commitment to DEIA. In particular, we want to use the input from this group to continue to improve our approach to opening humanities and social sciences books with Fund to Mission.
 
-The group is made up of UMP library supporters. The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
+The group is made up of [UMP library supporters](https://ebc.press.umich.edu/invest/#supporters). The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
 
 **How the group works**  
 
