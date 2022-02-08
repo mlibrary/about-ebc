@@ -118,7 +118,7 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
 
 #### Frontlist Pricing
 
-Purchase of the restricted-access frontlist (minimum of 80 restricted access titles + 10 additional OA). Libraries will own the restricted titles in perpetuity and have term-access to the backlist through the publishing year purchased.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which will be determined based on funding, but with a goal of at least 50% per year in 2022 and 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -369,7 +369,7 @@ We hope to receive feedback on all aspects of the open access lifecycle, from te
 
 The group is made up of [UMP library supporters](https://ebc.press.umich.edu/invest/#supporters). The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
 
-#### **How the group works**  
+#### **How the group works**
 
 With the exception of University of Michigan Press staff, the group will be limited to library staff members of supporting institutions of the University of Michigan Press Ebook collection.  
 
