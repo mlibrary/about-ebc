@@ -252,8 +252,6 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     </tbody>
 </table>
 
-
-
 <h2 id="how">How We Open Content</h2>
 
 The following chart shows what percentage of titles in the University of Michigan Press Ebook Collection we aim to make open access in their respective collection years.
@@ -363,4 +361,22 @@ Those percentages mean that, at least in the near future, some monographs will b
 
 <h2 id="partnergroup">Library Partner Group</h2>
 
-The University of Michigan Press is launching its Library Partner Group as part of our efforts to engage with the needs of the library community and the complexity of the open access landscape. We look forward to sharing more details about the group in February 2022. If you have questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
+The University of Michigan Press has created a Library Partner Group as part of our efforts to engage with the needs of the library community and the complexity of the open access landscape. 
+
+The purpose of the Library Partner Group is to provide the University of Michigan Press with feedback and advice regarding product strategy and the advancement of diversity, equity, inclusion, and accessibility. We see this as a Community of Practice more than the traditional Advisory Group.
+
+We hope to receive feedback on all aspects of the open access lifecycle, from technical and metadata concerns to the difficulties of access and how to ensure that our approach to open access reflects our commitment to DEIA. In particular, we want to use the input from this group to continue to improve our approach to opening humanities and social sciences books with Fund to Mission.
+
+The group is made up of UMP library supporters. The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
+
+**How the group works**  
+
+With the exception of University of Michigan Press staff, the group will be limited to library staff members of supporting institutions of the University of Michigan Press Ebook collection.  
+
+Library Partner Group members commit to attend all meetings via Zoom. Meetings will be held twice a year. The time and date will be determined by the facilitator via Doodle Poll. Members are welcome to invite colleagues to join Partner Group meetings.
+
+Notes and a recording will be circulated by the facilitator after each call, and any members who were unable to attend a call are asked to ensure they read these and take note of any action items.
+
+The facilitator will also maintain a listserv group. The listserv will be used to communicate information about meetings and will also be used to share updates and engage with more immediate topics or questions in between the bi-annual meetings.
+
+If you have questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
