@@ -33,7 +33,7 @@ const Impact = ({data}) => {
           </Link>
         </section>
         <section>
-          <div className="readership-map">
+          <div id="readership-map" className="readership-map">
             <ReactMarkdown source={readershipMapDescription} />
             <div className="readership-map-embed">
               <iframe title="Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=132442623"></iframe>
@@ -46,7 +46,7 @@ const Impact = ({data}) => {
               <iframe title="Open Access Book Usage" className="embed-responsive-item" src="https://oaebu-u-m-press.observatory.academy/s/u-m-press/app/dashboards#/view/f6de4970-0686-11ec-a271-a937a93ef099?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2006-01-01',to:now%2B2y))&embed=true"></iframe>
             </div>
           </div>
-          <div className="google-data-studio">
+          <div id="book-usage" className="google-data-studio">
             <ReactMarkdown source={googleDataStudioDescription} />
             <div className="embed-responsive embed-responsive-1by1">
               <iframe title="All Book Usage Report" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/1fFXJLWMpoGSz_RNTDCKDroEAxjk-wRHw/page/9LCE"></iframe>
