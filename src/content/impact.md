@@ -2,13 +2,13 @@
 templateKey: impact-page
 title: Advance Social Impact
 readershipMapDescription: >-
-  <h2 id="readership-map">Readership Map</h2>
+  ## Readership Map
 
 
   The Readership Map replays every view or download of UMP EBC books or media
   components that occurred the previous four weeks.
 googleDataStudioDescription: >-
-  <h2 id="book-usage">All Book Usage</h2>
+  ## All Book Usage
 
 
   The Google Analytics report shows basic usage data from the Fulcrum platform.
