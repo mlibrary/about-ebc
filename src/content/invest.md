@@ -316,6 +316,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Luther College
 * Michigan State University
 * Montana State University
+* Mount Royal University
 * Northwest Florida State College
 * Northwestern University
 * New York University
