@@ -10,11 +10,11 @@ taglineSection:
 firstCallToActionSection:
   description: Ready to add UMP EBC to your library?
   buttonLabel: Support OA
-  buttonUrl: /invest
+  buttonUrl: 'https://ebc.press.umich.edu/invest'
 secondCallToActionSection:
   description: Learn more about how we're doing
   buttonLabel: Visualize Impact
-  buttonUrl: /impact
+  buttonUrl: 'https://ebc.press.umich.edu/impact'
 thirdCallToActionSection:
   description: Stay up to date with our latest news
   buttonLabel: Join Our List
