@@ -1,5 +1,5 @@
 import React from 'react'
-import {graphql, useStaticQuery} from 'gatsby'
+import {graphql, useStaticQuery, Link} from 'gatsby'
 
 export const titleQuery = graphql`
 {
@@ -43,14 +43,14 @@ const Footer = () => {
         <div className="row justify-content-between">
           <section className="col-md-4 contact">
             <a href="/" className="text-light logo"><img src="/assets/UMP-Logo-MASTER.svg" alt="University of Michigan Press" height="100" width="auto" className="block" /></a>
-            <small className="d-block pt-2"><a className="text-light muli text-uppercase bold" href="/contact">Contact Us</a></small>                  
+            <small className="d-block pt-2"><Link className="text-light muli text-uppercase bold" to="/contact">Contact Us</Link></small>                  
           </section>          
           <section className="col-md-2">
             <h2 className="text-light">UMP EBC</h2>
               <ul className="list-unstyled">
                 <li><a className="text-light" href="https://fulcrum.org/michigan">Browse and Search</a></li>
-                <li><a className="text-light" href="/about">About UMP EBC</a></li>
-                <li><a className="text-light" href="/impact">Impact and Usage</a></li>
+                <li><Link className="text-light" to="/about">About UMP EBC</Link></li>
+                <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
               </ul>
           </section>
           <section className="col-md-2">

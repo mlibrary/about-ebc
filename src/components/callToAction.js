@@ -1,4 +1,5 @@
 import React from "react"
+import {Link} from "gatsby"
 
 const CallToAction = ({callToAction}) => {
   return (
@@ -8,7 +9,11 @@ const CallToAction = ({callToAction}) => {
           <p>{callToAction.description}</p>
         </div>
         <div className="col-md-6 text-center">
-          <a className="btn btn-secondary" href={callToAction.buttonUrl}>{callToAction.buttonLabel}</a>
+          {
+            callToAction.buttonUrl.startsWith("/")
+            ? <Link className="btn btn-secondary" to={callToAction.buttonUrl}>{callToAction.buttonLabel}</Link>
+            : <a className="btn btn-secondary" href={callToAction.buttonUrl}>{callToAction.buttonLabel}</a>
+          }
         </div>
       </div>
     </div>

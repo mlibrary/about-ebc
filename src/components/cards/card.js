@@ -1,4 +1,5 @@
 import React from "react"
+import {Link} from "gatsby"
 // import Img from "gatsby-image"
 
 const Card = ({cardImage, card}) => {
@@ -18,7 +19,11 @@ const Card = ({cardImage, card}) => {
           <p className="card-text">{description}</p>
         </div>
         <div className="col-xs-4">
-          <a className="card-link btn btn-secondary" role="button" href={buttonUrl}>{buttonLabel}</a>
+          {
+            buttonUrl.startsWith("/")
+            ? <Link className="card-link btn btn-secondary" role="button" to={buttonUrl}>{buttonLabel}</Link>
+            : <a className="card-link btn btn-secondary" role="button" href={buttonUrl}>{buttonLabel}</a>
+          }
         </div>
       </div>
     </div>
