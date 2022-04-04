@@ -311,6 +311,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Iowa State University
 * Johns Hopkins University
 * Kenyon College
+* KU Leuven
 * Lafayette College
 * Loyola University Chicago
 * Luther College
@@ -359,6 +360,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Wisconsin
 * Vassar College
 * Yale University
+* York University 
 
 <h2 id="partnergroup">Library Partner Group</h2>
 
