@@ -87,31 +87,31 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$17,877</td>
+            <td>$17,505</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$13,407</td>
+            <td>$13,128</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$8,937</td>
+            <td>$8,752</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$4,470</td>
+            <td>$4,4377</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$2,145</td>
+            <td>$2,100</td>
         </tr>
     </tbody>
 </table>
