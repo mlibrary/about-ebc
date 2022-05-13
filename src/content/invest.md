@@ -305,6 +305,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Duquesne University
 * Emory University
 * Georgia Gwinnett College
+* George Washington University
 * Grinnell College
 * Harvard University
 * Indiana University
@@ -321,6 +322,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Northwest Florida State College
 * Northwestern University
 * New York University
+* New College of Florida
 * The Ohio State University
 * Pennsylvania State University
 * Princeton University
@@ -353,8 +355,10 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
+* University of Redlands
 * University of Rhode Island
 * University of San Francisco
+* University of Tennessee Knoxville 
 * University of Toronto
 * University of Washington
 * University of Wisconsin
