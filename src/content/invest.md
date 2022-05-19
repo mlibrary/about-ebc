@@ -332,6 +332,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Rutgers University
 * Saint Ambrose University
 * Simon Fraser University
+* Southern Methodist University
 * Stanford University
 * Syracuse University
 * Swarthmore College
@@ -380,13 +381,19 @@ Those percentages mean that, at least in the near future, some monographs will b
 * York University 
 
 
+
+
+
+
+
+
+
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
 * Ontario Council of University Libraries (OCUL) 
 * Pennsylvania Academic Library Consortium, Inc. (PALCI) 
 * Statewide California Electronic Library Consortium (SCELC) 
-
 
 <h2 id="partnergroup">Library Partner Group</h2>
 
