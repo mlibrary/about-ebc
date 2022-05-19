@@ -341,7 +341,15 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Arizona
 * University of British Columbia
 * University of California Berkeley
+* University of California Davis
+* University of California Irvine
+* University of California Los Angeles
+* University of California Merced
+* University of California Riverside
 * University of California San Diego
+* University of California San Francisco
+* University of California Santa Barbara
+* University of California Santa Cruz
 * University of Chicago
 * University of Florida
 * University of Guelph
@@ -359,6 +367,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Pennsylvania
 * University of Redlands
 * University of Rhode Island
+* University of Rochester
 * University of San Francisco
 * University of Scranton
 * University of Tennessee Knoxville 
