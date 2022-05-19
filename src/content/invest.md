@@ -379,6 +379,14 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Yale University
 * York University 
 
+* Big Ten Academic Alliance (BTAA) consortium
+* California Digital Library (CDL)
+* Central Iowa Collaborative Collections Initiative (CI-CCI) consortium
+* Ontario Council of University Libraries (OCUL) consortium
+* Pennsylvania Academic Library Consortium, Inc. (PALCI) consortium
+* Statewide California Electronic Library Consortium (SCELC) consortium
+
+
 <h2 id="partnergroup">Library Partner Group</h2>
 
 The University of Michigan Press has created a Library Partner Group as part of our efforts to engage with the needs of the library community and the complexity of the open access landscape. 
