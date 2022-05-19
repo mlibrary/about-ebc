@@ -379,12 +379,13 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Yale University
 * York University 
 
-* Big Ten Academic Alliance (BTAA) consortium
+
+* Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
-* Central Iowa Collaborative Collections Initiative (CI-CCI) consortium
-* Ontario Council of University Libraries (OCUL) consortium
-* Pennsylvania Academic Library Consortium, Inc. (PALCI) consortium
-* Statewide California Electronic Library Consortium (SCELC) consortium
+* Central Iowa Collaborative Collections Initiative (CI-CCI) 
+* Ontario Council of University Libraries (OCUL) 
+* Pennsylvania Academic Library Consortium, Inc. (PALCI) 
+* Statewide California Electronic Library Consortium (SCELC) 
 
 
 <h2 id="partnergroup">Library Partner Group</h2>
