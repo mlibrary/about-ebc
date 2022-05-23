@@ -317,6 +317,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Lafayette College
 * Loyola University Chicago
 * Luther College
+* Macalester College
 * Michigan State University
 * Montana State University
 * Mount Royal University
@@ -379,15 +380,6 @@ Those percentages mean that, at least in the near future, some monographs will b
 * West Virginia University
 * Yale University
 * York University 
-
-
-
-
-
-
-
-
-
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
