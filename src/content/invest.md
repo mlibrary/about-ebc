@@ -299,6 +299,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Colby College
 * College of Coastal Georgia
 * Columbia University
+* Cornell University
 * Denison University
 * Drake University
 * Duke University
