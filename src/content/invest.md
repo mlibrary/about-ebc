@@ -387,7 +387,8 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Vassar College
 * West Virginia University
 * Yale University
-*
+
+
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
