@@ -295,7 +295,6 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Broward College
 * Buena Vista University
 * Cardiff University
-* The Claremont Colleges
 * Colby College
 * College of Coastal Georgia
 * Columbia University
@@ -305,11 +304,11 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Duke University
 * Duquesne University
 * Emory University
-* Georgia Gwinnett College
 * George Washington University
+* Georgia Gwinnett College
 * Grinnell College
-* Haverford College
 * Harvard University
+* Haverford College
 * Indiana University
 * Iowa State University
 * Johns Hopkins University
@@ -322,11 +321,12 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Michigan State University
 * Montana State University
 * Mount Royal University
+* New College of Florida
+* Northeastern University
 * Northwest Florida State College
 * Northwestern University
-* New York University
-* New College of Florida
-* The Ohio State University
+* NYU
+* Occidental College
 * Pennsylvania State University
 * Princeton University
 * Purdue University
@@ -336,10 +336,14 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Simon Fraser University
 * Southern Methodist University
 * Stanford University
-* Syracuse University
 * Swarthmore College
+* Syracuse University
 * Temple University
+* The Claremont Colleges Library
+* The Ohio State University
 * Trent University
+* UNC Chapel Hill
+* UNC Greensboro
 * University of Alberta
 * University of Arizona
 * University of British Columbia
@@ -354,17 +358,16 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of California Santa Barbara
 * University of California Santa Cruz
 * University of Chicago
+* University College London
 * University of Florida
 * University of Guelph
 * University of Illinois
 * University of Iowa
 * University of Kansas
 * University of Maryland
-* University of Massachusetts Amherst
+* University of Massachusetts, Amherst
 * University of Minnesota
 * University of Nebraska
-* University of North Carolina Chapel Hill
-* University of North Carolina Greensboro
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
@@ -373,14 +376,18 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Rochester
 * University of San Francisco
 * University of Scranton
-* University of Tennessee Knoxville 
+* University of Sheffield
+* University of Tennessee Knoxville
+* University of Texas Austin
 * University of Toronto
+* University of Utah
 * University of Washington
 * University of Wisconsin
+* University of York
 * Vassar College
 * West Virginia University
 * Yale University
-* York University 
+*
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
