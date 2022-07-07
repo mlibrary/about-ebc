@@ -293,6 +293,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Bowdoin College
 * Brock University
 * Broward College
+* Bucknell University
 * Buena Vista University
 * Cardiff University
 * Colby College
@@ -304,8 +305,10 @@ Those percentages mean that, at least in the near future, some monographs will b
 * Duke University
 * Duquesne University
 * Emory University
+* Franklin & Marshall College
 * George Washington University
 * Georgia Gwinnett College
+* Gettysburg College
 * Grinnell College
 * Harvard University
 * Haverford College
@@ -385,10 +388,9 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Wisconsin
 * University of York
 * Vassar College
+* Washington & Jefferson College
 * West Virginia University
 * Yale University
-
-
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
