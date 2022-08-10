@@ -32,8 +32,8 @@ if (process.env.BRANCH === "preview") {
         name: 'gitlab',
         repo: 'michigan-publishing/about-ebc',
         branch: 'master',
-        auth_type: 'implicit',
-        app_id: '60532e95a86f6c52febcb09273cf306ea5439e2bb1cb30bfc33e46810131798b',
+        auth_type: 'pkce',
+        app_id: 'e4b04eff05cb0b43b098d621936c4a168b0159980b5b1a5196f54eaf23bb254e',
         api_root: 'https://gitlab.umich.edu/api/v4',
         base_url: 'https://gitlab.umich.edu',
         auth_endpoint: 'oauth/authorize'
