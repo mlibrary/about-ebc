@@ -30,8 +30,8 @@ Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-valu
 
 Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed under "Investment Options"), libraries:
 
-* Support the conversion to open access of at least half (~40) of University of Michigan Press scholarly monographs in 2022. (If we realize our goal, we will expand this percentage in succeeding years.);
-* Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~1,700 titles), which will otherwise remain closed to non-purchasers;
+* Support the conversion to 75% (~60) of University of Michigan Press scholarly monographs in 2023. (If we realize our goal, we will expand this percentage in succeeding years.);
+* Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~2,000 titles), which will otherwise remain closed to non-purchasers;
 * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
 
 ### The Mission
@@ -55,7 +55,7 @@ Our current goal is to receive $400,000 in continuing support from libraries for
 * Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
 * The rest of the money goes back into the program for editing, production, design work, and marketing.
 
-Once the 2021 collection year has closed we are excited to share a thorough breakdown of how the money was spent.
+We share a thorough breakdown of how the money was spent with our Library Partner Group.
 
 <h2 id="purchase">How to Purchase</h2>
 
@@ -87,38 +87,38 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$17,505</td>
+            <td>$17,778</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$13,128</td>
+            <td>$13,333</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$8,752</td>
+            <td>$8,888</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$4,4377</td>
+            <td>$4,445</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$2,100</td>
+            <td>$2,133</td>
         </tr>
     </tbody>
 </table>
 
 #### Frontlist Pricing
 
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which will be determined based on funding, but with a goal of at least 50% per year in 2022 and 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which will be determined based on funding. 50% was achieved in 2022 and 75% is the goal for 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -134,31 +134,31 @@ Purchase of the individual frontlist year (minimum of 80 titles, the OA percenta
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$5,959</td>
+            <td>$6,108</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$4,469</td>
+            <td>$4,581</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$2,979</td>
+            <td>$3,053</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$1,490</td>
+            <td>$1,527</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$715</td>
+            <td>$733</td>
         </tr>
     </tbody>
 </table>
@@ -226,28 +226,28 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     <tbody>
        <tr>
             <th scope="row">Doctoral</th>
-            <td>$5,959</td>
-            <td>$4,469</td>
-            <td>$2,980</td><td>$1,490</td>
+            <td>$6,108</td>
+            <td>$4,581</td>
+            <td>$3,055</td><td>$1,527</td>
         </tr>
          <tr>
             <th scope="row">Master's</th>
-            <td>$4,469</td>
-            <td>$3,352</td>
-            <td>$2,235</td><td>$1,117</td>
+            <td>$4,581</td>
+            <td>$3,346</td>
+            <td>$2,291</td><td>$1,145</td>
         </tr>
         <tr>
             <th scope="row">Baccalaureate</th>
-            <td>$1,490</td>
-            <td>$1,118</td>
-            <td>$745</td><td>$373</td>
+            <td>$1,527</td>
+            <td>$1,146</td>
+            <td>$764</td><td>$382</td>
         </tr>
         <tr>
             <th scope="row">Associates</th>
-            <td>$715</td>
-            <td>$536</td>
-            <td>$358</td>    
-            <td>$179</td>
+            <td>$733</td>
+            <td>$549</td>
+            <td>$367</td>    
+            <td>$183</td>
         </tr>
     </tbody>
 </table>
@@ -345,6 +345,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * The Claremont Colleges Library
 * The Ohio State University
 * Trent University
+* University College London
 * UNC Chapel Hill
 * UNC Greensboro
 * University of Alberta
@@ -382,6 +383,7 @@ Those percentages mean that, at least in the near future, some monographs will b
 * University of Sheffield
 * University of Tennessee Knoxville
 * University of Texas Austin
+* University of Texas San Antonio
 * University of Toronto
 * University of Utah
 * University of Washington
