@@ -14,23 +14,23 @@ title: Invest in Open Access
 
 <h2 id="oa">Open Access</h2>
 
-In the humanities, the monograph acts as the lab where scholars experiment and engage with other thinkers. Despite the valuable ideas emerging from these fields, the academic community has struggled to find sustainable ways to make humanities monographs open access. Grant money and other funding is often less available to these scholars than to their counterparts in the sciences. As a result, the academic and publishing communities have had to explore new ways to make the turn to open. Fund to Mission from the University of Michigan Press is one such project to open up the best humanities scholarship to the global community.
+In the humanities, the monograph acts as the lab where scholars experiment and engage with other thinkers. Despite the valuable ideas emerging from these fields, the academic community has struggled to find sustainable ways to make humanities monographs open access. Grant money and other funding are often less available to these scholars than to their counterparts in the sciences. As a result, the academic and publishing communities have had to explore new ways to make the turn to open. Fund to Mission from the University of Michigan Press is one such project to open up the best humanities scholarship to the global community.
 
 The endeavor of opening humanities content to the world is a vital one. As the core places where work in these fields is done, monographs have the potential to be spaces that inspire dialogues and connections. When monographs exist only behind paywalls, there is less of an opportunity for global collaborations to happen. However, when these monographs become open access, new opportunities for interdisciplinary exchange emerge.
 
-The University of Michigan Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen the humanities.
+The University of Michigan Press has moved towards open access for its monographs precisely to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen the humanities.
 
 <h2 id="model">Overview of Fund to Mission Open Access Model</h2>
 
-Working with LYRASIS, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open access monograph model termed Fund to Mission. 
+Working with LYRASIS, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open-access monograph model termed Fund to Mission. 
 
-Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert at least 75% of U-M Press monographs to open access by the end of 2023, <b>without any author ever having to pay</b>.
+Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.
 
 ### The Funding Model
 
 Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed under "Investment Options"), libraries:
 
-* Support the conversion to 75% (~60) of University of Michigan Press scholarly monographs in 2023. (If we realize our goal, we will expand this percentage in succeeding years.);
+* Support the conversion to 75% (~60) of University of Michigan Press scholarly monographs in 2023;
 * Receive perpetual access to the remaining restricted frontlist titles and term access to the backlist (~2,000 titles), which will otherwise remain closed to non-purchasers;
 * Support authors’ ability to publish innovative, digital scholarship leveraging the next-generation, open-source Fulcrum platform.
 
@@ -46,7 +46,7 @@ With Fund to Mission, we are asking for shared investment in strengthening human
 
 #### What We Do With the Money
 
-In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, and that meant that in order to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, author and funding institutions, and library investments. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
+In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, which meant that to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, library investments, and authors' funding supporters. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
 
 Our current goal is to receive $400,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
 
@@ -55,7 +55,7 @@ Our current goal is to receive $400,000 in continuing support from libraries for
 * Because some monographs in the collection remain restricted access, royalties must be paid on those titles.
 * The rest of the money goes back into the program for editing, production, design work, and marketing.
 
-We share a thorough breakdown of how the money was spent with our Library Partner Group.
+We share a regular breakdown of how the money was spent with our Library Partner Group.
 
 <h2 id="purchase">How to Purchase</h2>
 
@@ -71,7 +71,7 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 #### 2021-2023 Transitional Collection
 
-Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of which will be determined based on funding, but with a goal of at least 50% per year in 2022 and 2023). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through 2023.
+Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of which increases over the years). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through 2023.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -116,9 +116,9 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
     </tbody>
 </table>
 
-#### Frontlist Pricing
+#### Frontlist 2023 Pricing
 
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which will be determined based on funding. 50% was achieved in 2022 and 75% is the goal for 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -165,7 +165,7 @@ Purchase of the individual frontlist year (minimum of 80 titles, the OA percenta
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2020) with term access to the growing archive of pre-2012 titles.
+Upfront perpetual purchase of the current complete backlist (years 2012-2021) with term access to the growing archive of pre-2012 titles.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -266,16 +266,16 @@ The following chart shows what percentage of titles in the University of Michiga
     <tbody>
     <tr>
             <td>2021 Collection</td>
-            <td>20%</td>
+            <td>20% - achieved</td>
         </tr>
         <tr>
             <td>2022 Collection</td>
-            <td>50%</td>
+            <td>50% - achieved</td>
         </tr>        
 
 <tr>
             <td>2023 Collection</td>
-            <td>75%</td>
+            <td>75% - targeted</td>
         </tr>
    </tbody>
 </table>
