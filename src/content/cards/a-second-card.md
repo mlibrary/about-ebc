@@ -2,7 +2,7 @@
 templateKey: card
 title: Our Books
 description: The University of Michigan Press Ebook Collection contains
-  thousands of the finest humanities and social sciences monographs.
+  award-winning humanities and social sciences monographs.
 buttonLabel: Explore Collection
 buttonUrl: https://www.fulcrum.org/michigan/
 cardImage: assets/award-winners-website-banner.jpg
