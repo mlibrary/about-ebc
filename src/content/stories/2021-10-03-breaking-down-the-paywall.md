@@ -1,14 +1,12 @@
 ---
 templateKey: story
-title: 'Breaking Down the Paywall: Author Relationships with Open Access'
-summary: >-
-  UMP authors discuss the impact of Open Access on their
-  scholarship and on the way they view diversity, equity, and inclusion in their
-  fields.
+title: "Breaking Down the Paywall: Author Relationships with Open Access"
+summary: UMP authors discuss the impact of Open Access on their scholarship and
+  on the way they view diversity, equity, and inclusion in their fields.
 storyImage: assets/susan-q-yin-2jivbogleho-unsplash.jpg
 date: 2021-10-03T18:55:26.820Z
 ---
-This year marks the 50th anniversary of when Michael Hart digitized the Declaration of Independence, creating what is [commonly considered the first ebook](https://www.theguardian.com/books/2011/sep/08/michael-hart-inventor-ebook-dies). Since then, innovation in the realm of digital publishing has only accelerated. Optimizing scholarship for the digital age has resulted in the creation of new formats of publishable materials; emphasized the importance of accessible websites, articles, and books; and has resulted in more people, in more places, having access to more content.
+The year 2021 marked the 50th anniversary of when Michael Hart digitized the Declaration of Independence, creating what is [commonly considered the first ebook](https://www.theguardian.com/books/2011/sep/08/michael-hart-inventor-ebook-dies). Since then, innovation in the realm of digital publishing has only accelerated. Optimizing scholarship for the digital age has resulted in the creation of new formats of publishable materials; emphasized the importance of accessible websites, articles, and books; and has resulted in more people, in more places, having access to more content.
 
 But the increase in digital scholarship has brought its own pitfalls: many libraries can’t afford to adopt collections for their institutions. International paywalls reduce the amount of scholarship going out to global scholarly communities. In reaction, there has been a push towards more inclusive publishing initiatives. University presses have led the charge with the growth of their free-to-read programs and experiments in funding open access monographs. For example, with the launch of its [Fund to Mission program](https://www.publishing.umich.edu/features/fund-to-mission), the University of Michigan Press seeks to make the majority of its new monographs open access by 2023. Though the program is still in its early stages, our Spring 2022 catalog shows that more than half of the authors have chosen to make their scholarly UMP titles open access.
 
