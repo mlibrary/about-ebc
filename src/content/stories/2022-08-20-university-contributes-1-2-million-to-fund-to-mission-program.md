@@ -1,6 +1,6 @@
 ---
 templateKey: story
-title: University of Michigan Contributes $1.2 million to support university
+title: University of Michigan contributes $1.2 million to support university
   press infrastructure for the humanities
 summary: U-M Press Fund to Mission initiative receives substantial commitment
   from the University's academic leadership.
