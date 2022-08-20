@@ -4,7 +4,8 @@ title: "NEH program expands global access to high-quality humanities scholarship
   by US scholars "
 summary: The Fellowships Open Book Program is just one of the ways in which the
   National Endowment for the Humanities is supporting open access for books in
-  the humanities
+  the humanities. Authors of books published by University of Michigan Press are
+  among the beneficiaries.
 storyImage: assets/neh-preferred-seal820.jpg
 date: 2022-08-20T19:52:53.198Z
 ---
