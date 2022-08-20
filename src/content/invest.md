@@ -41,7 +41,7 @@ With Fund to Mission, we are asking for shared investment in strengthening human
 * Expand inclusive, equitable access to high-quality humanities and qualitative social science scholarship for diverse, global audiences;
 * Increase the number of accessible, open learning resources for students that are instantly available, downloadable, and free of DRM restrictions;
 * Expand the demonstrated opportunity for increased visibility and impact that open access provides to all authors, without the inequities of “pay to publish”;
-* Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content and collections;
+* Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content;
 * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
 
 #### What We Do With the Money
@@ -285,7 +285,8 @@ Those percentages mean that, at least in the near future, some monographs will b
 * When determining whether or not a title will be open access we first appraise the potential impact of the scholarship and the benefit to broader society of making it widely and freely available. Issues regarding diversity, equity, inclusion, and accessibility are cornerstones in our strategic mission and play a role in our decision-making process. We also use our knowledge of the subject area of a given title. How friendly is the field to open access? Will publishing the title open access make it ineligible for the major reviews and awards in the field?
 * Our next step involves having a conversation with the author. We share information about how making monographs open access increases their readership and impact globally, and we discuss concerns the author may have, including their own perception of OA in their field, whether or not tenure standards at their institution consider OA material to be qualifying scholarly contributions, their relationship to royalties, and numerous other factors.
 * If we think that a title is a good candidate for open access and the author agrees with us, then we move forward with our standard monograph peer review, editorial, production, and marketing processes. We believe that opening scholarship does not mean decreasing publication standards. Rather, open access is simply a different, more equitable, funding model that deepens global conversations and enables monographs to have a larger impact.
-* By opening our content and showing that monographs increase their usage, reach, and accolades by being open, we hope to encourage more scholars to pursue open access scholarship in the future.
+
+By opening our content and showing that monographs increase their usage, reach, and accolades by being open, we hope to encourage more scholars to pursue open access scholarship in the future.
 
 <h2 id="supporters">Our Library Supporters</h2>
 
@@ -408,13 +409,13 @@ The purpose of the Library Partner Group is to provide the University of Michiga
 
 We hope to receive feedback on all aspects of the open access lifecycle, from technical and metadata concerns to the difficulties of access and how to ensure that our approach to open access reflects our commitment to DEIA. In particular, we want to use the input from this group to continue to improve our approach to opening humanities and social sciences books with Fund to Mission.
 
-The group is made up of [UMP library supporters](https://ebc.press.umich.edu/invest/#supporters). The Library Partner Group is led by Emma Vecellio, Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
+The group is made up of [UMP library supporters](https://ebc.press.umich.edu/invest/#supporters). The Library Partner Group is led by the Library Relations Manager for U-M Press, who maintains the group email listserv, develops meeting agendas, leads discussions, and outlines group action items in an effort to help drive development. 
 
 #### **How the group works**
 
 With the exception of University of Michigan Press staff, the group will be limited to library staff members of supporting institutions of the University of Michigan Press Ebook collection.  
 
-Library Partner Group members commit to attend all meetings via Zoom. Meetings will be held twice a year. The time and date will be determined by the facilitator via Doodle Poll. Members are welcome to invite colleagues to join Partner Group meetings.
+Library Partner Group members commit to attending as many meetings as possible, via Zoom. Meetings will be held twice a year. The time and date will be determined by the facilitator via Doodle Poll. Members are welcome to invite colleagues to join Partner Group meetings.
 
 Notes and a recording will be circulated by the facilitator after each call, and any members who were unable to attend a call are asked to ensure they read these and take note of any action items.
 
