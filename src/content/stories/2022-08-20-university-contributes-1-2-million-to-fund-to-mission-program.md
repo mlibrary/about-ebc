@@ -1,8 +1,9 @@
 ---
 templateKey: story
-title: University Contributes $1.2 million to Fund to Mission Program
-summary: Supporting the infrastructure for humanities scholarship is a core
-  commitment for the University of Michigan's academic leadership.
+title: University Contributes $1.2 million to support publishing infrastructure
+  for the humanities
+summary: U-M Press Fund to Mission initiative receives substantial commitment
+  from the University's academic leadership.
 storyImage: assets/image-resilient-infrastructure.jpg
 date: 2022-08-20T19:22:41.778Z
 ---
