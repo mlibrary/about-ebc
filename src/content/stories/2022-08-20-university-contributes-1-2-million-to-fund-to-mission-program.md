@@ -5,7 +5,7 @@ title: University of Michigan contributes $1.2 million to support university
 summary: U-M Press Fund to Mission initiative receives substantial commitment
   from the University's academic leadership.
 storyImage: assets/image-resilient-infrastructure.jpg
-date: 2022-08-20T19:22:41.778Z
+date: 2022-08-21T00:41:38.790Z
 ---
 In her Budget Letter for the 2023 Financial Year, Provost McCauley committed an extra $400,000 to the University of Michigan Press to support the transition to open access for the Press's scholarly monograph program, an initiative known as Fund to Mission. In the June 30, 2022, message she wrote:
 
