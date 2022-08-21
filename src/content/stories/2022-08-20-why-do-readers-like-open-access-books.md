@@ -7,9 +7,9 @@ summary: It may seem obvious. A free ebook, instantly readable and downloadable.
 storyImage: assets/low-income-institutions.jpg
 date: 2022-08-20T23:41:26.040Z
 ---
-They come from all around the world, with a majority of individual readers from outside North America. Every day, hundreds of individual readers access University of Michigan Press open-access books and receive a gentle prompt - please fill in a few details to tell us why you were interested in this book. The request quickly disappears, but many readers - grateful for a free ebook - are happy to respond.
+They come from all around the world, with a majority of individual readers from outside North America. Every day, hundreds of individual readers access University of Michigan Press open-access books and receive a gentle prompt - "please fill in a few details to tell us why you were interested in this book." The request quickly disappears, but many readers - grateful for a free ebook - are happy to respond.
 
-Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum open-source platform, we've identified five key groups that benefit from open-access books:
+Based on an analysis of over 5,000 of these responses, recorded on our [Fulcrum open-source platform](https://www.fulcrum.org/), we've identified five key groups that benefit from open-access books:
 
 * International readers in low-income countries
 
@@ -56,3 +56,5 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
   * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community."
   * "Thank you for making this book open access so that more people can read it. I've seen how the pandemic is affecting people with chronic illness or disability and I've been trying to share resources to help people become more understanding and inclusive."
+
+University of Michigan Press[ is able to make so many books open access](https://www.fulcrum.org/michigan?locale=en&user_access=oa) because of [the Fund to Mission program that brings together visionary libraries and other funders with matching support from the University of Michigan ](https://ebc.press.umich.edu/invest)to enable authors to publish their books free online without requiring them to pay the publishing costs.
