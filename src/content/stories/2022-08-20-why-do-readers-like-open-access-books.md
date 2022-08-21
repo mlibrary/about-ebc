@@ -30,6 +30,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I learned about this book because my college is actively researching alternatives to print books, because of the expense to students."
   * "Makes it a lot easier to get my materials for classes when they're available this way. Thanks."
   * "As an academic: The university where I teach is trying to use open source materials wherever possible to keep costs low for our students, and this is a book I am especially excited to find in open source!"
+  * "I'm a returning (old) student of modest means. My Community College is good, but I sometimes get frustrated trying to find useful/pertinent/interesting content if it is not recommended by an instructor. Visiting university sites that allow open access is one way to separate the wheat from the chaff! (See? I even write old! Ha!)."
 * Interested lay readers
 
   * "I read purely for my own pleasure, and thank you for making these texts freely available."
