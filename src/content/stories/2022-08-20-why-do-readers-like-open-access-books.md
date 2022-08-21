@@ -32,7 +32,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "Makes it a lot easier to get my materials for classes when they're available this way. Thanks."
   * "As an academic: The university where I teach is trying to use open source materials wherever possible to keep costs low for our students, and this is a book I am especially excited to find in open source!"
   * "I'm a returning (old) student of modest means. My Community College is good, but I sometimes get frustrated trying to find useful/pertinent/interesting content if it is not recommended by an instructor. Visiting university sites that allow open access is one way to separate the wheat from the chaff! (See? I even write old! Ha!)."
-* Interested lay readers
+* Interested lay readers, especially retirees
 
   * "I read purely for my own pleasure, and thank you for making these texts freely available."
   * "I am a retired Italian university librarian, and I write articles on Wikipedia to share my knowledge. The open-access documentation is precious, thank you!!"
@@ -40,6 +40,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I am a senior citizen still in full-time employment. I enjoy learning."
   * "OA improves the quality of my life as a retiree who likes to read academic books."
   * "Self-teaching myself Chinese and Chinese history because of a recently acquired obsession with Chinese drama."
+  * "I just want to say "Thank You!" for making this available for free. I'm a retiree on a fixed income, so things like this are really helpful. I'm really looking forward to reading it."
 * Independent or loosely-affiliated scholars
 
   * "I'm an independent researcher, and using a public library's open-source archive to find this resource."
@@ -47,6 +48,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I am a video and performance artist who is in an out of academia, and wanting to stay engaged with the conversation(s)."
   * "I am just very grateful that this book is available open access as my university's library is very under-resourced."
   * "I'm precarious faculty and I don't have a budget for buying books, so open access books are so helpful for my research."
+  * "I would love if your generous open access policy was better known! As someone who left academia, one of the things I miss most is university library access."
 * Advocates
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
