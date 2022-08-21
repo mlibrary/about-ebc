@@ -20,7 +20,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I"m a research scholar of English literature from India. I'm thankful to the publishers and authors for this open access ebook because many books are not available globally or are too expensive."
   * "As a scholar in Mexico, I often do not have ready access to up-to-date Mexicanist scholarship in English; our university libraries have little budget for purchases or subscriptions, and personal orders often come with high shipping costs. I do make purchases, but open access materials are a great resource for scholars working across borders of all kinds."
   * "I am from Suriname, the Southern part of the World. Buying books is difficult because of costs and postal services. I think more scholarly books should be accessible to us researchers from the south."
-* Students
+* Cash-strapped students, and those who care about them
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
   * "Open Access books are so helpful for me, an online graduate student who also has a disability. I can't always get to the library, so having access to books online is so helpful."
@@ -29,6 +29,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I am extremely grateful for making this available online. For research students like me who do not have easy access to foreign publications and are not able to afford those with our limited scholarships, this is a huge help."
   * "I learned about this book because my college is actively researching alternatives to print books, because of the expense to students."
   * "Makes it a lot easier to get my materials for classes when they're available this way. Thanks."
+  * "As an academic: The university where I teach is trying to use open source materials wherever possible to keep costs low for our students, and this is a book I am especially excited to find in open source!"
 * Interested lay readers
 
   * "I read purely for my own pleasure, and thank you for making these texts freely available."
