@@ -1,6 +1,6 @@
 ---
 templateKey: story
-title: "Breaking Down the Paywall: Author Relationships with Open Access"
+title: "Breaking down the paywall: Author relationships with open access"
 summary: UMP authors discuss the impact of Open Access on their scholarship and
   on the way they view diversity, equity, and inclusion in their fields.
 storyImage: assets/susan-q-yin-2jivbogleho-unsplash.jpg
