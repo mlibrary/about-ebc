@@ -20,6 +20,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I"m a research scholar of English literature from India. I'm thankful to the publishers and authors for this open access ebook because many books are not available globally or are too expensive."
   * "As a scholar in Mexico, I often do not have ready access to up-to-date Mexicanist scholarship in English; our university libraries have little budget for purchases or subscriptions, and personal orders often come with high shipping costs. I do make purchases, but open access materials are a great resource for scholars working across borders of all kinds."
   * "I am from Suriname, the Southern part of the World. Buying books is difficult because of costs and postal services. I think more scholarly books should be accessible to us researchers from the south."
+  * "I work in Turkey and especially at this moment it is very hard for people here to buy books coming from outside of the country due to currency devaluation. The same is true for the universities. So, it is such a blessing for us to have access to free, high-quality materials like this one. Thank you!"
 * Cash-strapped students, and those who care about them
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
@@ -45,6 +46,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I´m a retired college professor continuing to do research at a location with a VERY small library and limited inter-library loan facilities for actual books."
   * "I am a video and performance artist who is in an out of academia, and wanting to stay engaged with the conversation(s)."
   * "I am just very grateful that this book is available open access as my university's library is very under-resourced."
+  * "I'm precarious faculty and I don't have a budget for buying books, so open access books are so helpful for my research."
 * Advocates
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
