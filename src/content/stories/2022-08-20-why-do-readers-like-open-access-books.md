@@ -41,7 +41,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "OA improves the quality of my life as a retiree who likes to read academic books."
   * "Self-teaching myself Chinese and Chinese history because of a recently acquired obsession with Chinese drama."
   * "I just want to say "Thank You!" for making this available for free. I'm a retiree on a fixed income, so things like this are really helpful. I'm really looking forward to reading it."
-* Independent or loosely-affiliated scholars
+* Independent, resource-starved, and loosely-affiliated scholars
 
   * "I'm an independent researcher, and using a public library's open-source archive to find this resource."
   * "I´m a retired college professor continuing to do research at a location with a VERY small library and limited inter-library loan facilities for actual books."
@@ -50,6 +50,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I'm precarious faculty and I don't have a budget for buying books, so open access books are so helpful for my research."
   * "I would love if your generous open access policy was better known! As someone who left academia, one of the things I miss most is university library access."
   * "I this this open access platform is brilliant because so many people want to read these publications but can't due to lack of funds. The number one thing that I miss from college is reading academic journals and other college books via my alma mater library's paid subscriptions. I hope your platform continues to expand!"
+  * "Access to works such as this one is a lifesaver for scholars who, as I do, work in a large public institution with low funding and a heavy teaching load. Thank you."
 * Advocates
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
