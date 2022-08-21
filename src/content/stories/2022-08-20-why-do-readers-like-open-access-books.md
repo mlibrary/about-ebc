@@ -11,11 +11,14 @@ They come from all around the world, with a majority of individual readers from 
 
 Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum open-source platform, we've identified five key groups that benefit from open-access books:
 
-* International readers in low income countries
+* International readers in low-income countries
 
-  * "I'm lucky to have access to university library, but in a low income country. Thanks for OA."
-  * "OA books are very helpful, especially for the philosophers from Ukraine, who have a very small possibilities to buy new literature and to work on the modern level."ers of assistive technology
+  * "I'm lucky to have access to a university library, but in a low-income country. Thanks for OA."
+  * "OA books are very helpful, especially for the philosophers from Ukraine, who have few possibilities to buy new literature and to work on the modern level."
   * "As a scholar from the global south where access to scholarly literature is limited, this is a welcome gift."
+  * "I'm from Algeria and, unfortunately, there is a lack of academic resources."
+  * "I"m a research scholar of English literature from India. I'm thankful to the publishers and authors for this open access ebook because many books are not available globally or are too expensive."
+  * "As a scholar in Mexico, I often do not have ready access to up-to-date Mexicanist scholarship in English; our university libraries have little budget for purchases or subscriptions, and personal orders often come with high shipping costs. I do make purchases, but open access materials are a great resource for scholars working across borders of all kinds."
 * Students
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
