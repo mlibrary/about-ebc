@@ -22,8 +22,11 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
 * Students
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
-  * "Open Access books are so helpful for me, an online graduate student, who also has a disability. I can't always get to the library so having access to books online is so helpful."
+  * "Open Access books are so helpful for me, an online graduate student who also has a disability. I can't always get to the library, so having access to books online is so helpful."
   * "It was really nice of you to make it so easily accessible. It really helps out poor students."
+  * "Thank you for giving this for free! Really helps me as a student in the course because I can’t really afford to buy copies of books as a student."
+  * "I am extremely grateful for making this available online. For research students like me who do not have easy access to foreign publications and are not able to afford those with our limited scholarships, this is a huge help."
+  * "I learned about this book because my college is actively researching alternatives to print books, because of the expense to students."
 * Interested lay readers
 
   * "I read purely for my own pleasure and thank you for making these texts freely available."
