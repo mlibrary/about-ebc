@@ -3,7 +3,8 @@ templateKey: story
 title: Why do readers like open access books?
 summary: It may seem obvious. A free ebook, instantly readable and downloadable.
   What's *not* to like? However, an analysis of over 5,000 responses from
-  readers of Michigan open access books reveals some interesting patterns.
+  readers of Michigan open access books reveals some interesting patterns about
+  who the primary beneficiaries of open-access ebooks are..
 storyImage: assets/low-income-institutions.jpg
 date: 2022-08-20T23:41:26.040Z
 ---
