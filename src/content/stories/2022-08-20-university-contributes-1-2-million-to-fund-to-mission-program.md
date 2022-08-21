@@ -2,8 +2,10 @@
 templateKey: story
 title: University of Michigan contributes $1.2 million to support university
   press infrastructure for the humanities
-summary: U-M Press Fund to Mission initiative receives substantial commitment
-  from the University's academic leadership.
+summary: U-M Press Fund to Mission initiative receives a substantial commitment
+  from the University's academic leadership. "Ensuring a sustainable future for
+  high-quality scholarly publishing cannot just be the responsibility of
+  strained library budgets," says Vice Provost.
 storyImage: assets/image-resilient-infrastructure.jpg
 date: 2022-08-21T00:41:38.790Z
 ---
