@@ -29,8 +29,17 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I learned about this book because my college is actively researching alternatives to print books, because of the expense to students."
 * Interested lay readers
 
-  * "I read purely for my own pleasure and thank you for making these texts freely available."
-  * "I am a retired Italian university librarian and I write articles on wikipedia to share my knowledge, the open access documentation is precious, thank you!!"
+  * "I read purely for my own pleasure, and thank you for making these texts freely available."
+  * "I am a retired Italian university librarian, and I write articles on Wikipedia to share my knowledge. The open-access documentation is precious, thank you!!"
+  * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community." 
+  * "I am a senior citizen still in full-time employment. I enjoy learning."
 * Independent or loosely-affiliated scholars
 
-  * "I'm an independent researcher, and using a public library's open source archive to find this resource."
+  * "I'm an independent researcher, and using a public library's open-source archive to find this resource."
+  * "I´m a retired college professor continuing to do research at a location with a VERY small library and limited inter-library loan facilities for actual books."
+  * "I am a video and performance artist who is in an out of academia, and wanting to stay engaged with the conversation(s)."
+  * "I am just very grateful that this book is available open access as my university's library is very under-resourced."
+* Advocates
+
+  * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
+  * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community."
