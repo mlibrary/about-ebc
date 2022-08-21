@@ -1,7 +1,7 @@
 ---
 templateKey: story
-title: What Happens When Ebooks are Free-to-Read? Reflecting on UMP's COVID-19
-  Response
+title: What happens when ebooks are free-to-read? Reflecting on UMP's COVID-19
+  response
 summary: In March 2020, faculty and students suddenly had to start working
   remotely as the COVID-19 pandemic spread. An experiment in making its entire
   ebook collection freely available sowed the seeds for University of Michigan
