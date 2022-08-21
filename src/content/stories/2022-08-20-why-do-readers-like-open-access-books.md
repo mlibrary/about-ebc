@@ -22,6 +22,8 @@ Based on an analysis of over 5,000 of these responses, recorded on our [Fulcrum 
   * "As a scholar in Mexico, I often do not have ready access to up-to-date Mexicanist scholarship in English; our university libraries have little budget for purchases or subscriptions, and personal orders often come with high shipping costs. I do make purchases, but open access materials are a great resource for scholars working across borders of all kinds."
   * "I am from Suriname, the Southern part of the World. Buying books is difficult because of costs and postal services. I think more scholarly books should be accessible to us researchers from the south."
   * "I work in Turkey and especially at this moment it is very hard for people here to buy books coming from outside of the country due to currency devaluation. The same is true for the universities. So, it is such a blessing for us to have access to free, high-quality materials like this one. Thank you!"
+
+
 * Cash-strapped students, and those who care about them
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
@@ -33,6 +35,8 @@ Based on an analysis of over 5,000 of these responses, recorded on our [Fulcrum 
   * "Makes it a lot easier to get my materials for classes when they're available this way. Thanks."
   * "As an academic: The university where I teach is trying to use open source materials wherever possible to keep costs low for our students, and this is a book I am especially excited to find in open source!"
   * "I'm a returning (old) student of modest means. My Community College is good, but I sometimes get frustrated trying to find useful/pertinent/interesting content if it is not recommended by an instructor. Visiting university sites that allow open access is one way to separate the wheat from the chaff! (See? I even write old! Ha!)."
+
+
 * Interested lay readers, especially retirees
 
   * "I read purely for my own pleasure, and thank you for making these texts freely available."
@@ -42,6 +46,8 @@ Based on an analysis of over 5,000 of these responses, recorded on our [Fulcrum 
   * "OA improves the quality of my life as a retiree who likes to read academic books."
   * "Self-teaching myself Chinese and Chinese history because of a recently acquired obsession with Chinese drama."
   * "I just want to say "Thank You!" for making this available for free. I'm a retiree on a fixed income, so things like this are really helpful. I'm really looking forward to reading it."
+
+
 * Independent, resource-starved, and loosely-affiliated scholars
 
   * "I'm an independent researcher, and using a public library's open-source archive to find this resource."
@@ -52,10 +58,12 @@ Based on an analysis of over 5,000 of these responses, recorded on our [Fulcrum 
   * "I would love if your generous open access policy was better known! As someone who left academia, one of the things I miss most is university library access."
   * "I this this open access platform is brilliant because so many people want to read these publications but can't due to lack of funds. The number one thing that I miss from college is reading academic journals and other college books via my alma mater library's paid subscriptions. I hope your platform continues to expand!"
   * "Access to works such as this one is a lifesaver for scholars who, as I do, work in a large public institution with low funding and a heavy teaching load. Thank you."
+
+
 * Advocates
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
   * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community."
   * "Thank you for making this book open access so that more people can read it. I've seen how the pandemic is affecting people with chronic illness or disability and I've been trying to share resources to help people become more understanding and inclusive."
 
-University of Michigan Press[ is able to make so many books open access](https://www.fulcrum.org/michigan?locale=en&user_access=oa) because of [the Fund to Mission program that brings together visionary libraries and other funders with matching support from the University of Michigan ](https://ebc.press.umich.edu/invest)to enable authors to publish their books free online without requiring them to pay the publishing costs.
+University of Michigan Press can [make so many books open access](https://www.fulcrum.org/michigan?locale=en&user_access=oa) because of [the Fund to Mission program that brings together visionary libraries and other funders with matching support from the University of Michigan ](https://ebc.press.umich.edu/invest)to enable authors to publish their books free online without requiring them to pay the publishing costs.
