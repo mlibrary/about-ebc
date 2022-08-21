@@ -13,7 +13,7 @@ In her Budget Letter for the 2023 Financial Year, Provost McCauley committed an 
 
 > "we have elected to provide additional one-time funding for three years (for a total of $1,200,000) to allow you to pilot the long term sustainable strategy outlined in your business case. If the pilot is successful at the end of the three year period, we invite you to resubmit your request for base funding.”
 
-The three-year commitment matches the investments from a community of library supporters, showing that the University takes seriously its commitment to supporting university presses as core infrastructure for the humanities. The willingness to consider a request for continuing (base) funding is especially significant.
+The three-year commitment matches the investments from a community of library supporters, showing that the University takes seriously its commitment to [supporting university presses as core infrastructure for the humanities](https://www.insidehighered.com/views/2021/02/22/institutions-and-funders-must-recognize-contributions-university-presses-humanities). The willingness to consider a request for continuing (base) funding is especially significant.
 
 James Hilton, Vice Provost for Academic Innovation, has further explained why the University is investing in the Press's scholarly monograph program.
 
