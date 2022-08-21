@@ -19,6 +19,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I'm from Algeria and, unfortunately, there is a lack of academic resources."
   * "I"m a research scholar of English literature from India. I'm thankful to the publishers and authors for this open access ebook because many books are not available globally or are too expensive."
   * "As a scholar in Mexico, I often do not have ready access to up-to-date Mexicanist scholarship in English; our university libraries have little budget for purchases or subscriptions, and personal orders often come with high shipping costs. I do make purchases, but open access materials are a great resource for scholars working across borders of all kinds."
+  * "I am from Suriname, the Southern part of the World. Buying books is difficult because of costs and postal services. I think more scholarly books should be accessible to us researchers from the south."
 * Students
 
   * "My professor mentioned this was free, and I'm so thankful as a grad student."
@@ -27,12 +28,15 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "Thank you for giving this for free! Really helps me as a student in the course because I can’t really afford to buy copies of books as a student."
   * "I am extremely grateful for making this available online. For research students like me who do not have easy access to foreign publications and are not able to afford those with our limited scholarships, this is a huge help."
   * "I learned about this book because my college is actively researching alternatives to print books, because of the expense to students."
+  * "Makes it a lot easier to get my materials for classes when they're available this way. Thanks."
 * Interested lay readers
 
   * "I read purely for my own pleasure, and thank you for making these texts freely available."
   * "I am a retired Italian university librarian, and I write articles on Wikipedia to share my knowledge. The open-access documentation is precious, thank you!!"
   * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community." 
   * "I am a senior citizen still in full-time employment. I enjoy learning."
+  * "OA improves the quality of my life as a retiree who likes to read academic books."
+  * "Self-teaching myself Chinese and Chinese history because of a recently acquired obsession with Chinese drama."
 * Independent or loosely-affiliated scholars
 
   * "I'm an independent researcher, and using a public library's open-source archive to find this resource."
@@ -43,3 +47,4 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
   * "I am a graduate but currently unemployed. I constantly seek for free resources online and try to upskill myself as much as I can and make productive use of my free time. I also like to share the free resources with my community."
+  * "Thank you for making this book open access so that more people can read it. I've seen how the pandemic is affecting people with chronic illness or disability and I've been trying to share resources to help people become more understanding and inclusive."
