@@ -49,6 +49,7 @@ Based on an analysis of over 5,000 of these responses, recorded on our Fulcrum o
   * "I am just very grateful that this book is available open access as my university's library is very under-resourced."
   * "I'm precarious faculty and I don't have a budget for buying books, so open access books are so helpful for my research."
   * "I would love if your generous open access policy was better known! As someone who left academia, one of the things I miss most is university library access."
+  * "I this this open access platform is brilliant because so many people want to read these publications but can't due to lack of funds. The number one thing that I miss from college is reading academic journals and other college books via my alma mater library's paid subscriptions. I hope your platform continues to expand!"
 * Advocates
 
   * "I'm a freelance journalist with geek leanings. This will not only feed my brain but it will inform my work, increase the quality of the questions I ask and potentially direct me to people I can interview. I couldn't afford to buy it so open access is really appreciated."
