@@ -7,8 +7,8 @@ const NotFoundPage = () => (
   <Layout>
     <div className="container">
       <SEO title="404: Not found" />
-      <h1 className="mb-3">NOT FOUND</h1>
-      <p>You just hit a page that doesn&#39;t exist... the sadness.</p>
+      <h1 className="mb-3">404 - The page you were looking for doesn't exist</h1>
+      <p>You may have mistyped the address or the page may have moved.</p>
     </div>
   </Layout>
 )
