@@ -41,9 +41,9 @@ const Impact = ({data}) => {
           </div>
           <div className="google-data-studio-oa">
             <h2 id="oa-book-usage">Open Access Book Usage</h2>
-            <p>This report is created by the <a href="https://educopia.org/data_trust/" target="_blank" rel="noreferrer">Open Access Ebook Usage Trust</a> (OAeBU) and represents usage across a number of different sources platforms. For more information or if you are encountering display issues, see <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC" target="_blank" rel="noreferrer">our FAQ</a></p>
+            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" target="_blank" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC" target="_blank" rel="noreferrer">our FAQ</a></p>
             <div className="embed-responsive embed-responsive-1by1">
-              <iframe title="Open Access Book Usage" className="embed-responsive-item" src="https://oaebu-u-m-press.observatory.academy/s/u-m-press/app/dashboards#/view/8127c319-f4a3-5978-b71e-72b8716bbf93?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2006-01-01',to:now%2B2y))&embed=true"></iframe>
+	  <iframe title="Open Access Book Usage" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/7600ec85-86e9-4173-9ef5-1a082f076a5e/page/imr4C" allowfullscreen></iframe>
             </div>
           </div>
           <div id="book-usage" className="google-data-studio">
