@@ -63,6 +63,8 @@ Libraries interested in supporting Fund to Mission can request a quote from LYRA
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.lyrasis.org/content/pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429">Request a Quote</a></p>
 
+L﻿ibraries that are members of Jisc can find details of the Jisc offer in[ the License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/2850)
+
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/s/wjk485gdpj2ho38/UMP%20EBC%20Title%20List.xlsx?dl=0">Complete Title List</a></p>
@@ -71,7 +73,7 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 #### 2023-2025 Transitional Collection
 
-Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. Libraries supporting at this level will receive 15% discount off the total price (which assumes a 2.5% annual increase).
+Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. Libraries supporting at this level will receive 15% discount off the total price (which assumes a 2.5% annual increase). This discount cannot be combined with other discounts.
 
 <table class="table table-bordered">
     <thead class="thead-light">
