@@ -69,9 +69,9 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 ### Investment Options
 
-#### 2021-2023 Transitional Collection
+#### 2023-2025 Transitional Collection
 
-Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of which increases over the years). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through 2023.
+Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. Libraries supporting at this level will receive 15% discount off the total price (which assumes a 2.5% annual increase).
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -87,31 +87,31 @@ Upfront purchase of the 2021, 2022, and 2023 frontlists (the OA percentage of wh
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$17,778</td>
+            <td>$15,950</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$13,333</td>
+            <td>$11,977</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$8,888</td>
+            <td>$7,982</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$4,445</td>
+            <td>$3,992</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$2,133</td>
+            <td>$1,916</td>
         </tr>
     </tbody>
 </table>
@@ -165,7 +165,7 @@ Purchase of the individual frontlist year (minimum of 80 titles, the OA percenta
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2021) with term access to the growing archive of pre-2012 titles.
+Upfront perpetual purchase of the current complete backlist (years 2012-2022) with term access to the growing archive of pre-2012 titles.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -212,7 +212,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2021) wi
 
 #### International Pricing
 
-Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.		
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2023 frontlist.
 
 <table class="table table-bordered">
     <thead class="thead-light">
