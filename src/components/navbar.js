@@ -45,7 +45,7 @@ const Navbar = () => {
               </form>
               <div className="nav-browse mt-1">
                 <a className="pr-4" href="https://fulcrum.org/michigan/">Browse Books</a>
-                <a href="https://tools.lib.umich.edu/confluence/display/FPS/UMP+EBC">Help</a>
+                <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC">Help</a>
               </div>
             </div> 
           </div>
