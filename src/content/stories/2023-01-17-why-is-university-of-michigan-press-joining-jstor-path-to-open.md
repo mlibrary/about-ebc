@@ -1,9 +1,9 @@
 ---
 templateKey: story
 title: Why University of Michigan Press is joining "Path to Open"
-summary: A new initiative from JSTOR complements immediate open access models
-  for monographs, providing an embargoed option for titles which might otherwise
-  stay permanently restricted access.
+summary: A new initiative complements immediate open access models for
+  monographs, providing an embargoed option for titles that might otherwise stay
+  permanently paywalled.
 storyImage: assets/shutterstock_1103533763-1-.jpg
 date: 2023-01-17T14:00:00.000Z
 ---
