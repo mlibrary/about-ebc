@@ -1,10 +1,10 @@
 ---
 templateKey: story
 title: So How Did They Do in 2022?
-summary: Thanks to the support of over 100 libraries, generous support from its
-  parent institution, and a great group of authors, University of Michigan Press
-  hit its target of publishing 50% of its frontlist monographs open access. This
-  is what we learned about usage.
+summary: Thanks to purchases by over 100 libraries, support from our parent
+  institution, and a great group of authors, University of Michigan Press hit
+  its target of publishing 50% of its frontlist monographs open access. The
+  books got used!
 storyImage: assets/shutterstock_1918986302.jpg
 date: 2023-02-01T03:13:28.271Z
 ---
