@@ -12,7 +12,7 @@ T﻿he [UMP Fund to Mission program](https://ebc.press.umich.edu/invest) is grad
 
 W﻿e saw substantial use of these open-access titles. Divide the total use (quantified using COUNTER 5 Total Item Requests) by 40, and the average number of uses in 2022 of books published in 2022 is **8,314**. However, one digital project skews the picture dramatically: *[Vidding: A History](https://www.fulcrum.org/concern/monographs/hq37vq792?locale=en)* includes almost 150 videos on the open-source Fulcrum platform through which author Francesca Coppa traces the development of video fan fiction. The use of these individual items rolls up to account for over half of our numbers. Remove *Vidding* from the table, and the average falls to **3,826** uses on average.
 
-T﻿he top titles reflect some headline themes in 2022, including *[The Politics of Bad Governance in Contemporary Russia](https://www.fulcrum.org/concern/monographs/m326m419h)*, *[Electoral Campaigns, Media, and the New World of Digital Politics](https://www.fulcrum.org/concern/monographs/gx41mk97m?locale=en)*, and *[Pride, Not Prejudice: National Identity as a Pacifying Force in East Asia](https://www.fulcrum.org/concern/monographs/5425kc80g?locale=en)*. Readers reporting leaving inspired to do more:
+T﻿he top titles reflect some headline themes in 2022, including *[The Politics of Bad Governance in Contemporary Russia](https://www.fulcrum.org/concern/monographs/m326m419h)*, *[Electoral Campaigns, Media, and the New World of Digital Politics](https://www.fulcrum.org/concern/monographs/gx41mk97m?locale=en)*, and *[Pride, Not Prejudice: National Identity as a Pacifying Force in East Asia](https://www.fulcrum.org/concern/monographs/5425kc80g?locale=en)*. Readers left inspired to do more:
 
 <!--StartFragment-->
 
@@ -32,4 +32,4 @@ O﻿ur books were used in 227 countries and territories, but our top institution
 
 [](https://drive.google.com/file/d/1KNRWFQ-rI_EOyg5uEqPtyeOvNPo_PPGa/view?usp=sharing)
 
-<a href="//assets/2023-fund-to-mission-progress-report-2-.pdf">Learn more about Fund to Mission in our January 2023 Progress Report.</a>
+<a href="///assets/2023-fund-to-mission-progress-report-2-.pdf">Learn more about Fund to Mission in our January 2023 Progress Report.</a>
