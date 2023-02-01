@@ -6,7 +6,7 @@ summary: Thanks to purchases by over 100 libraries, support from our parent
   its target of publishing 50% of its frontlist monographs open access. The
   books got used . . . alot!
 storyImage: assets/shutterstock_1918986302.jpg
-date: 2023-02-01T03:13:28.271Z
+date: 2023-02-01T04:09:45.406Z
 ---
 T﻿he [UMP Fund to Mission program](https://ebc.press.umich.edu/invest) is gradually increasing the percentage of the University of Michigan Press frontlist that is published open access. In 2021 our target was 20%, in 2022 it was 50%, and in 2023 75%.  Our dedicated acquisitions team is hitting these numbers every year, and in 2022 that meant that 40 of our best scholarly books were published with an immediate open-access ebook edition.
 
