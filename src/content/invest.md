@@ -118,7 +118,7 @@ Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open acce
     </tbody>
 </table>
 
-#### Frontlist 2023 Pricing
+#### Frontlist 2024 Pricing
 
 Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2023). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
 
@@ -136,31 +136,31 @@ Purchase of the individual frontlist year (minimum of 80 titles, the OA percenta
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$6,108</td>
+            <td>$6,261</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$4,581</td>
+            <td>$4,696</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$3,053</td>
+            <td>$3,129</t>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$1,527</td>
+            <td>$1,565</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$733</td>
+            <td>$751</td>
         </tr>
     </tbody>
 </table>
