@@ -214,7 +214,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2022) wi
 
 #### International Pricing
 
-Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2023 frontlist.
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2024 frontlist.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -228,28 +228,28 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     <tbody>
        <tr>
             <th scope="row">Doctoral</th>
-            <td>$6,108</td>
-            <td>$4,581</td>
-            <td>$3,055</td><td>$1,527</td>
+            <td>$6,261</td>
+            <td>$4,696</td>
+            <td>$3,131</td><td>$1,565</td>
         </tr>
          <tr>
             <th scope="row">Master's</th>
-            <td>$4,581</td>
-            <td>$3,346</td>
-            <td>$2,291</td><td>$1,145</td>
+            <td>$4,696</td>
+            <td>$3,522</td>
+            <td>$2,348</td><td>$1,174</td>
         </tr>
         <tr>
             <th scope="row">Baccalaureate</th>
-            <td>$1,527</td>
-            <td>$1,146</td>
-            <td>$764</td><td>$382</td>
+            <td>$1,565</td>
+            <td>$1,174</td>
+            <td>$783</td><td>$391</td>
         </tr>
         <tr>
             <th scope="row">Associates</th>
-            <td>$733</td>
-            <td>$549</td>
-            <td>$367</td>    
-            <td>$183</td>
+            <td>$751</td>
+            <td>$563</td>
+            <td>$376</td>    
+            <td>$188</td>
         </tr>
     </tbody>
 </table>
