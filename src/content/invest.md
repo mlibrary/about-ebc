@@ -73,7 +73,7 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 #### 2023-2025 Transitional Collection
 
-Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. The prices shown below for the Transitional Collection reflect a 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase). This discount cannot be combined with other discounts on the frontlist. Libraries that previously purchased the 2021-2023 collection can purchase a reduced Transitional Collection including just 2024 and 2025 at the same discounted pricing.
+Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. The prices shown below for the Transitional Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase). This discount cannot be combined with other discounts on the frontlist. Libraries that previously purchased the 2021-2023 collection can purchase a reduced Transitional Collection including just 2024 and 2025 at the same discounted pricing.
 
 <table class="table table-bordered">
     <thead class="thead-light">
