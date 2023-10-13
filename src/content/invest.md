@@ -297,6 +297,17 @@ By opening our content and showing that monographs increase their usage, reach, 
 
 <h2 id="supporters">Our Library Supporters</h2>
 
+* Abraham Baldwin Agricultural College
+* A﻿gnes Scott College
+* A﻿lbany State University
+* A﻿lbany Technical College
+* A﻿ndrew College
+* A﻿thens Technical College
+* A﻿tlanta Metropolitan State College
+* A﻿tlanta Technical College
+* A﻿tlanta University Center
+* A﻿ugusta Technical College
+* A﻿ugusta University
 * Bates College
 * Bowdoin College
 * Brock University
