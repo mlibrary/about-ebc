@@ -396,9 +396,11 @@ By opening our content and showing that monographs increase their usage, reach, 
 * O﻿conee Fall Line Technical College
 * O﻿geechee Technical College
 * O﻿glethorpe University
+* P﻿acific College of Technology
 * P﻿aine College
 * Pennsylvania State University
-* Princeton University
+* P﻿iedmont University
+* P﻿oint University
 * Purdue University
 * Rowan University
 * Rutgers University
