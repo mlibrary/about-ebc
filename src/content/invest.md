@@ -376,16 +376,26 @@ By opening our content and showing that monographs increase their usage, reach, 
 * L﻿ife University
 * Loyola University Chicago
 * Luther College
+* L﻿uther Rice College & Seminary
 * Macalester College
+* M﻿ercer University
+* M﻿ercer University Law School
 * Michigan State University
-* Montana State University
+* M﻿iddle Georgia State University
+* M﻿orehouse College
+* M﻿orehouse School of Medicine
 * Mount Royal University
 * New College of Florida
+* N﻿orth Georgia Technical College
 * Northeastern University
 * Northwest Florida State College
 * Northwestern University
 * NYU
 * Occidental College
+* O﻿conee Fall Line Technical College
+* O﻿geechee Technical College
+* O﻿glethorpe University
+* P﻿aine College
 * Pennsylvania State University
 * Princeton University
 * Purdue University
