@@ -309,12 +309,22 @@ By opening our content and showing that monographs increase their usage, reach, 
 * A﻿ugusta Technical College
 * A﻿ugusta University
 * Bates College
+* B﻿erry College
+* B﻿eulah Heights University
 * Bowdoin College
+* B﻿renau University
+* B﻿rewton-Parker College
 * Brock University
 * Broward College
 * Bucknell University
 * Buena Vista University
 * Cardiff University
+* C﻿entral Georgia Technical College
+* C﻿hattahoochee Technical College
+* The Claremont Colleges Library
+* C﻿lark Atlanta University
+* C﻿layton State University
+* C﻿oastal Pines Technical College
 * Colby College
 * College of Coastal Georgia
 * Columbia University
