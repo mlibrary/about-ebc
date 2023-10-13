@@ -380,6 +380,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Macalester College
 * M﻿ercer University
 * M﻿ercer University Law School
+* M﻿ercer University Medical School
 * Michigan State University
 * M﻿iddle Georgia State University
 * M﻿orehouse College
