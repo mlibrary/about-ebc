@@ -488,7 +488,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * W﻿esleyan University
 * W﻿est Georgia Technical College
 * W﻿est Virginia University
-* W﻿ildfred Laurier University
+* W﻿ilfred Laurier University
 * W﻿iregrass Georgia Technical College
 * Yale University
 * Y﻿ork University
@@ -496,6 +496,8 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
+* G﻿eorgia  Library Learning Online (GALILEO)
+* J﻿oint Information Systems Committee (JISC)
 * Ontario Council of University Libraries (OCUL) 
 * Pennsylvania Academic Library Consortium, Inc. (PALCI) 
 * Statewide California Electronic Library Consortium (SCELC) 
