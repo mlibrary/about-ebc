@@ -411,15 +411,25 @@ By opening our content and showing that monographs increase their usage, reach, 
 * S﻿avannah Technical College
 * S﻿horter University
 * Simon Fraser University
+* S﻿outh Georgia State College
+* S﻿outh Georgia Technical College
+* S﻿outheastern Technical College
+* S﻿outhern Crescent Technical College
+* S﻿outhern Illinois University Carbondale
 * Southern Methodist University
+* S﻿outhern Regional Technical College
+* S﻿pellman College
 * Stanford University
 * Swarthmore College
 * Syracuse University
-* Temple University
+* T﻿exas A&M University Libraries
 * The Claremont Colleges Library
 * The Ohio State University
+* T﻿homas University
+* T﻿occoa Falls College
 * Trent University
-* University College London
+* T﻿ruett McConnell University
+* U﻿nderwood University
 * UNC Chapel Hill
 * UNC Greensboro
 * University of Alberta
@@ -432,12 +442,14 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of California Merced
 * University of California Riverside
 * University of California San Diego
-* University of California San Francisco
 * University of California Santa Barbara
 * University of California Santa Cruz
 * University of Chicago
 * University College London
+* U﻿niversity of Connecticut
+* U﻿niversity of Delaware
 * University of Florida
+* U﻿niversity of Georgia
 * University of Guelph
 * University of Illinois
 * University of Iowa
@@ -446,6 +458,9 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Massachusetts, Amherst
 * University of Minnesota
 * University of Nebraska
+* U﻿niversity of North Georgia
+* U﻿niversity of Notre Dame
+* U﻿niversity of Oklahoma
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
@@ -461,12 +476,23 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Toronto
 * University of Utah
 * University of Washington
+* U﻿niversity of West Georgia
 * University of Wisconsin
 * University of York
+* V﻿aldosta State University
+* V﻿ancouver Island University
 * Vassar College
 * Washington & Jefferson College
 * West Virginia University
+* W﻿esleyan College
+* W﻿esleyan University
+* W﻿est Georgia Technical College
+* W﻿est Virginia University
+* W﻿ildfred Laurier University
+* W﻿iregrass Georgia Technical College
 * Yale University
+* Y﻿ork University
+* Y﻿oung-Harris College
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * Central Iowa Collaborative Collections Initiative (CI-CCI) 
