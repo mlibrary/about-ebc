@@ -402,9 +402,14 @@ By opening our content and showing that monographs increase their usage, reach, 
 * P﻿iedmont University
 * P﻿oint University
 * Purdue University
+* R﻿einhardt University
+* R﻿ichmont Graduate University
 * Rowan University
 * Rutgers University
 * Saint Ambrose University
+* S﻿avannah State University
+* S﻿avannah Technical College
+* S﻿horter University
 * Simon Fraser University
 * Southern Methodist University
 * Stanford University
