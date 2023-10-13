@@ -327,26 +327,53 @@ By opening our content and showing that monographs increase their usage, reach, 
 * C﻿oastal Pines Technical College
 * Colby College
 * College of Coastal Georgia
+* C﻿olumbia Theological Seminary
 * Columbia University
+* C﻿olumbus State University
+* C﻿olumbus Technical College
 * Cornell University
+* C﻿ovenant College
+* D﻿alton State College
 * Denison University
 * Drake University
 * Duke University
 * Duquesne University
+* E﻿ast Georgia State College
+* E﻿mmanuel College
 * Emory University
+* F﻿ort Valley State University
 * Franklin & Marshall College
 * George Washington University
+* G﻿eorgia Central University
+* G﻿eorgia College & State University
 * Georgia Gwinnett College
+* G﻿eorgia Highlands College
+* G﻿eorgia Institute of Technology
+* G﻿eorgia Military College
+* G﻿eorgia Northwestern Technical College
+* G﻿eorgia Piedmont Technical College
+* G﻿eorgia Southern University
+* G﻿eorgia Southwestern State University
+* G﻿eorgia State University
 * Gettysburg College
+* G﻿ordon State College
 * Grinnell College
+* G﻿winnett Technical College
 * Harvard University
 * Haverford College
 * Indiana University
+* I﻿nterdenominational Theological Center
 * Iowa State University
 * Johns Hopkins University
+* J﻿ohn Marshall Law School
+* K﻿ennesaw State University
 * Kenyon College
+* K﻿ing's College London
 * KU Leuven
 * Lafayette College
+* L﻿aGrange College
+* L﻿anier Technical College
+* L﻿ife University
 * Loyola University Chicago
 * Luther College
 * Macalester College
