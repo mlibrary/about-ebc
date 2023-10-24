@@ -24,7 +24,9 @@ The University of Michigan Press has moved towards open access for its monograph
 
 Working with LYRASIS, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open-access monograph model termed Fund to Mission. 
 
-Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.
+Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>. Additional information, plus the full 2023 OA title list can be found in <a href="https://drive.google.com/file/d/14H8PzvDYQTkzyuemmIiElvsobXn4n44a/view?usp=sharing">this press release. </a>[](https://drive.google.com/file/d/14H8PzvDYQTkzyuemmIiElvsobXn4n44a/view?usp=sharing)
+
+
 
 ### The Funding Model
 
