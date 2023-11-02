@@ -46,12 +46,7 @@ const Impact = ({data}) => {
 	  <iframe title="Open Access Book Usage" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/7600ec85-86e9-4173-9ef5-1a082f076a5e/page/imr4C" allowfullscreen></iframe>
             </div>
           </div>
-          <div id="book-usage" className="google-data-studio">
-            <ReactMarkdown source={googleDataStudioDescription} />
-            <div className="embed-responsive embed-responsive-1by1">
-              <iframe title="All Book Usage Report" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/1fFXJLWMpoGSz_RNTDCKDroEAxjk-wRHw/page/9LCE"></iframe>
-            </div>
-          </div>
+
         </section>
       </div>
     </Layout>
