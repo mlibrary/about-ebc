@@ -10,7 +10,7 @@ If you are a library interested in purchasing UMP EBC, please contact LYRASIS at
 
 [Explore pricing and license here](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429)
 
-[View the complete UMP EBC title list here](https://www.dropbox.com/sh/mlzjy1fm8g02sqt/AABNxoxrAqGdQilkLejzdoPBa?dl=0)
+[View the complete UMP EBC title list here](https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0)
 
 ## Implement
 
@@ -20,8 +20,6 @@ Access to the collection is authenticated via IP address / Proxy. See our <a hre
     <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption>
 
   <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
-
-
 
 U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
     <thead class="thead-light">
