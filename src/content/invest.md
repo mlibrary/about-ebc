@@ -69,7 +69,7 @@ L﻿ibraries that are members of Jisc can find details of the Jisc offer in[ the
 
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/sh/mlzjy1fm8g02sqt/AABNxoxrAqGdQilkLejzdoPBa?dl=0">Complete Title List</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0">Complete Title List</a></p>
 
 ### Investment Options
 
