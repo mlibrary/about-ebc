@@ -26,8 +26,6 @@ Working with LYRASIS, the University of Michigan has been taking steps to develo
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>. Additional information, plus the full 2023 OA title list can be found in <a href="https://drive.google.com/file/d/14H8PzvDYQTkzyuemmIiElvsobXn4n44a/view?usp=sharing">this press release. </a>[](https://drive.google.com/file/d/14H8PzvDYQTkzyuemmIiElvsobXn4n44a/view?usp=sharing)
 
-
-
 ### The Funding Model
 
 Libraries are invited to continue to participate in the University of Michigan Press Ebook Collection (UMP EBC) by way of our current fair pricing. However, rather than only funding a paywalled collection, an increasing percentage of titles become open access. By committing to purchase one of the UMP EBC packages (listed under "Investment Options"), libraries:
@@ -456,6 +454,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Illinois
 * University of Iowa
 * University of Kansas
+* University of Manchester
 * University of Maryland
 * University of Massachusetts, Amherst
 * University of Minnesota
