@@ -21,6 +21,8 @@ Access to the collection is authenticated via IP address / Proxy. See our <a hre
 
   <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
 
+<caption><a class="btn btn-secondary btn-lg" href="**<https://www.fulcrum.org/api/opds>**">Access OPDS feed</a></caption>
+
 U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
     <thead class="thead-light">
         <tr>
