@@ -7,10 +7,8 @@ summary: In 2023, UMP expanded the proportion of its frontlist monographs
 storyImage: assets/untitled-design-2-.png
 date: 2024-01-29T02:38:08.884Z
 ---
-I﻿n 2022, [we reported on a year when the support of 100 libraries enabled UMP to publish 50% of its frontlist monographs open access](https://ebc.press.umich.edu/stories/2023-02-01-so-how-did-they-do-in-2022/). It was a risky bid because costs outstripped income. In 2023, however, we enlisted 100 more library supporters (so 200 in total) and not only could we make 75% of our frontlist OA but we feel closer to the goal of long-term sustainability. Thank you to [all 200 institutions who supported Fund to Mission](https://ebc.press.umich.edu/invest/#supporters)!
+I﻿n 2022, [we reported on a year when the support of 100 libraries enabled UMP to publish 50% of its frontlist monographs open access](https://ebc.press.umich.edu/stories/2023-02-01-so-how-did-they-do-in-2022/). It was a risky bid because costs outstripped income. In 2023, however, we enlisted 100 more library supporters (so 200 in total) and not only could we make 75% of our frontlist OA but we feel closer to the goal of long-term sustainability. Thank you to [all 200 institutions who supported Fund to Mission](https://ebc.press.umich.edu/invest/#supporters)! The top ten books by usage in 2023 were:
 
-> The top ten books by usage in 2023 were:
->
 > 1. [Music on the Move](https://press.umich.edu/Books/M/Music-on-the-Move)
 > 2. [Memetic Rhetorics: Toward a Toolkit for Ethical Meming](https://press.umich.edu/Books/M/Memetic-Rhetorics)
 > 3. [Listening to the Lomax Archive: The Sonic Rhetorics of African American Folksong in the 1930s](https://press.umich.edu/Books/L/Listening-to-the-Lomax-Archive2)
