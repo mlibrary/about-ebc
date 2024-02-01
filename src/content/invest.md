@@ -120,7 +120,11 @@ Commitment to purchase 2023, 2024, and 2025 frontlists (aiming for 75% open acce
 
 #### Frontlist 2024 Pricing
 
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2024). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2024). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
+
+Access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
+
+<!--EndFragment-->
 
 <table class="table table-bordered">
     <thead class="thead-light">
