@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: Our Books
+title: Benefit from Open Access
 description: The University of Michigan Press Ebook Collection contains
   award-winning humanities and social sciences monographs.
 buttonLabel: Enjoy a Free Book
