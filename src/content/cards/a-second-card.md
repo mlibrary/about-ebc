@@ -2,7 +2,7 @@
 templateKey: card
 title: Benefit from Open Access
 description: The University of Michigan Press Ebook Collection contains
-  award-winning humanities and social sciences monographs, many free to read..
+  award-winning humanities and social sciences monographs, many free to read.
 buttonLabel: Enjoy a Free Book
 buttonUrl: https://www.fulcrum.org/michigan?locale=en&user_access=oa
 cardImage: assets/ebc-card.png
