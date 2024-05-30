@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: Fund to Mission
+title: Support Open Access
 description: The University of Michigan Press Ebook Collection is transitioning
   to an open access monograph model termed Fund to Mission.
 buttonLabel: Learn More
