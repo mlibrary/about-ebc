@@ -216,7 +216,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2024) wi
             <td>$7,232</td>
         </tr>
     </tbody>
-</table
+</table>
 
 #### International Pricing
 
