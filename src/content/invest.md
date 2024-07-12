@@ -173,7 +173,7 @@ Access to backlist is provided on a calendar year annual basis, with a 90-day gr
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2023) with term access to the growing archive of pre-2012 titles.
+Upfront perpetual purchase of the current complete backlist (years 2012-2024) with term access to the growing archive of pre-2012 titles.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -189,34 +189,34 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2023) wi
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$53,877</td>
+            <td>$60,295</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$40,406</td>
+            <td>$45,219</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$26,942</td>
+            <td>$30,149</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$13,471</td>
+            <td>$15,075</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$6,462</td>
+            <td>$7,232</td>
         </tr>
     </tbody>
-</table>
+</table
 
 #### International Pricing
 
