@@ -26,7 +26,7 @@ Working with LYRASIS, the University of Michigan has been taking steps to develo
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.  Learn more about the model's progress and impact in the following video:
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\[streamerType]=auto&amp;flashvars\\[localizationCode]=en_US&amp;flashvars\\[sideBarContainer.plugin]=true&amp;flashvars\\[sideBarContainer.position]=left&amp;flashvars\\[sideBarContainer.clickToClose]=true&amp;flashvars\\[chapters.plugin]=true&amp;flashvars\\[chapters.layout]=vertical&amp;flashvars\\[chapters.thumbnailRotator]=false&amp;flashvars\\[streamSelector.plugin]=true&amp;flashvars\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\[dualScreen.plugin]=true&amp;flashvars\\[hotspots.plugin]=1&amp;flashvars\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\*; fullscreen \\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\[streamerType]=auto&amp;flashvars\\\[localizationCode]=en_US&amp;flashvars\\\[sideBarContainer.plugin]=true&amp;flashvars\\\[sideBarContainer.position]=left&amp;flashvars\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\[chapters.plugin]=true&amp;flashvars\\\[chapters.layout]=vertical&amp;flashvars\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\[streamSelector.plugin]=true&amp;flashvars\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\[dualScreen.plugin]=true&amp;flashvars\\\[hotspots.plugin]=1&amp;flashvars\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
 
 ### The Funding Model
 
@@ -120,9 +120,9 @@ Commitment to purchase the 2024 and 2025 frontlists (aiming for 75% open access 
     </tbody>
 </table>
 
-#### Frontlist 2024 Pricing
+#### Frontlist 2025 Pricing
 
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2024). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2025). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
 
 Access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
 
@@ -142,31 +142,31 @@ Access to backlist is provided on a calendar year annual basis, with a 90-day gr
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$6,261</td>
+            <td>$6,418</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$4,696</td>
+            <td>$4,813</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$3,129</t>
+            <td>$3,207</t>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$1,565</td>
+            <td>$1,604</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$751</td>
+            <td>$770</td>
         </tr>
     </tbody>
 </table>
@@ -220,7 +220,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2023) wi
 
 #### International Pricing
 
-Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2024 frontlist.
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2025 frontlist.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -234,28 +234,28 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     <tbody>
        <tr>
             <th scope="row">Doctoral</th>
-            <td>$6,261</td>
-            <td>$4,696</td>
-            <td>$3,131</td><td>$1,565</td>
+            <td>$6,418</td>
+            <td>$4,814</td>
+            <td>$3,209</td><td>$1,605</td>
         </tr>
          <tr>
             <th scope="row">Master's</th>
-            <td>$4,696</td>
-            <td>$3,522</td>
-            <td>$2,348</td><td>$1,174</td>
+            <td>$4,813</td>
+            <td>$3,610</td>
+            <td>$2,407</td><td>$1,203</td>
         </tr>
         <tr>
             <th scope="row">Baccalaureate</th>
-            <td>$1,565</td>
-            <td>$1,174</td>
-            <td>$783</td><td>$391</td>
+            <td>$1,604</td>
+            <td>$1,203</td>
+            <td>$802</td><td>$401</td>
         </tr>
         <tr>
             <th scope="row">Associates</th>
-            <td>$751</td>
-            <td>$563</td>
-            <td>$376</td>    
-            <td>$188</td>
+            <td>$770</td>
+            <td>$578</td>
+            <td>$385</td>    
+            <td>$193</td>
         </tr>
     </tbody>
 </table>
