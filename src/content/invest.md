@@ -274,22 +274,29 @@ The following chart shows what percentage of titles in the University of Michiga
     <tbody>
     <tr>
             <td>2021 Collection</td>
-            <td>20% - achieved</td>
+            <td>~20% - achieved</td>
         </tr>
         <tr>
             <td>2022 Collection</td>
-            <td>50% - achieved</td>
+            <td>~50% - achieved</td>
         </tr>        
 
 <tr>
             <td>2023 Collection</td>
-            <td>75% - achieved</td>
+            <td>~75% - achieved</td>
         </tr>
 
   <tr>
             <td>2024 Collection</td>
-            <td>75% - targeted</td>
+            <td>~75% - achieved</td>
         </tr>     
+
+<tr>
+            <td>2025 Collection</td>
+            <td>~75% - targeted</td>
+        </tr>
+
+
    </tbody>
 </table>
 
