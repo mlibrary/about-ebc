@@ -26,7 +26,7 @@ Working with LYRASIS, the University of Michigan has been taking steps to develo
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.  Learn more about the model's progress and impact in the following video:
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\[streamerType]=auto&amp;flashvars\\\[localizationCode]=en_US&amp;flashvars\\\[sideBarContainer.plugin]=true&amp;flashvars\\\[sideBarContainer.position]=left&amp;flashvars\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\[chapters.plugin]=true&amp;flashvars\\\[chapters.layout]=vertical&amp;flashvars\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\[streamSelector.plugin]=true&amp;flashvars\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\[dualScreen.plugin]=true&amp;flashvars\\\[hotspots.plugin]=1&amp;flashvars\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\*; fullscreen \\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\\[streamerType]=auto&amp;flashvars\\\\[localizationCode]=en_US&amp;flashvars\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\[sideBarContainer.position]=left&amp;flashvars\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\[chapters.plugin]=true&amp;flashvars\\\\[chapters.layout]=vertical&amp;flashvars\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\[streamSelector.plugin]=true&amp;flashvars\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\[dualScreen.plugin]=true&amp;flashvars\\\\[hotspots.plugin]=1&amp;flashvars\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\*; fullscreen \\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
 
 ### The Funding Model
 
@@ -124,8 +124,6 @@ Commitment to purchase the 2024 and 2025 frontlists (aiming for 75% open access 
 
 Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2025). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
 
-Access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
-
 <!--EndFragment-->
 
 <table class="table table-bordered">
@@ -220,8 +218,6 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2024) wi
 
 #### International Pricing
 
-
-
 Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2025 frontlist.
 
 <table class="table table-bordered">
@@ -297,7 +293,6 @@ The following chart shows what percentage of titles in the University of Michiga
             <td>2025 Collection</td>
             <td>~75% - targeted</td>
         </tr>
-
 
    </tbody>
 </table>
