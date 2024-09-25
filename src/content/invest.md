@@ -508,12 +508,12 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Y﻿oung-Harris College
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
-* Central Iowa Collaborative Collections Initiative (CI-CCI) 
+* C﻿anadian Research Knowledge Network (CRKN)
 * G﻿eorgia  Library Learning Online (GALILEO)
 * J﻿oint Information Systems Committee (JISC)
 * Ontario Council of University Libraries (OCUL) 
-* Pennsylvania Academic Library Consortium, Inc. (PALCI) 
 * Statewide California Electronic Library Consortium (SCELC) 
+* V﻿irginia's Academic Library Consortium (VIVA)
 
 <h2 id="partnergroup">Library Partner Group</h2>
 
