@@ -26,7 +26,7 @@ Working with LYRASIS, the University of Michigan has been taking steps to develo
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.  Learn more about the model's progress and impact in the following video:
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\*; fullscreen \\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\*; fullscreen \\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
 
 ### The Funding Model
 
@@ -73,9 +73,9 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 ### Investment Options
 
-#### 2024-2025 Transitional Collection
+#### 2025-2027 Sustaining Collection
 
-Commitment to purchase the 2024 and 2025 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2025. Upfront or annual billing allowed. The prices shown below for the Transitional Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
+Commitment to purchase the 2025, 2026, and 2027 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2027. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -91,31 +91,31 @@ Commitment to purchase the 2024 and 2025 frontlists (aiming for 75% open access 
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$10,633</td>
+            <td>$16,778</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$7,985</td>
+            <td>$12,582</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$5,321</td>
+            <td>$8,384</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$2,661</td>
+            <td>$4,193</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$1,277</td>
+            <td>$2,013</td>
         </tr>
     </tbody>
 </table>
