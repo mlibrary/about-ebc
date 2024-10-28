@@ -448,7 +448,6 @@ By opening our content and showing that monographs increase their usage, reach, 
 * R﻿ichmont Graduate University
 * Rowan University
 * Rutgers University
-* Saint Ambrose University
 * S﻿avannah State University
 * S﻿avannah Technical College
 * S﻿horter University
@@ -460,20 +459,20 @@ By opening our content and showing that monographs increase their usage, reach, 
 * S﻿outhern Illinois University Carbondale
 * Southern Methodist University
 * S﻿outhern Regional Technical College
+* Southside Virginia Community College
+* Southwest Virginia Community College
 * S﻿pellman College
 * Stanford University
 * Swarthmore College
 * Syracuse University
+* T﻿emple University
 * T﻿exas A&M University Libraries
-* The Claremont Colleges Library
-* The Ohio State University
 * T﻿homas University
+* Tidewater Community College
 * T﻿occoa Falls College
 * Trent University
 * T﻿ruett McConnell University
 * U﻿nderwood University
-* UNC Chapel Hill
-* UNC Greensboro
 * University of Alberta
 * University of Arizona
 * University of British Columbia
@@ -490,6 +489,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University College London
 * U﻿niversity of Connecticut
 * U﻿niversity of Delaware
+* University of Edinburgh
 * University of Florida
 * U﻿niversity of Georgia
 * University of Guelph
@@ -497,42 +497,54 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Iowa
 * University of Kansas
 * University of Manchester
+* University of Mary Washington
 * University of Maryland
 * University of Massachusetts, Amherst
+* U﻿niversity of Michigan
 * University of Minnesota
 * University of Nebraska
 * U﻿niversity of North Georgia
 * U﻿niversity of Notre Dame
+* UNC Chapel Hill
+* U﻿NC Greensboro
 * U﻿niversity of Oklahoma
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
-* University of Redlands
+* University of Pittsburgh
 * University of Rhode Island
+* University of Richmond
 * University of Rochester
 * University of San Francisco
-* University of Scranton
+* University of Saskatchewan
 * University of Sheffield
+* University of St. Andrews
 * University of Tennessee Knoxville
-* University of Texas Austin
 * University of Texas San Antonio
 * University of Toronto
 * University of Utah
+* University of Virginia
+* University of Virginia's College at Wise
 * University of Washington
 * U﻿niversity of West Georgia
 * University of Wisconsin
-* University of York
 * V﻿aldosta State University
 * V﻿ancouver Island University
+* Vanderbilt University
 * Vassar College
-* Washington & Jefferson College
+* Virginia Commonwealth University
+* Virginia Highlands Community College
+* Virginia Military Institute
+* Virginia Peninsula Community College
+* Virginia Polytechnic Institute and State University
+* Virginia State University
+* Virginia Western Community College
+* Washington & Lee University
 * West Virginia University
 * W﻿esleyan College
-* W﻿esleyan University
 * W﻿est Georgia Technical College
-* W﻿est Virginia University
-* W﻿ilfred Laurier University
 * W﻿iregrass Georgia Technical College
+* Wytheville Community College
 * Yale University
 * Y﻿ork University
 * Y﻿oung-Harris College
