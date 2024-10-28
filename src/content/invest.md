@@ -382,49 +382,69 @@ By opening our content and showing that monographs increase their usage, reach, 
 * G﻿winnett Technical College
 * Harvard University
 * Haverford College
+* H﻿eritage Bible College
 * Indiana University
-* I﻿nterdenominational Theological Center
+* Interdenominational Theological Center
 * Iowa State University
+* J. Sargeant Reynolds Community College
+* James Madison University
 * Johns Hopkins University
 * J﻿ohn Marshall Law School
 * K﻿ennesaw State University
 * Kenyon College
-* K﻿ing's College London
 * KU Leuven
 * Lafayette College
 * L﻿aGrange College
 * L﻿anier Technical College
+* L﻿aurel Ridge Community College
+* L﻿iberty University
 * L﻿ife University
-* Loyola University Chicago
+* L﻿ongwood University
 * Luther College
 * L﻿uther Rice College & Seminary
 * Macalester College
+* Massachusetts Institute of Technology
 * M﻿cGill University
+* M﻿cMaster University
 * M﻿ercer University
 * M﻿ercer University Law School
 * M﻿ercer University Medical School
 * Michigan State University
 * M﻿iddle Georgia State University
+* M﻿iddlebury College
 * M﻿orehouse College
 * M﻿orehouse School of Medicine
-* Mount Royal University
+* Mountain Empire Community College
+* Mountain Gateway Community College
 * New College of Florida
+* New River Community College
+* Norfolk State University
 * N﻿orth Georgia Technical College
 * Northeastern University
+* Northern Virginia Community College
 * Northwest Florida State College
 * Northwestern University
 * NYU
-* Occidental College
 * O﻿conee Fall Line Technical College
 * O﻿geechee Technical College
 * O﻿glethorpe University
-* P﻿acific College of Technology
+* T﻿he Ohio State University
+* Old Dominion University
+* Pacific College of Technology
 * P﻿aine College
+* Patrick & Henry Community College
+* Paul D. Camp Community College
 * Pennsylvania State University
 * P﻿iedmont University
+* Piedmont Virginia Community College
 * P﻿oint University
+* P﻿rinceton University
 * Purdue University
+* Queen's University of Belfast
+* Radford University
+* Rappahannock Community College
 * R﻿einhardt University
+* Richard Bland College
 * R﻿ichmont Graduate University
 * Rowan University
 * Rutgers University
