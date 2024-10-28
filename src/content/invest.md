@@ -26,7 +26,7 @@ Working with LYRASIS, the University of Michigan has been taking steps to develo
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that in 2023 at least 75% of the U-M Press monographs published that year are open access, <b>without any author ever having to pay</b>.  Learn more about the model's progress and impact in the following video:
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\*; fullscreen \\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1038472/sp/103847200/embedIframeJs/uiconf_id/46145191/partner_id/1038472?iframeembed=true&playerId=kaltura_player&entry_id=1_t3brr2pq&flashvars\\\\\\\\\\\[streamerType]=auto&amp;flashvars\\\\\\\\\\\[localizationCode]=en_US&amp;flashvars\\\\\\\\\\\[sideBarContainer.plugin]=true&amp;flashvars\\\\\\\\\\\[sideBarContainer.position]=left&amp;flashvars\\\\\\\\\\\[sideBarContainer.clickToClose]=true&amp;flashvars\\\\\\\\\\\[chapters.plugin]=true&amp;flashvars\\\\\\\\\\\[chapters.layout]=vertical&amp;flashvars\\\\\\\\\\\[chapters.thumbnailRotator]=false&amp;flashvars\\\\\\\\\\\[streamSelector.plugin]=true&amp;flashvars\\\\\\\\\\\[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars\\\\\\\\\\\[dualScreen.plugin]=true&amp;flashvars\\\\\\\\\\\[hotspots.plugin]=1&amp;flashvars\\\\\\\\\\\[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wtusdqbe" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay \\\\\\\\\\\*; fullscreen \\\\\\\\\\\*; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UMP EBC June 2024 Impact Report"></iframe>
 
 ### The Funding Model
 
@@ -313,6 +313,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * A﻿gnes Scott College
 * A﻿lbany State University
 * A﻿lbany Technical College
+* A﻿lgoma University
 * A﻿ndrew College
 * A﻿thens Technical College
 * A﻿tlanta Metropolitan State College
@@ -323,15 +324,18 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Bates College
 * B﻿erry College
 * B﻿eulah Heights University
+* B﻿lue Ridge Community College
 * Bowdoin College
 * B﻿renau University
 * B﻿rewton-Parker College
+* B﻿rightpoint Community College
 * Brock University
 * Broward College
 * Bucknell University
-* Buena Vista University
 * Cardiff University
+* C﻿arleton University
 * C﻿entral Georgia Technical College
+* C﻿entral Virginia Community College
 * C﻿hattahoochee Technical College
 * The Claremont Colleges Library
 * C﻿lark Atlanta University
@@ -339,6 +343,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * C﻿oastal Pines Technical College
 * Colby College
 * College of Coastal Georgia
+* C﻿ollege of William & Mary
 * C﻿olumbia Theological Seminary
 * Columbia University
 * C﻿olumbus State University
@@ -346,15 +351,19 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Cornell University
 * C﻿ovenant College
 * D﻿alton State College
+* D﻿anville Community College
+* D﻿artmouth College
 * Denison University
 * Drake University
 * Duke University
 * Duquesne University
 * E﻿ast Georgia State College
+* E﻿astern Shore Community College
 * E﻿mmanuel College
 * Emory University
 * F﻿ort Valley State University
 * Franklin & Marshall College
+* G﻿eorge Mason University
 * George Washington University
 * G﻿eorgia Central University
 * G﻿eorgia College & State University
@@ -367,7 +376,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * G﻿eorgia Southern University
 * G﻿eorgia Southwestern State University
 * G﻿eorgia State University
-* Gettysburg College
+* G﻿ermanna Community College
 * G﻿ordon State College
 * Grinnell College
 * G﻿winnett Technical College
