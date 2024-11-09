@@ -8,7 +8,7 @@ title: Implement the Collection
 
 If you are a library interested in purchasing UMP EBC, please contact LYRASIS at [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org).
 
-[Explore pricing and license here](https://www.lyrasis.org/content/Pages/product-details.aspx?pid=8D37544B-F9AA-E811-9416-00155DA0E429)
+[Explore pricing and license here](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW)
 
 [View the complete UMP EBC title list here](https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0)
 
