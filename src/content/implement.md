@@ -10,7 +10,7 @@ If you are a library interested in purchasing UMP EBC, please contact LYRASIS at
 
 [Explore pricing and license here](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW)
 
-[View the complete UMP EBC title list here](https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0)
+[View the complete UMP EBC title list here](https://www.dropbox.com/scl/fi/y64jpe47zptbfr22mel7n/UMP-EBC-Title-List_Jan2025.xls?rlkey=ikasgrfim20dm77qzpktadizn&st=xszej719&dl=0)
 
 ## Implement
 
