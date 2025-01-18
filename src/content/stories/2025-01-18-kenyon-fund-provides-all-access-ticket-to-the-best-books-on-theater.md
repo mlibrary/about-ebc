@@ -1,6 +1,7 @@
 ---
 templateKey: story
-title: Kenyon Fund Provides All-Access Ticket to the Best Books on Theater
+title: Kenyon Fund Provides All-Access Ticket to the Best Books on Theater and
+  Performing Arts
 summary: Thanks to the generous support of the Herbert A. Kenyon and Bessie W.
   Kenyon Fund, groundbreaking theater books will be made available open access
   in 2025.
