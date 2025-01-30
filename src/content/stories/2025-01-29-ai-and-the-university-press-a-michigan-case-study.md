@@ -4,7 +4,7 @@ title: "AI and the University Press: A Michigan Case Study"
 summary: 'In the webinar "AI and the University Press: A Michigan Case Study"
   staff discussed how the Press is being impacted by the growing interest in
   GenAI.'
-storyImage: assets/susan-q-yin-2jivbogleho-unsplash.jpg
+storyImage: assets/books-and-the-up.png
 date: 2025-01-29T23:20:29.516Z
 ---
 In the webinar "AI and the University Press: A Michigan Case Study" staff discussed how the Press is being impacted by the growing interest in GenAI. Three key impacts were described:
