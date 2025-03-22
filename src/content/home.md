@@ -5,7 +5,7 @@ taglineSection:
   buttonUrl: http://fulcrum.org/michigan
   text: Through its ebook collection, U-M Press partners with libraries and other
     funders to support faculty public engagement, catalyze academic innovation,
-    and advance more equitable access to knowledge.
+    and level the playing field for access to knowledge.
 firstCallToActionSection:
   description: Ready to add UMP EBC to your library?
   buttonLabel: Support OA
