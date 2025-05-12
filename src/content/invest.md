@@ -63,7 +63,7 @@ Libraries interested in supporting Fund to Mission can request a quote from LYRA
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW">Request a Quote</a></p>
 
-L﻿ibraries that are members of Jisc can find details of the Jisc offer in[ the License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3007)
+L﻿ibraries that are members of Jisc can find details of the Jisc offer in[ the License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3154)
 
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
