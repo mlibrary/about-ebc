@@ -41,7 +41,7 @@ const Impact = ({data}) => {
           </div>
           <div className="google-data-studio-oa">
             <h2 id="oa-book-usage">Open Access Book Usage</h2>
-            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" target="_blank" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC" target="_blank" rel="noreferrer">our FAQ</a></p>
+            <p>This report is created by the <a href="https://openknowledge.community/projects/bad-project/" rel="noreferrer">Book Analytics Dashboard project</a> and represents usage across a number of different platforms. For more information or if you are encountering display issues, see <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC" rel="noreferrer">our FAQ</a></p>
             <div className="embed-responsive embed-responsive-1by1">
 	  <iframe title="Open Access Book Usage" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/7600ec85-86e9-4173-9ef5-1a082f076a5e/page/imr4C" allowfullscreen></iframe>
             </div>
