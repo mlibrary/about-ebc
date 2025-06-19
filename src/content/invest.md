@@ -483,8 +483,8 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of California San Diego
 * University of California Santa Barbara
 * University of California Santa Cruz
+* U﻿niversity of Cambridge
 * University of Chicago
-* University College London
 * U﻿niversity of Connecticut
 * U﻿niversity of Delaware
 * University of Edinburgh
