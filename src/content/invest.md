@@ -487,13 +487,13 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Chicago
 * U﻿niversity of Connecticut
 * U﻿niversity of Delaware
-* University of Edinburgh
 * University of Florida
 * U﻿niversity of Georgia
 * University of Guelph
 * University of Illinois
 * University of Iowa
 * University of Kansas
+* U﻿niversity of Kentucky
 * University of Manchester
 * University of Mary Washington
 * University of Maryland
@@ -503,6 +503,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Nebraska
 * U﻿niversity of North Georgia
 * U﻿niversity of Notre Dame
+* U﻿niversity of Nottingham
 * UNC Chapel Hill
 * U﻿NC Greensboro
 * U﻿niversity of Oklahoma
