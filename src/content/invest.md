@@ -469,6 +469,8 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Trent University
 * T﻿ruett McConnell University
 * U﻿nderwood University
+* Université de Montréal
+* U﻿niversity College London
 * University of Alberta
 * University of Arizona
 * University of British Columbia
