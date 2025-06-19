@@ -311,17 +311,16 @@ By opening our content and showing that monographs increase their usage, reach, 
 * A﻿gnes Scott College
 * A﻿lbany State University
 * A﻿lbany Technical College
-* A﻿lgoma University
 * A﻿ndrew College
 * A﻿thens Technical College
 * A﻿tlanta Metropolitan State College
 * A﻿tlanta Technical College
-* A﻿tlanta University Center
 * A﻿ugusta Technical College
 * A﻿ugusta University
 * Bates College
 * B﻿erry College
 * B﻿eulah Heights University
+* B﻿inghamton University
 * B﻿lue Ridge Community College
 * Bowdoin College
 * B﻿renau University
@@ -329,8 +328,8 @@ By opening our content and showing that monographs increase their usage, reach, 
 * B﻿rightpoint Community College
 * Brock University
 * Broward College
+* B﻿rown University
 * Bucknell University
-* Cardiff University
 * C﻿arleton University
 * C﻿entral Georgia Technical College
 * C﻿entral Virginia Community College
