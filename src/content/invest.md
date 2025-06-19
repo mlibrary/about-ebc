@@ -334,6 +334,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * C﻿entral Georgia Technical College
 * C﻿entral Virginia Community College
 * C﻿hattahoochee Technical College
+* C﻿hristopher Newport University
 * The Claremont Colleges Library
 * C﻿lark Atlanta University
 * C﻿layton State University
@@ -351,7 +352,6 @@ By opening our content and showing that monographs increase their usage, reach, 
 * D﻿anville Community College
 * D﻿artmouth College
 * Denison University
-* Drake University
 * Duke University
 * Duquesne University
 * E﻿ast Georgia State College
