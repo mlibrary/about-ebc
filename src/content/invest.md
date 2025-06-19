@@ -330,8 +330,10 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Broward College
 * B﻿rown University
 * Bucknell University
+* C﻿ardiff University
 * C﻿arleton University
 * C﻿entral Georgia Technical College
+* C﻿entral Michigan University
 * C﻿entral Virginia Community College
 * C﻿hattahoochee Technical College
 * C﻿hristopher Newport University
@@ -390,6 +392,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * J﻿ohn Marshall Law School
 * K﻿ennesaw State University
 * Kenyon College
+* K﻿ing's College London
 * KU Leuven
 * Lafayette College
 * L﻿aGrange College
@@ -540,7 +543,6 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Virginia State University
 * Virginia Western Community College
 * Washington & Lee University
-* West Virginia University
 * W﻿esleyan College
 * W﻿est Georgia Technical College
 * W﻿iregrass Georgia Technical College
