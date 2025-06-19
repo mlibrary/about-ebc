@@ -437,7 +437,6 @@ By opening our content and showing that monographs increase their usage, reach, 
 * P﻿oint University
 * P﻿rinceton University
 * Purdue University
-* Queen's University of Belfast
 * Radford University
 * Rappahannock Community College
 * R﻿einhardt University
@@ -462,10 +461,10 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Stanford University
 * Swarthmore College
 * Syracuse University
-* T﻿emple University
 * T﻿exas A&M University Libraries
 * T﻿homas University
 * Tidewater Community College
+* T﻿ilburg University
 * T﻿occoa Falls College
 * Trent University
 * T﻿ruett McConnell University
