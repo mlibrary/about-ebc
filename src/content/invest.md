@@ -414,15 +414,14 @@ By opening our content and showing that monographs increase their usage, reach, 
 * M﻿orehouse School of Medicine
 * Mountain Empire Community College
 * Mountain Gateway Community College
-* New College of Florida
 * New River Community College
+* N﻿ew York University
 * Norfolk State University
 * N﻿orth Georgia Technical College
 * Northeastern University
 * Northern Virginia Community College
 * Northwest Florida State College
 * Northwestern University
-* NYU
 * O﻿conee Fall Line Technical College
 * O﻿geechee Technical College
 * O﻿glethorpe University
