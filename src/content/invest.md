@@ -374,6 +374,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * G﻿eorgia Southwestern State University
 * G﻿eorgia State University
 * G﻿ermanna Community College
+* G﻿ettysburg College
 * G﻿ordon State College
 * Grinnell College
 * G﻿winnett Technical College
