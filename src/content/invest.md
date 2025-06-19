@@ -519,6 +519,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Sheffield
 * U﻿niversity of South Carolina
 * University of Tennessee Knoxville
+* U﻿niversity of Texas Austin
 * University of Texas San Antonio
 * University of Toronto
 * University of Utah
