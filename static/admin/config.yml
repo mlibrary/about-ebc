@@ -130,6 +130,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: implement-page }
           - { name: title, label: Implement }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/accessibility.md"
+        name: accessibility
+        label: Accessibility
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: accessibility-page }
+          - { name: title, label: Implement }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/stories.md"
         name: stories
         label: Stories
