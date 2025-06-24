@@ -4,7 +4,7 @@ title: Accessibility
 ---
 <p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
 
-*Last updated: June 25, 2025*
+*Last updated: June 26, 2025*
 
  Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
 
