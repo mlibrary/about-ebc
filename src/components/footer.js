@@ -53,6 +53,7 @@ const Footer = () => {
                 <li><Link className="text-light" to="/implement">Implement UMP EBC</Link></li>
                 <li><Link className="text-light" to="/invest">Invest in UMP EBC</Link></li>
                 <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
+                <li><Link className="text-light" to="/accessibility">Accessibility</Link></li>
               </ul>
           </section>
           <section className="col-md-2">

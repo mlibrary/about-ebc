@@ -9,12 +9,15 @@ title: Accessibility
  Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
 
 ## Accessible File Requests
-To request remediation of any content in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD).
+To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/), and [EMMA](https://emma.uvacreate.virginia.edu/). 
 
-## Conformance Status and VPAT
+## Conformance Status and VPAT®
+
+<a class="btn btn-secondary btn-lg" href="#">Download VPAT®</a>
+
 Current product year EPUBs conform to [WCAG 2.2 AA](https://www.w3.org/TR/WCAG22/) and [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/). EPUBs in product years 2021-2024 conform to older versions of WCAG AA and EPUB Accessibility. Prior to 2021, conformance to accessibility requirements varies. A more detailed breakdown of the accessibility of pre-2021 and backlist content will be available in July 2025.
 
-We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a <a href="#">Voluntary Product Accessibility Template (VPAT®) Version 2.5 INT (June 2025)</a>, which covers all available EBC product years along with an assessment of the Fulcrum platform, which hosts the UMP EBC.
+We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a [Voluntary Product Accessibility Template (VPAT®) Version 2.5 INT (June 2025)](#), which covers all available EBC product years along with an assessment of the Fulcrum platform, which hosts the UMP EBC. See [Fulcrum's accessibility page](https://www.fulcrum.org/accessibility) for more details.
 
 UMP EBC's conformance status is assessed through a combination of self-evaluation and third-party evaluation. Once a year our production process is audited by the Benetech Global Certified Accessible program for re-certification.
 
@@ -27,7 +30,7 @@ UMP EBC's conformance status is assessed through a combination of self-evaluatio
 ## Accessibility Roadmap
 While accessibility is built into many of our processes, we continue to identify where accessibility can be added, improved, or content that can be remediated. We approach accessibility with the following three areas guiding our roadmap and activities:
 
-* Make it easy to request accessible copies of books that do not meet accessibility requirements.
+* Make it easy to request accessible copies of books (or remediable DRM-free files) that do not meet accessibility requirements.
 * Clearly communicate a book's accessibility conformance and features.
 * Provide evidence of a plan to remediate books that do not meet accessibility requirements.
 
@@ -62,7 +65,7 @@ While accessibility is built into many of our processes, we continue to identify
         </tr>
         <tr>
             <th scope="row">Develop remediation plan for pre-2021 EBC titles</th>
-            <td>A detailed and publicly available plans for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
+            <td>A detailed and publicly available plan for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
             <td>Q4 2025</td>
             <td>Planned</td>
         </tr>
