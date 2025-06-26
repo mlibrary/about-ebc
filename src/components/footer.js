@@ -53,6 +53,7 @@ const Footer = () => {
                 <li><Link className="text-light" to="/implement">Implement UMP EBC</Link></li>
                 <li><Link className="text-light" to="/invest">Invest in UMP EBC</Link></li>
                 <li><Link className="text-light" to="/impact">Impact and Usage</Link></li>
+                <li><Link className="text-light" to="/accessibility">Accessibility</Link></li>
               </ul>
           </section>
           <section className="col-md-2">
@@ -83,7 +84,7 @@ const Footer = () => {
         </div>
         <div className="row mt-3">
           <div className="col-md-6">
-          <small className="text-light d-block mb-3">© {year}, Regents of the University of Michigan · <a className="text-light" href="https://fulcrum.org/accessibility/">Accessibility</a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="https://fulcrum.org/privacy">Privacy</a> · <a className="text-light" href="https://fulcrum.org/terms">Terms</a></small>    
+          <small className="text-light d-block mb-3">© {year}, Regents of the University of Michigan · <a className="text-light" href="/accessibility/">Accessibility</a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="https://fulcrum.org/privacy">Privacy</a> · <a className="text-light" href="https://fulcrum.org/terms">Terms</a></small>    
           </div>
           <div className="col-md-6 text-right">
             <small className="text-white">Powered by</small> <a href="https://fulcrum.org/"><img className="fulcrum" src="/assets/fulcrum-full-white.svg" alt="Fulcrum logo" height="20" width="auto" /></a>
