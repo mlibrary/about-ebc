@@ -22,7 +22,7 @@ We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a [Voluntary
 UMP EBC's conformance status is assessed through a combination of self-evaluation and third-party evaluation. Once a year our production process is audited by the Benetech Global Certified Accessible program for re-certification.
 
 ## Features
-* All titles are available for download in EPUB and PDF formats and do not contain DRM restrictions.
+* All titles are available for download (EPUB and/or PDF) and do not contain DRM restrictions.
 * All titles published after 2019 contain basic textual descriptions of images.
 * All titles published after 2022 contain full textual descriptions of images, through a combination of alt text and extended description.
 * All audio and video associated with titles published after 2018 have transcripts, captions, and descriptions available.
