@@ -3,7 +3,7 @@ templateKey: story
 title: Which authors choose to publish open access books and why?
 summary: A glance at the University of Michigan Press fall 2025 catalog reveals
   that openness promotes interdisciplinarity, policy impact, and social justice
-storyImage: assets/image.png
+storyImage: assets/stock-photo-creative-image-collage-young-headless-man-lightbulb-face-dilemma-think-letter-author-bookworm-2458827907.jpg
 date: 2025-07-01T01:04:12.034Z
 ---
 When the University of Michigan Press published its first open-access books, almost 20 years ago, there was a lot of skepticism among authors. "Are you anticipating the death of print? Will my tenure committee respect my work if it is open? Why would I give away my royalties?" These were reasonable questions from authors in a scholarly environment that now seems almost as remote as the Middle Ages. With the revolution in high-quality digital printing, the erosion of tenure, and a decline in academic print book sales as remarkable as the surge in ebook usage, we live and work in a world transformed since 1995.
