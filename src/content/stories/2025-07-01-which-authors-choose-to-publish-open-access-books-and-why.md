@@ -1,6 +1,7 @@
 ---
 templateKey: story
-title: Which authors choose to publish open access books and why?
+title: Which University of Michigan Press authors choose to publish open access
+  books and why?
 summary: A glance at the University of Michigan Press fall 2025 catalog reveals
   that openness promotes interdisciplinarity, policy impact, and social justice
 storyImage: assets/shutterstock_2458827907-1-.jpg
