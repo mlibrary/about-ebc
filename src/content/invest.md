@@ -171,7 +171,7 @@ S﻿easonal discounts were awarded to early adopters of the collection in its pi
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2024) with term access to the growing archive of pre-2012 titles.
+Upfront perpetual purchase of the current complete backlist (years 2012-2025) with term access to the growing archive of pre-2012 titles.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -218,7 +218,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2024) wi
 
 #### International Pricing
 
-Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2025 frontlist.
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.	 The pricing below exemplifies how pricing is calculated for 2026 frontlist.
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -232,28 +232,28 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
     <tbody>
        <tr>
             <th scope="row">Doctoral</th>
-            <td>$6,418</td>
-            <td>$4,814</td>
-            <td>$3,209</td><td>$1,605</td>
+            <td>$6,578</td>
+            <td>$4,934</td>
+            <td>$3,289</td><td>$1,645</td>
         </tr>
          <tr>
             <th scope="row">Master's</th>
-            <td>$4,813</td>
-            <td>$3,610</td>
-            <td>$2,407</td><td>$1,203</td>
+            <td>$4,933</td>
+            <td>$3,700</td>
+            <td>$2,467</td><td>$1,233</td>
         </tr>
         <tr>
             <th scope="row">Baccalaureate</th>
-            <td>$1,604</td>
-            <td>$1,203</td>
-            <td>$802</td><td>$401</td>
+            <td>$1,644</td>
+            <td>$1,233</td>
+            <td>$822</td><td>$411</td>
         </tr>
         <tr>
             <th scope="row">Associates</th>
-            <td>$770</td>
-            <td>$578</td>
-            <td>$385</td>    
-            <td>$193</td>
+            <td>$789</td>
+            <td>$592</td>
+            <td>$395</td>    
+            <td>$197</td>
         </tr>
     </tbody>
 </table>
