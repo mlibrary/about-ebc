@@ -481,6 +481,7 @@ By opening our content and showing that monographs increase their usage, reach, 
 * U﻿niversity College London
 * University of Alberta
 * University of Arizona
+* U﻿niversity of Bristol
 * University of British Columbia
 * University of California Berkeley
 * University of California Davis
