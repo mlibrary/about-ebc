@@ -14,11 +14,11 @@ To request a file for remediation in the UMP EBC, please complete the [Michigan 
 
 ## Conformance Status and VPAT®
 
-<a class="btn btn-secondary btn-lg" href="https://www.fulcrum.org/docs/Fulcrum-UMPEBC-VPAT2.4INT-20230113.pdf">Download VPAT®</a>
+<a class="btn btn-secondary btn-lg" href="/assets/Fulcrum-UMPEBC-VPAT2.5INT-20250709.pdf">Download VPAT®</a>
 
 Current product year EPUBs conform to [WCAG 2.2 AA](https://www.w3.org/TR/WCAG22/) and [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/). EPUBs in product years 2021-2024 conform to older versions of WCAG AA and EPUB Accessibility. Prior to 2021, conformance to accessibility requirements varies. A more detailed breakdown of the accessibility of pre-2021 and backlist content will be available in July 2025.
 
-We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a [Voluntary Product Accessibility Template (VPAT®) Version 2.4 INT](https://www.fulcrum.org/docs/Fulcrum-UMPEBC-VPAT2.4INT-20230113.pdf), which covers all available EBC product years along with an assessment of the Fulcrum platform, which hosts the UMP EBC. See [Fulcrum's accessibility page](https://www.fulcrum.org/accessibility) for more details.
+We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a [Voluntary Product Accessibility Template (VPAT®) Version 2.4 INT](/assets/Fulcrum-UMPEBC-VPAT2.5INT-20250709.pdf), which covers all available EBC product years along with an assessment of the Fulcrum platform, which hosts the UMP EBC. See [Fulcrum's accessibility page](https://www.fulcrum.org/accessibility) for more details.
 
 UMP EBC's conformance status is assessed through a combination of self-evaluation and third-party evaluation. Once a year our production process is audited by the Benetech Global Certified Accessible program for re-certification.
 
