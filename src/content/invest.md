@@ -48,7 +48,7 @@ With Fund to Mission, we are asking for shared investment in strengthening human
 
 In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, which meant that to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, library investments, and authors' funding supporters. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
 
-Our current goal is to receive $450,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
+Our current goal is to receive $500,000 in continuing support from libraries for Fund to Mission. The money given to the Fund to Mission program goes to support the transition of the monograph program at the University of Michigan Press to open access.
 
 * Approximately 15% of the money from the Fund to Mission program goes to the non-profit incubator LYRASIS to support their efforts in publicizing and managing the institutional side of the program.
 * Another 15% of the funding goes to pay for Fulcrum, our hosting platform.
