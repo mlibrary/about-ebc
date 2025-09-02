@@ -22,7 +22,7 @@ The University of Michigan Press has moved towards open access for its monograph
 
 <h2 id="model">Overview of Fund to Mission Open Access Model</h2>
 
-Working with LYRASIS, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open-access monograph model termed Fund to Mission. 
+Working with Lyrasis, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open-access monograph model termed Fund to Mission. 
 
 Fund to Mission demonstrates a return to <a href="https://aupresses.org/the-value-of-university-presses/">the origins of the university press movement</a> and moves toward a more open, sustainable infrastructure for the humanities and social sciences. Our goal is to convert our new monographs program so that at least 75% of the U-M Press monographs published each year are open access, <b>without any author ever having to pay</b>.  
 
@@ -68,6 +68,8 @@ L﻿ibraries that are members of Jisc can find details of the Jisc offer in[ the
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0">Complete Title List</a></p>
+
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1HU2L254tFrS-oSj4PxrhX2USx2dcbMHY/view?usp=sharing">One Page Fact Sheet</a></p>
 
 ### Investment Options
 
