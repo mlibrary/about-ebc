@@ -19,7 +19,7 @@ This interactive map displays a representative sample of usage data collected be
 
 <iframe src="https://plum-aigneis-42.tiiny.site" width="750" height="1000" allowfullscreen></iframe>
 
-So, where are the most readers? Ann Arbor, Traverse City, East Lansing, Grand Rapids, Marquette? No, Redford Township, just west of Detroit. Congratulations to the [Redford Township District Library](https://www.rtdl.org/) for anchoring a true community of "bookavores."
+So, where are the most readers? Ann Arbor, Traverse City, East Lansing, Grand Rapids, Marquette? No, Redford Township, just west of Detroit. Congratulations to the [Redford Township District Library](https://www.rtdl.org/) for anchoring a community of true "bookavores."
 
 They searched for everything from "whitefish" to "Mormon murders," from "the Battle of the River Raisin" to "Vernors." Here are the top ten University of Michigan Press books loved by residents of the best state in America (OK, we're biased):
 
