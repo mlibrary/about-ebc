@@ -15,7 +15,7 @@ University of Michigan Press regional titles are enjoyed and read from Houghton 
 
 This interactive map displays usage from 2021 to 2025. While urban centers show the most usage, there are very few of the State's 83 counties that don't show some use.
 
-<iframe src="https://plum-aigneis-42.tiiny.site" width="700" height="1000" allowfullscreen></iframe>
+<iframe src="https://plum-aigneis-42.tiiny.site" width="750" height="1000" allowfullscreen></iframe>
 
 Here are the top ten University of Michigan Press books loved by residents of the best state in America:
 
