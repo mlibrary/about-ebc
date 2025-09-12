@@ -3,11 +3,12 @@ templateKey: story
 title: Michigan Press, Michigan Impact. Where are the State's most serious
   bookworms? A new interactive map answers the question
 summary: 'Readers across the State of Michigan just love reading University of
-  Michigan Press books! A new interactive map shows where most titles are read
-  the most, and it truly is all over. Blame the long winters indoors or the lazy
-  summer days on the many pristine freshwater beaches, but Michiganders love to
-  read. Especially if the books are about the "Water Winter Wonderland"
-  celebrated on the license plates of retro cars. '
+  Michigan Press books! A new interactive map shows where titles on local
+  history, culture, and the environment are consumed, and it truly is all over.
+  Blame the long winters indoors or the lazy summer days on the many pristine
+  freshwater beaches, but Michiganders love to read. Especially if the books are
+  about the "Water Winter Wonderland" celebrated on the license plates of retro
+  cars. '
 storyImage: assets/michigan_state_capitol.jpg
 date: 2025-09-12T01:25:38.003Z
 ---
