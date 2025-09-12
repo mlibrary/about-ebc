@@ -12,7 +12,7 @@ date: 2025-09-12T01:25:38.003Z
 ---
 University of Michigan Press regional titles are enjoyed and read from Houghton to Tecumseh thanks to a collaboration with the Library of Michigan called "Read Michigan." Launched in collaboration with the non-profit incubator Lyrasis, [readmichigan.org ](https://readmichigan.biblioboard.com)was created in collaboration with the three university presses in the State and offers over 300 of their most notable titles, providing the best sources for the culture, history, and natural history of the Mitten State. Best of all, readmichigan is free within the geographical boundaries of the State, and can be accessed in all public library districts. This interactive map displays usage from 2021 to 2025. While urban centers show the most usage, there are very few of the State's 83 counties that don't show some use.
 
-<iframe src="https://plum-aigneis-42.tiiny.site" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://plum-aigneis-42.tiiny.site" width="700" height="1000" allowfullscreen></iframe>
 
 Here are the top ten University of Michigan Press books loved by residents of the best state in America:
 
