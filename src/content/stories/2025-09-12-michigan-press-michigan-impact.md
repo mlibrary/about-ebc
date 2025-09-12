@@ -1,6 +1,7 @@
 ---
 templateKey: story
-title: Michigan Press, Michigan Impact. Where are the State's most serious bookworms?
+title: Michigan Press, Michigan Impact. Where are the State's most serious
+  bookworms? A new interactive map answers the question
 summary: 'Readers across the State of Michigan just love reading University of
   Michigan Press books! A new interactive map shows where most titles are read
   the most, and it truly is all over. Blame the long winters indoors or the lazy
