@@ -20,6 +20,8 @@ This interactive map displays usage from 2021 to 2025. While urban centers show 
 
 <iframe src="https://plum-aigneis-42.tiiny.site" width="750" height="1000" allowfullscreen></iframe>
 
+So, where are the most readers? Ann Arbor, Traverse City, East Lansing, Grand Rapids, Marquette? No, Redford Township, just west of Detroit. Congratulations to the [Redford Township District Library](https://www.rtdl.org/) for anchoring a true community of "bookavores."
+
 Here are the top ten University of Michigan Press books loved by residents of the best state in America:
 
 * *[Michigan Legends: Folktales and Lore from the Great Lakes State](https://press.umich.edu/Books/M/Michigan-Legends)*, by Sheryl James
