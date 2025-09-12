@@ -7,8 +7,9 @@ summary: 'Readers across the State of Michigan just love reading University of
   history, culture, and the environment are consumed, and no corner of the
   Mitten State remains untouched. Blame the long winters indoors or the lazy
   summer days on the many pristine freshwater beaches, but Michiganders love to
-  read. Especially if the books are about the "Water Winter Wonderland"
-  celebrated on the license plates of retro cars. '
+  read - especially university-produced books they know they can trust.
+  Especially if the books are about the "Water Winter Wonderland" celebrated on
+  the license plates of retro cars. '
 storyImage: assets/michigan_state_capitol.jpg
 date: 2025-09-12T01:25:38.003Z
 ---
