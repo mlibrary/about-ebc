@@ -15,7 +15,7 @@ University of Michigan Press regional titles are enjoyed and read from Houghton 
 
 Michigan is one of the only US states to have three university presses - and all dedicated to the public good (University of Michigan Press, Michigan State University Press, and Wayne State University Press). Each has a very different profile, but all are committed to the highest quality of publication and trusted quality in an age where misinformation is rampant. Alongside regional titles, the presses publish world-leading titles in subjects ranging from political science to African studies, from classics to Jewish studies, and from performing arts to environmental policy.
 
-This interactive map displays usage from 2021 to 2025. While urban centers show the most usage, there are very few of the State's 83 counties that don't show some use.
+This interactive map displays a representative sample of usage data gathered between 2021 and 2025. While urban centers show the most usage, there are very few of the State's 83 counties that don't show some use.
 
 <iframe src="https://plum-aigneis-42.tiiny.site" width="750" height="1000" allowfullscreen></iframe>
 
