@@ -4,7 +4,7 @@ title: Accessibility
 ---
 <p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
 
-*Last updated: July 11, 2025*
+*Last updated: October 24, 2025*
 
  Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
 
@@ -67,9 +67,7 @@ While accessibility is built into many of our processes, we continue to identify
             <td>A detailed and publicly available plan for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
             <td>Q4 2025</td>
             <td>Planned</td>
-        </tr>
-
-\    <tr>
+        </tr><tr>
             <th scope="row">Reformat 300 deep backlist page-scanned PDFs to accessible EPUB</th>
             <td>Adds new and accessible backlist titles to EBC backlist product and establishes workflow for reformatting PDF-only content in EBC.</td>
             <td>Q3/Q4 2025</td>
