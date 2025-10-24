@@ -16,7 +16,7 @@ To request a file for remediation in the UMP EBC, please complete the [Michigan 
 
 <a class="btn btn-secondary btn-lg" href="/assets/Fulcrum-UMPEBC-VPAT2.5INT-20250709.pdf">Download VPAT®</a>
 
-Current product year EPUBs conform to [WCAG 2.2 AA](https://www.w3.org/TR/WCAG22/) and [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/). EPUBs in product years 2021-2024 conform to older versions of WCAG AA and EPUB Accessibility. Prior to 2021, conformance to accessibility requirements varies. A more detailed breakdown of the accessibility of pre-2021 and backlist content will be available in July 2025.
+Current product year EPUBs conform to [WCAG 2.2 AA](https://www.w3.org/TR/WCAG22/) and [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/). EPUBs in product years 2021-2024 conform to older versions of WCAG AA and EPUB Accessibility. Prior to 2021, conformance to accessibility requirements varies. A more detailed breakdown of the accessibility of pre-2021 and backlist content is forthcoming.
 
 We report the UMP EBC's compliance with WCAG 2.2 and Section 508 in a [Voluntary Product Accessibility Template (VPAT®) Version 2.5 INT](/assets/Fulcrum-UMPEBC-VPAT2.5INT-20250709.pdf) (July 2025), which covers all available EBC product years along with an assessment of the Fulcrum platform, which hosts the UMP EBC. See [Fulcrum's accessibility page](https://www.fulcrum.org/accessibility) for more details.
 
@@ -38,6 +38,8 @@ While accessibility is built into many of our processes, we continue to identify
 * Provide evidence of a plan to remediate books that do not meet accessibility requirements.
 
 <br />
+
+
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
@@ -48,16 +50,10 @@ While accessibility is built into many of our processes, we continue to identify
         </tr>
     </thead>
     <tbody>
-       <tr>
-            <th scope="row">Reformat 100 deep backlist page-scanned PDFs to accessible EPUB</th>
-            <td>Adds new and accessible backlist titles to EBC backlist product and establishes workflow for reformatting PDF-only content in EBC.</td>
-            <td>Q3 2025</td>
-            <td>In progress</td>
-        </tr>
         <tr>
             <th scope="row">Create title-level accessibility conformance tracker for all EBC titles</th>
             <td>A publicly available spreadsheet with title-level accessibility and format information organized by product year.</td>
-            <td>Q3 2025</td>
+            <td>Q3/Q4 2025</td>
             <td>In progress</td>
         </tr>
          <tr>
@@ -71,6 +67,13 @@ While accessibility is built into many of our processes, we continue to identify
             <td>A detailed and publicly available plan for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
             <td>Q4 2025</td>
             <td>Planned</td>
+        </tr>
+
+\    <tr>
+            <th scope="row">Reformat 300 deep backlist page-scanned PDFs to accessible EPUB</th>
+            <td>Adds new and accessible backlist titles to EBC backlist product and establishes workflow for reformatting PDF-only content in EBC.</td>
+            <td>Q3/Q4 2025</td>
+            <td>Completed</td>
         </tr>
     </tbody>
 </table>
