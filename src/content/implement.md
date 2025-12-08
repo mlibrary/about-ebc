@@ -16,14 +16,9 @@ If you are a library interested in purchasing UMP EBC, please contact LYRASIS at
 
 Access to the collection is authenticated via IP address / Proxy. See our <a href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453810/UMP+EBC">technical documentation for more details</a>. If you are experiencing access issues, or need to update your IP addresses, please contact [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu).
 
-<table class="table table-bordered">
-    <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a></caption>
-
-  <caption><a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a></caption>
-
-<caption><a class="btn btn-secondary btn-lg" href="https://fulcrum.org/api/opds/umpebc">Access OPDS feed</a></caption>
-
 U-M Press has several agreements to make UMP EBC collections more discoverable and to enable auto-loading of MARC records. Our agreements should get EBC indexed in the following services.
+
+<table class="table table-bordered">
     <thead class="thead-light">
         <tr>
             <th scope="col">Vendor</th>
@@ -85,5 +80,11 @@ U-M Press has several agreements to make UMP EBC collections more discoverable a
     </tbody>
 
 </table>
+
+<a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/KBART/">Download KBART files</a>
+
+<a class="btn btn-secondary btn-lg" href="https://ftp.fulcrum.org/UMPEBC/MARC/">Download MARC records</a>
+
+<a class="btn btn-secondary btn-lg" href="https://fulcrum.org/api/opds/umpebc">Access OPDS feed</a>
 
 Usage Stats for your institution are available in <a href="https://fulcrum.org/counter_reports">COUNTER 5 format</a>.
