@@ -4,13 +4,13 @@ title: Accessibility
 ---
 <p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
 
-*Last updated: October 24, 2025*
+*Last updated: January 14, 2026*
 
  Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
 
 ## Accessible File Requests
 
-To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/), and [EMMA](https://emma.uvacreate.virginia.edu/). 
+To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), and [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/). 
 
 ## Conformance Status and VPAT®
 
@@ -53,19 +53,19 @@ While accessibility is built into many of our processes, we continue to identify
         <tr>
             <th scope="row">Create title-level accessibility conformance tracker for all EBC titles</th>
             <td>A publicly available spreadsheet with title-level accessibility and format information organized by product year.</td>
-            <td>Q3/Q4 2025</td>
+            <td>Q1 2026</td>
             <td>In progress</td>
         </tr>
          <tr>
             <th scope="row">Add title-level accessibility metadata to ONIX feed and MARC records</th>
             <td>Discovery services and ebook distributors will have detailed accessibility features and conformance information.</td>
-            <td>Q4 2025</td>
+            <td>Q1 2026</td>
             <td>In progress</td>
         </tr>
         <tr>
             <th scope="row">Develop remediation plan for pre-2021 EBC titles</th>
             <td>A detailed and publicly available plan for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
-            <td>Q4 2025</td>
+            <td>Q1/Q2 2026</td>
             <td>Planned</td>
         </tr><tr>
             <th scope="row">Reformat 300 deep backlist page-scanned PDFs to accessible EPUB</th>
