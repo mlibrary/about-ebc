@@ -17,7 +17,7 @@ Michigan is one of the only US states to have three university presses - and all
 
 This interactive map displays a representative sample of usage data collected between 2021 and 2025, totaling over 50,000 reads. While urban centers show the most usage, all of the State's 83 counties feature some use.
 
-<iframe src="https://plum-aigneis-42.tiiny.site" width="750" height="1000" allowfullscreen></iframe>
+<iframe src="https://ebc.press.umich.edu/bibliolabs_map/zipcode_map_v1.html" width="750" height="1000" allowfullscreen></iframe>
 
 So, where are the most readers? Ann Arbor, Traverse City, East Lansing, Grand Rapids, Marquette? No, Redford Township, just west of Detroit. Congratulations to the [Redford Township District Library](https://www.rtdl.org/) for anchoring a community of true "bookavores."
 
