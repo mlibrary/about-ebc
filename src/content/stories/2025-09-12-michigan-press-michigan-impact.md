@@ -1,7 +1,8 @@
 ---
 templateKey: story
 title: Michigan Press, Michigan Impact. Where are the State's most serious
-  bookworms? A new map answers the question
+  bookworms? A new map answers the question and stories of the power of books
+  provide the texture
 summary: Readers across the State of Michigan just love reading University of
   Michigan Press books! Our interactive map shows where titles on local history,
   culture, and the environment are consumed, and no corner of the Mitten State
