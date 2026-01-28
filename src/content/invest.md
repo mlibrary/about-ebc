@@ -69,7 +69,7 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0">Complete Title List</a></p>
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1HU2L254tFrS-oSj4PxrhX2USx2dcbMHY/view?usp=sharing">One Page Fact Sheet</a></p>
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1HU2L254tFrS-oSj4PxrhX2USx2dcbMHY/view?usp=sharing">Download OA Rubric</a></p>
 
 ### Investment Options
 
