@@ -10,7 +10,7 @@ title: Accessibility
 
 <a class="btn btn-secondary btn-lg" href="https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD">Request a File</a>
 
-<p class="lead">To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), and [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/).</p>
+<p class="lead">To request a file for remediation in the UMP EBC, please complete the <a href="https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD">Michigan Publishing Accessible File Request form</a>. We also make ebooks in UMP EBC available through the major support channels, including <a href="https://accesstext.org/home">AccessText Network</a>, and <a href="https://www.bookshare.org">Bookshare</a>/<a href="https://www.rnibbookshare.org">RNIB Bookshare.</p>
 
 ## Conformance Status and VPAT®
 
