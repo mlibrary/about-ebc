@@ -2,19 +2,23 @@
 templateKey: accessibility-page
 title: Accessibility
 ---
-<p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
-
 *Last updated: January 14, 2026*
 
- Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
+<p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
 
 ## Accessible File Requests
 
-To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), and [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/). 
+<a class="btn btn-secondary btn-lg" href="https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD">Request a File</a>
+
+<p class="lead">To request a file for remediation in the UMP EBC, please complete the [Michigan Publishing Accessible File Request form](https://umich.qualtrics.com/jfe/form/SV_8BzXL6zBZb3OQFD). We also make ebooks in UMP EBC available through the major support channels, including [AccessText Network](https://accesstext.org/home), and [Bookshare](https://www.bookshare.org)/[RNIB Bookshare](https://www.rnibbookshare.org/).</p>
 
 ## Conformance Status and VPAT®
 
+*Last manual evaluation of content: July 2025*
+
 <a class="btn btn-secondary btn-lg" href="/assets/Fulcrum-UMPEBC-VPAT2.5INT-20250709.pdf">Download VPAT®</a>
+
+Since 2021, our EPUB production workflow has been certified accessible through the [Benetech Global Certified Accessible program](https://bornaccessible.benetech.org/certified-publishers/). Nearly all of our EPUBs published after January 2021 meet EPUB accessibility and WCAG AA guidelines and include an accessibility certification.
 
 Current product year EPUBs conform to [WCAG 2.2 AA](https://www.w3.org/TR/WCAG22/) and [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/). EPUBs in product years 2021-2024 conform to older versions of WCAG AA and EPUB Accessibility. Prior to 2021, conformance to accessibility requirements varies. A more detailed breakdown of the accessibility of pre-2021 and backlist content is forthcoming.
 
@@ -38,7 +42,6 @@ While accessibility is built into many of our processes, we continue to identify
 * Provide evidence of a plan to remediate books that do not meet accessibility requirements.
 
 <br />
-
 
 <table class="table table-bordered">
     <thead class="thead-light">
