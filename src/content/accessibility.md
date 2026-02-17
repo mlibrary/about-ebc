@@ -2,9 +2,9 @@
 templateKey: accessibility-page
 title: Accessibility
 ---
-*Last updated: January 30, 2026*
+*Last updated: February 17, 2026*
 
-<p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>.</p>
+<p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access. This commitment is firmly in line with our mission statement and <a href="https://spg.umich.edu/policy/601.20">University of Michigan accessibility policies and guidelines</a>. Beyond U-M Press itself, our commitment applies also to University of Michigan center and research museum publications included in our ebook collection.</p>
 
 ## Accessible File Requests
 
