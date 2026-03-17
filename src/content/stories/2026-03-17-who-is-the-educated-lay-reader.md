@@ -1,6 +1,6 @@
 ---
 templateKey: story
-title: Who is the Educated Lay Reader?
+title: Who is the "Educated Lay Reader"?
 summary: Systematic coding of thousands of responses to our free ebook survey
   helps shed light on use of academic ebooks beyond the Academy
 storyImage: assets/having-fun-at-book-club-1132787678_727x484.jpeg
