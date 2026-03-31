@@ -14,8 +14,8 @@ A﻿s well as supporting University of Michigan Library acquisitions of books on
 
 The following titles will appear in The Herbert A. and Bessie W. Kenyon Dramatic Library:
 
-* [Theater, War, and Memory in Crisis](https://press.umich.edu/Books/T/Theater-War-and-Memory-in-Crisis3)[](https://press.umich.edu/Books/A/Acting-the-Part3)
-* [Acting the Part](https://press.umich.edu/Books/A/Acting-the-Part3)[](https://press.umich.edu/Books/R/Readying-the-Revolution2)
+* [Theater, War, and Memory in Crisis](https://press.umich.edu/Books/T/Theater-War-and-Memory-in-Crisis3)
+* [Acting the Part](https://press.umich.edu/Books/A/Acting-the-Part3)
 * [Readying the Revolution](https://press.umich.edu/Books/R/Readying-the-Revolution2)
 * [Enveloping Worlds ](https://press.umich.edu/Books/E/Enveloping-Worlds3)
 * [Speaking Our Selves](https://press.umich.edu/Books/S/Speaking-Our-Selves2)
