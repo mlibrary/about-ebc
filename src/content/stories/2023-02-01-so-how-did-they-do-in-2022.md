@@ -31,7 +31,3 @@ O﻿ur books were used in 227 countries and territories, but our top institution
 <!--EndFragment-->
 
 [Learn more about Fund to Mission in our January 2023 Progress Report.](https://drive.google.com/file/d/1KNRWFQ-rI_EOyg5uEqPtyeOvNPo_PPGa/view?usp=sharing)
-
-[](https://drive.google.com/file/d/1KNRWFQ-rI_EOyg5uEqPtyeOvNPo_PPGa/view?usp=sharing)
-
-<a href="/"></a>
