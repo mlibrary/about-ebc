@@ -1,8 +1,13 @@
 ---
 templateKey: story
 title: Who is the "Educated Lay Reader"?
-summary: Systematic coding of thousands of responses to our free ebook survey
-  helps shed light on use of academic ebooks beyond the Academy
+summary: The "educated lay reader" has long been a foundational concept in
+  scholarly publishing—often invoked by editors and marketers as a target
+  audience, yet rarely identified with precision. Traditionally, these readers
+  were seen as a "dark universe" of users outside of academia whose motivations
+  remained largely invisible. Systematic coding of thousands of responses to the
+  U-M Press free ebook survey helps shed light on use of academic ebooks beyond
+  the Academy
 storyImage: assets/having-fun-at-book-club-1132787678_727x484.jpeg
 date: 2026-03-17T08:10:17.597Z
 ---
