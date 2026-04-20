@@ -56,19 +56,19 @@ While accessibility is built into many of our processes, we continue to identify
         <tr>
             <th scope="row">Create title-level accessibility conformance tracker for all EBC titles</th>
             <td>A publicly available spreadsheet with title-level accessibility and format information organized by product year.</td>
-            <td>Q1 2026</td>
+            <td>Q2 2026</td>
             <td>In progress</td>
         </tr>
          <tr>
             <th scope="row">Add title-level accessibility metadata to ONIX feed and MARC records</th>
             <td>Discovery services and ebook distributors will have detailed accessibility features and conformance information.</td>
-            <td>Q1 2026</td>
+            <td>Q2 2026</td>
             <td>In progress</td>
         </tr>
         <tr>
             <th scope="row">Develop remediation plan for pre-2021 EBC titles</th>
             <td>A detailed and publicly available plan for adding image descriptions to EPUBs or reformatting PDF-only content to accessible EPUB.</td>
-            <td>Q1/Q2 2026</td>
+            <td>Q2 2026</td>
             <td>Planned</td>
         </tr><tr>
             <th scope="row">Reformat 300 deep backlist page-scanned PDFs to accessible EPUB</th>
