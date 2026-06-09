@@ -173,7 +173,7 @@ S﻿easonal discounts were awarded to early adopters of the collection in its pi
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2025) with term access to the growing archive of pre-2012 titles.
+Upfront perpetual purchase of the current complete backlist (years 2012-2025) as well as the growing archive of pre-2011 titles, nearly 2,800 titles. 
 
 <table class="table table-bordered">
     <thead class="thead-light">
