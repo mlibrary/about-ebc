@@ -73,9 +73,9 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 ### Investment Options
 
-#### 2025-2027 Sustaining Collection
+#### 2027-2029 Sustaining Collection
 
-Commitment to purchase the 2025, 2026, and 2027 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2027. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
+Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2029. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -91,31 +91,31 @@ Commitment to purchase the 2025, 2026, and 2027 frontlists (aiming for 75% open 
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$16,778</td>
+            <td>$17,627</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$12,582</td>
+            <td>$13,219</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$8,384</td>
+            <td>$8,808</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$4,193</td>
+            <td>$4,405</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$2,013</td>
+            <td>$2,114</td>
         </tr>
     </tbody>
 </table>
@@ -189,31 +189,31 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2025) as
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$60,295</td>
+            <td>$66,873</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$45,219</td>
+            <td>$50,152</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$30,149</td>
+            <td>$33,436</td>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$15,075</td>
+            <td>$16,719</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$7,232</td>
+            <td>$8,021</td>
         </tr>
     </tbody>
 </table>
