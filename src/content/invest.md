@@ -120,9 +120,9 @@ Commitment to purchase the 2025, 2026, and 2027 frontlists (aiming for 75% open 
     </tbody>
 </table>
 
-#### Frontlist 2026 Pricing
+#### Frontlist 2027 Pricing
 
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2026). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2027). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
 
 S﻿easonal discounts were awarded to early adopters of the collection in its pilot phase. The pricing below reflects the stable, year-round cost to support based on institutional tier.
 
@@ -142,31 +142,31 @@ S﻿easonal discounts were awarded to early adopters of the collection in its pi
             <th scope="row">5</th>
             <td>15</td>
             <td>Bands 12, 13</td>
-            <td>$6,578</td>
+            <td>$6,742</td>
         </tr>
          <tr>
             <th scope="row">4</th>
             <td>16-18</td>
             <td>Bands 11, 10</td>
-            <td>$4,933</td>
+            <td>$5,056</td>
         </tr>
         <tr>
             <th scope="row">3</th>
             <td>19-21</td>
             <td>Bands 9, 8</td>
-            <td>$3,287</t>
+            <td>$3,369</t>
         </tr>
         <tr>
             <th scope="row">2</th>
             <td>22-23</td>
             <td>Bands 7, 6, 5</td>
-            <td>$1,644</td>
+            <td>$1,685</td>
         </tr>
         <tr>
             <th scope="row">1</th>
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
-            <td>$789</td>
+            <td>$809</td>
         </tr>
     </tbody>
 </table>
