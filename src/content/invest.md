@@ -218,7 +218,7 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2025) as
     </tbody>
 </table>
 
-#### International Pricing
+### International Pricing
 
 Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.
 
