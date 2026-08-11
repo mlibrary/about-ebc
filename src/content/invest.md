@@ -277,27 +277,27 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
        <tr>
             <th scope="row">Doctoral</th>
             <td>$20,269</td>
-            <td>$5,815</td>
-            <td>$3,877</td><td>$1,938</td>
+            <td>$15,202</td>
+            <td>$10,135</td><td>$5,067</td>
         </tr>
          <tr>
             <th scope="row">Master's</th>
-            <td>$5,814</td>
-            <td>$4,361</td>
-            <td>$2,907</td><td>$1,454</td>
+            <td>$15,200</td>
+            <td>$11,400</td>
+            <td>$7,600</td><td>$3,800</td>
         </tr>
         <tr>
             <th scope="row">Baccalaureate</th>
-            <td>$1,938</td>
-            <td>$1,453</td>
-            <td>$969</td><td>$484</td>
+            <td>$5,066</td>
+            <td>$3,799</td>
+            <td>$2,533</td><td>$1,266</td>
         </tr>
         <tr>
             <th scope="row">Associates</th>
-            <td>$930</td>
-            <td>$698</td>
-            <td>$465</td>    
-            <td>$233</td>
+            <td>$2,432</td>
+            <td>$1,824</td>
+            <td>$1,216</td>    
+            <td>$608</td>
         </tr>
     </tbody>
 </table>
