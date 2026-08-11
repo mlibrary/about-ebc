@@ -266,6 +266,8 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
 
 #### 2027-2029 Sustaining Collection
 
+Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2029. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
+
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
