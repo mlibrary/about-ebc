@@ -306,7 +306,7 @@ Pricing for institutions outside the US, Canada, and UK is based on national inc
 
 <h2 id="how">How We Open Content</h2>
 
-The following chart shows what percentage of titles in the University of Michigan Press Ebook Collection we aim to make open access in their respective collection years.
+The following chart shows what percentage of titles in the University of Michigan Press Ebook Collection were made open access in their respective collection years.
 
 <table class="table table-bordered">
     <thead class="thead-light">
