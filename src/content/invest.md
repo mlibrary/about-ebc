@@ -171,8 +171,6 @@ Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open 
     </tbody>
 </table>
 
-
-
 ### International Pricing
 
 Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.
@@ -259,7 +257,7 @@ Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open 
     </tbody>
 </table>
 
-#### Backlist Bundle Pricing
+### Backlist Bundle Pricing
 
 Upfront perpetual purchase of the current complete backlist (years 2012-2025) as well as the growing archive of pre-2011 titles, over 3,000 titles. 
 
