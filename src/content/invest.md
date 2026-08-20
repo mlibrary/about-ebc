@@ -75,7 +75,7 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 ### U﻿S, CA & UK Pricing
 
-#### Frontlist 2027
+#### 2027 Frontlist
 
 Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2027). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
 
@@ -175,7 +175,7 @@ Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open 
 
 Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.
 
-#### Frontlist 2027 Pricing
+#### 2027 Frontlist
 
 <table class="table table-bordered">
     <thead class="thead-light">
@@ -259,7 +259,7 @@ Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open 
 
 #### Backlist Bundle Pricing
 
-Upfront perpetual purchase of the current complete backlist (years 2012-2025) as well as the growing archive of pre-2011 titles, nearly 2,800 titles. 
+Upfront perpetual purchase of the current complete backlist (years 2012-2025) as well as the growing archive of pre-2011 titles, over 3,000 titles. 
 
 <table class="table table-bordered">
     <thead class="thead-light">
