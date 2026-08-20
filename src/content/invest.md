@@ -20,6 +20,8 @@ The endeavor of opening humanities content to the world is a vital one. As the c
 
 The University of Michigan Press has moved towards open access for its monographs precisely to provide these new opportunities for exploration. Ensuring that everyone has access to this scholarship, no matter where they are located or what their institutional affiliation is, can only strengthen the humanities.
 
+<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1HU2L254tFrS-oSj4PxrhX2USx2dcbMHY/view?usp=sharing">Download OA Rubric</a></p>
+
 <h2 id="model">Overview of Fund to Mission Open Access Model</h2>
 
 Working with Lyrasis, the University of Michigan has been taking steps to develop a publishing program that aligns with our mission and commitment to diversity, equity, inclusion, and accessibility. In the spring of 2021, the Press announced its transition to an open-access monograph model termed Fund to Mission. 
@@ -44,7 +46,7 @@ With Fund to Mission, we are asking for shared investment in strengthening human
 * Demonstrate support for a non-profit infrastructure and sustainable business model, on a platform that already hosts other university press content;
 * Inspire the leaders of parent institutions to financially support their presses in more sustainable and open approaches to monograph publishing.
 
-#### What We Do With the Money
+### What We Do With the Money
 
 In 2020 we worked with consultant Kimberly Schmelzinger to do a detailed analysis of the cost of just the Press’s specialist monograph program. The total cost of producing 80 books a year came to $1,650,000, which meant that to make those titles open access, we would need to find that amount of financial support. With Fund to Mission, that money comes from three main pools: the University of Michigan Provost, library investments, and authors' funding supporters. We anticipate that some print sales will still occur regardless of a monograph’s open access status, and this will help fill in the funding gap.
 
@@ -69,9 +71,58 @@ With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0">Complete Title List</a></p>
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://drive.google.com/file/d/1HU2L254tFrS-oSj4PxrhX2USx2dcbMHY/view?usp=sharing">Download OA Rubric</a></p>
+## Pricing
 
-### Investment Options
+### U﻿S, CA & UK Pricing
+
+#### Frontlist 2027
+
+Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2027). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
+
+<!--EndFragment-->
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col">Tier</th>
+            <th scope="col">Carnegie Classification</th>
+            <th scope="col">CRKN Bands</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+            <th scope="row">5</th>
+            <td>15</td>
+            <td>Bands 12, 13</td>
+            <td>$6,742</td>
+        </tr>
+         <tr>
+            <th scope="row">4</th>
+            <td>16-18</td>
+            <td>Bands 11, 10</td>
+            <td>$5,056</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td>19-21</td>
+            <td>Bands 9, 8</td>
+            <td>$3,369</t>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>22-23</td>
+            <td>Bands 7, 6, 5</td>
+            <td>$1,685</td>
+        </tr>
+        <tr>
+            <th scope="row">1</th>
+            <td>1-14</td>
+            <td>Bands 4, 3, 2, 1</td>
+            <td>$809</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 2027-2029 Sustaining Collection
 
@@ -120,53 +171,88 @@ Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open 
     </tbody>
 </table>
 
+### International Pricing
+
+Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.
+
 #### Frontlist 2027 Pricing
-
-Purchase of the individual frontlist year (minimum of 80 titles, the OA percentage of which is targeted to be 75% in 2027). Libraries will own the restricted access titles in perpetuity and have term access to the backlist through the publishing year purchased. Term access to backlist is provided on a calendar year annual basis, with a 90-day grace period January - March of the following year to give clients time to renew.
-
-S﻿easonal discounts were awarded to early adopters of the collection in its pilot phase. The pricing below reflects the stable, year-round cost to support based on institutional tier.
-
-<!--EndFragment-->
 
 <table class="table table-bordered">
     <thead class="thead-light">
         <tr>
             <th scope="col">Tier</th>
-            <th scope="col">Carnegie Classification</th>
-            <th scope="col">CRKN Bands</th>
-            <th scope="col">Price</th>
+            <th scope="col">High Income</th>
+            <th scope="col">Upper Middle Income (25%)</th>
+            <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
         </tr>
     </thead>
     <tbody>
        <tr>
-            <th scope="row">5</th>
-            <td>15</td>
-            <td>Bands 12, 13</td>
-            <td>$6,742</td>
+            <th scope="row">Doctoral</th>
+            <td>$7,753</td>
+            <td>$5,815</td>
+            <td>$3,877</td><td>$1,938</td>
         </tr>
          <tr>
-            <th scope="row">4</th>
-            <td>16-18</td>
-            <td>Bands 11, 10</td>
-            <td>$5,056</td>
+            <th scope="row">Master's</th>
+            <td>$5,814</td>
+            <td>$4,361</td>
+            <td>$2,907</td><td>$1,454</td>
         </tr>
         <tr>
-            <th scope="row">3</th>
-            <td>19-21</td>
-            <td>Bands 9, 8</td>
-            <td>$3,369</t>
+            <th scope="row">Baccalaureate</th>
+            <td>$1,938</td>
+            <td>$1,453</td>
+            <td>$969</td><td>$484</td>
         </tr>
         <tr>
-            <th scope="row">2</th>
-            <td>22-23</td>
-            <td>Bands 7, 6, 5</td>
-            <td>$1,685</td>
+            <th scope="row">Associates</th>
+            <td>$930</td>
+            <td>$698</td>
+            <td>$465</td>    
+            <td>$233</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 2027-2029 Sustaining Collection
+
+Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2029. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col">Tier</th>
+            <th scope="col">High Income</th>
+            <th scope="col">Upper Middle Income (25%)</th>
+            <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+            <th scope="row">Doctoral</th>
+            <td>$20,269</td>
+            <td>$15,202</td>
+            <td>$10,135</td><td>$5,067</td>
+        </tr>
+         <tr>
+            <th scope="row">Master's</th>
+            <td>$15,200</td>
+            <td>$11,400</td>
+            <td>$7,600</td><td>$3,800</td>
         </tr>
         <tr>
-            <th scope="row">1</th>
-            <td>1-14</td>
-            <td>Bands 4, 3, 2, 1</td>
-            <td>$809</td>
+            <th scope="row">Baccalaureate</th>
+            <td>$5,066</td>
+            <td>$3,799</td>
+            <td>$2,533</td><td>$1,266</td>
+        </tr>
+        <tr>
+            <th scope="row">Associates</th>
+            <td>$2,432</td>
+            <td>$1,824</td>
+            <td>$1,216</td>    
+            <td>$608</td>
         </tr>
     </tbody>
 </table>
@@ -214,94 +300,6 @@ Upfront perpetual purchase of the current complete backlist (years 2012-2025) as
             <td>1-14</td>
             <td>Bands 4, 3, 2, 1</td>
             <td>$8,021</td>
-        </tr>
-    </tbody>
-</table>
-
-### International Pricing
-
-Pricing for institutions outside the US, Canada, and UK is based on national income level, as determined by the World Bank, and the highest degree offered.
-
-#### Frontlist 2027 Pricing
-
-<table class="table table-bordered">
-    <thead class="thead-light">
-        <tr>
-            <th scope="col">Tier</th>
-            <th scope="col">High Income</th>
-            <th scope="col">Upper Middle Income (25%)</th>
-            <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
-        </tr>
-    </thead>
-    <tbody>
-       <tr>
-            <th scope="row">Doctoral</th>
-            <td>$7,753</td>
-            <td>$5,815</td>
-            <td>$3,877</td><td>$1,938</td>
-        </tr>
-         <tr>
-            <th scope="row">Master's</th>
-            <td>$5,814</td>
-            <td>$4,361</td>
-            <td>$2,907</td><td>$1,454</td>
-        </tr>
-        <tr>
-            <th scope="row">Baccalaureate</th>
-            <td>$1,938</td>
-            <td>$1,453</td>
-            <td>$969</td><td>$484</td>
-        </tr>
-        <tr>
-            <th scope="row">Associates</th>
-            <td>$930</td>
-            <td>$698</td>
-            <td>$465</td>    
-            <td>$233</td>
-        </tr>
-    </tbody>
-</table>
-
-
-
-#### 2027-2029 Sustaining Collection
-
-Commitment to purchase the 2027, 2028, and 2029 frontlists (aiming for 75% open access each year). Libraries will own the restricted titles in perpetuity as they become available and will have term access to the backlist through end of 2029. Upfront or annual billing allowed. The prices shown below for the Sustaining Collection includes an embedded 15% discount off the total price of buying each year separately (assuming a 2.5% annual increase).
-
-<table class="table table-bordered">
-    <thead class="thead-light">
-        <tr>
-            <th scope="col">Tier</th>
-            <th scope="col">High Income</th>
-            <th scope="col">Upper Middle Income (25%)</th>
-            <th scope="col">Lower Middle Income (50%)</th><th scope="col">Low Income (75%)</th>
-        </tr>
-    </thead>
-    <tbody>
-       <tr>
-            <th scope="row">Doctoral</th>
-            <td>$20,269</td>
-            <td>$15,202</td>
-            <td>$10,135</td><td>$5,067</td>
-        </tr>
-         <tr>
-            <th scope="row">Master's</th>
-            <td>$15,200</td>
-            <td>$11,400</td>
-            <td>$7,600</td><td>$3,800</td>
-        </tr>
-        <tr>
-            <th scope="row">Baccalaureate</th>
-            <td>$5,066</td>
-            <td>$3,799</td>
-            <td>$2,533</td><td>$1,266</td>
-        </tr>
-        <tr>
-            <th scope="row">Associates</th>
-            <td>$2,432</td>
-            <td>$1,824</td>
-            <td>$1,216</td>    
-            <td>$608</td>
         </tr>
     </tbody>
 </table>
