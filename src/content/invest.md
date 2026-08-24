@@ -61,11 +61,12 @@ We share a regular breakdown of how the money was spent with our Library Partner
 
 <h2 id="purchase">How to Purchase</h2>
 
-Libraries interested in supporting Fund to Mission can request a quote from LYRASIS, our sales partner, here:
+Libraries interested in supporting Fund to Mission can request a quote from our  sales partners, below:
 
-<p><a class="btn btn-secondary btn-lg mb-3" href="https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW">Request a Quote</a></p>
-
-L﻿ibraries that are members of Jisc can find details of the 2026 Jisc offer in the [License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3264)
+*  L﻿ibraries that are members of Jisc can find details of the 2026 Jisc offer in the [License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3264)
+*
+*
+*
 
 With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list here:
 
