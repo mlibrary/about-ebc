@@ -61,13 +61,13 @@ We share a regular breakdown of how the money was spent with our Library Partner
 
 <h2 id="purchase">How to Purchase</h2>
 
-Libraries interested in supporting Fund to Mission can request a quote from our sales partners, below:
+Libraries interested in supporting Fund to Mission can request a quote from any of our sales partners, below:
 
-* [Knowledge Unlatched / Annual Reviews](https://knowledgeunlatched.org/) (USA, Canada, UK; Rest of the World)
-* [L﻿yrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW) (USA, Canada, UK; worldwide billing and licensing)
-* Jisc members can find details of the 2026 Jisc offer in the [License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3264)
+* [Knowledge Unlatched / Annual Reviews](https://knowledgeunlatched.org/)
+* [L﻿yrasis](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW)
+* Jisc members via [License subscriptions manager.](https://subscriptionsmanager.jisc.ac.uk/catalogue/3264)
 
-With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list below:
+Lyrasis manages billing and licensing worldwide, except for Jisc customers. With additional questions, please email [ump-ebc-info@umich.edu](mailto:ump-ebc-info@umich.edu). View our complete title list below:
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://www.dropbox.com/scl/fo/ai4z5zamkqpv6hr3ngmzm/h?rlkey=tbltv2r2wmqhs2mv9tdkxx9kv&dl=0">Complete Title List</a></p>
 
