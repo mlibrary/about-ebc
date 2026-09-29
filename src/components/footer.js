@@ -12,10 +12,7 @@ export const titleQuery = graphql`
     filter: {
       frontmatter: { templateKey: { eq: "quick-link" } }
     },
-    sort: {
-      fields: frontmatter___order,
-      order: ASC
-    },
+    sort: { frontmatter: { order: ASC } },
   ) {
     edges {
       node {
