@@ -2,7 +2,6 @@ import React from 'react'
 import SEO from "../components/seo"
 import Layout from '../components/layout'
 import {graphql} from "gatsby"
-//import Image from 'gatsby-image'
 
 const Story = ({data}) => {
   const { html } = data.markdownRemark

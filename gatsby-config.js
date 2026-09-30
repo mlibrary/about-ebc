@@ -1,3 +1,11 @@
+// React 19 no longer ships the UMD files that gatsby-plugin-decap-cms copies.
+const bundleCmsDependencies = config => {
+  config.externals = []
+  config.plugins = config.plugins.filter(plugin =>
+    ![`CopyPlugin`, `HtmlWebpackTagsPlugin`].includes(plugin.constructor.name)
+  )
+}
+
 module.exports = {
   siteMetadata: {
     title: `University of Michigan Press Ebook Collection`,
@@ -15,40 +23,32 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "UA-77847516-8",
-      }
-    },
-    {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        // your google analytics tracking id
-        trackingId: `G-YTBGJLY9NC`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: false,
+        trackingIds: [`G-YTBGJLY9NC`],
+        gtagConfig: {
+          anonymize_ip: false,
+        },
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        precision: 6
-      }
-    },
-    {
-      resolve: `gatsby-plugin-env-variables`,
-      options: {
-        whitelist: ["BRANCH"]
+        sassOptions: {
+          charset: false,
+        },
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
+      resolve: `gatsby-plugin-decap-cms`,
       options: {
-        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
+        manualInit: true,
         enableIdentityWidget: false,
         modulePath: `${__dirname}/src/cms/cms.js`,
+        customizeWebpackConfig: bundleCmsDependencies,
       }
     },
     {
@@ -80,9 +80,6 @@ module.exports = {
         icon: `src/images/UMP-Logo-MASTER-BLUE.svg`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {

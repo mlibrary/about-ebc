@@ -1,6 +1,5 @@
 import React from "react"
 import {Link} from "gatsby"
-// import Img from "gatsby-image"
 
 const Card = ({cardImage, card}) => {
   const {
