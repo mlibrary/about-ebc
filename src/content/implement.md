@@ -6,7 +6,7 @@ title: Implement the Collection
 
 ## Purchase
 
-If you are a library interested in purchasing UMP EBC, please contact LYRASIS at [membersupport@lyrasis.org](mailto:membersupport@lyrasis.org).
+If you are a library interested in purchasing UMP EBC, please contact LYRASIS at [csciservices@lyrasis.org](csciservices@lyrasis.org).
 
 [Explore pricing and license here](https://my.lyrasis.org/s/product-details?id=a1BUh000001GTmGMAW)
 
