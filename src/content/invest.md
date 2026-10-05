@@ -351,210 +351,121 @@ By opening our content and showing that monographs increase their usage, reach, 
 
 <h2 id="supporters">Our Library Supporters</h2>
 
-* Abraham Baldwin Agricultural College
-* A﻿gnes Scott College
-* A﻿lbany State University
-* A﻿lbany Technical College
-* A﻿ndrew College
-* A﻿thens Technical College
-* A﻿tlanta Metropolitan State College
-* A﻿tlanta Technical College
-* A﻿ugusta Technical College
-* A﻿ugusta University
 * Bates College
-* B﻿erry College
-* B﻿eulah Heights University
-* B﻿inghamton University
-* B﻿lue Ridge Community College
+* Binghamton University
+* Blue Ridge Community College
 * Bowdoin College
-* B﻿renau University
-* B﻿rewton-Parker College
-* B﻿rightpoint Community College
+* Brightpoint Community College
 * Brock University
 * Broward College
-* B﻿rown University
+* Brown University
 * Bucknell University
-* C﻿ardiff University
-* C﻿arleton University
-* C﻿entral Georgia Technical College
-* C﻿entral Michigan University
-* C﻿entral Virginia Community College
-* C﻿hattahoochee Technical College
-* C﻿hristopher Newport University
+* Cardiff University
+* Carleton University
+* Central Virginia Community College
+* Christopher Newport University
 * The Claremont Colleges Library
-* C﻿lark Atlanta University
-* C﻿layton State University
-* C﻿oastal Pines Technical College
 * Colby College
-* College of Coastal Georgia
-* C﻿ollege of William & Mary
-* C﻿olumbia Theological Seminary
+* College of William & Mary
 * Columbia University
-* C﻿olumbus State University
-* C﻿olumbus Technical College
 * Cornell University
-* C﻿ovenant College
-* D﻿alton State College
-* D﻿anville Community College
-* D﻿artmouth College
+* Danville Community College
+* Dartmouth College
 * Denison University
 * Duke University
 * Duquesne University
-* E﻿ast Georgia State College
-* E﻿astern Shore Community College
-* E﻿mmanuel College
+* Eastern Shore Community College
 * Emory University
-* F﻿ort Valley State University
-* Franklin & Marshall College
-* G﻿eorge Mason University
-* George Washington University
-* G﻿eorgia Central University
-* G﻿eorgia College & State University
-* Georgia Gwinnett College
-* G﻿eorgia Highlands College
-* G﻿eorgia Institute of Technology
-* G﻿eorgia Military College
-* G﻿eorgia Northwestern Technical College
-* G﻿eorgia Piedmont Technical College
-* G﻿eorgia Southern University
-* G﻿eorgia Southwestern State University
-* G﻿eorgia State University
-* G﻿ermanna Community College
-* G﻿ettysburg College
-* G﻿ordon State College
+* George Mason University
+* Germanna Community College
 * Grinnell College
-* G﻿winnett Technical College
 * Harvard University
-* Haverford College
-* H﻿eritage Bible College
 * Indiana University
-* Interdenominational Theological Center
 * Iowa State University
 * J. Sargeant Reynolds Community College
 * James Madison University
 * Johns Hopkins University
-* J﻿ohn Marshall Law School
-* K﻿ennesaw State University
 * Kenyon College
-* K﻿ing's College London
-* KU Leuven
+* King's College London
+* KU Leuven Libraries
 * Lafayette College
-* L﻿aGrange College
-* L﻿anier Technical College
-* L﻿aurel Ridge Community College
-* L﻿iberty University
-* L﻿ife University
-* L﻿ongwood University
-* Luther College
-* L﻿uther Rice College & Seminary
-* Macalester College
+* Laurel Ridge Community College
+* Liberty University
+* Longwood University
 * Massachusetts Institute of Technology
-* M﻿cGill University
-* M﻿cMaster University
-* M﻿ercer University
-* M﻿ercer University Law School
-* M﻿ercer University Medical School
+* Macalester College
+* McGill University
+* McMaster University
 * Michigan State University
-* M﻿iddle Georgia State University
-* M﻿iddlebury College
-* M﻿orehouse College
-* M﻿orehouse School of Medicine
 * Mountain Empire Community College
 * Mountain Gateway Community College
 * New River Community College
-* N﻿ew York University
 * Norfolk State University
-* N﻿orth Georgia Technical College
 * Northeastern University
 * Northern Virginia Community College
-* Northwest Florida State College
 * Northwestern University
-* O﻿conee Fall Line Technical College
-* O﻿geechee Technical College
-* O﻿glethorpe University
-* T﻿he Ohio State University
+* NYU
+* The Ohio State University
 * Old Dominion University
-* Pacific College of Technology
-* P﻿aine College
 * Patrick & Henry Community College
 * Paul D. Camp Community College
 * Pennsylvania State University
-* P﻿iedmont University
 * Piedmont Virginia Community College
-* P﻿oint University
-* P﻿rinceton University
+* Princeton University
 * Purdue University
 * Radford University
 * Rappahannock Community College
-* R﻿einhardt University
 * Richard Bland College
-* R﻿ichmont Graduate University
 * Rowan University
 * Rutgers University
-* S﻿avannah State University
-* S﻿avannah Technical College
-* S﻿horter University
 * Simon Fraser University
-* S﻿outh Georgia State College
-* S﻿outh Georgia Technical College
-* S﻿outheastern Technical College
-* S﻿outhern Crescent Technical College
-* S﻿outhern Illinois University Carbondale
+* Southern Illinois University Carbondale
 * Southern Methodist University
-* S﻿outhern Regional Technical College
 * Southside Virginia Community College
 * Southwest Virginia Community College
-* S﻿pellman College
 * Stanford University
-* Swarthmore College
 * Syracuse University
-* T﻿exas A&M University Libraries
-* T﻿homas University
+* Swarthmore College
+* Texas A&M University Libraries
 * Tidewater Community College
-* T﻿ilburg University
-* T﻿occoa Falls College
+* Tilburg University
 * Trent University
-* T﻿ruett McConnell University
-* U﻿nderwood University
-* Université de Montréal
-* U﻿niversity College London
 * University of Alberta
 * University of Arizona
-* U﻿niversity of Bristol
+* University of Bristol
 * University of British Columbia
-* University of California Berkeley
-* University of California Davis
-* University of California Irvine
-* University of California Los Angeles
-* University of California Merced
-* University of California Riverside
-* University of California San Diego
-* University of California Santa Barbara
-* University of California Santa Cruz
-* U﻿niversity of Cambridge
+* University of California Berkeley (UCB)
+* University of California San Diego (UCSD)
+* University of California Davis (UCD)
+* University of California Irvine (UCI)
+* University of California Los Angeles (UCLA)
+* University of California Merced (UCM)
+* University of California Riverside (UCR)
+* University of California Santa Barbara (UCSB)
+* University of California Santa Cruz (UCSC)
+* University of Cambridge
 * University of Chicago
-* U﻿niversity of Connecticut
-* U﻿niversity of Delaware
+* University College London
+* University of Delaware
+* University of East Anglia
 * University of Florida
-* U﻿niversity of Georgia
 * University of Guelph
 * University of Illinois
 * University of Iowa
 * University of Kansas
-* U﻿niversity of Kentucky
 * University of Manchester
 * University of Mary Washington
 * University of Maryland
 * University of Massachusetts, Amherst
-* U﻿niversity of Michigan
+* University of Michigan
 * University of Minnesota
+* Université de Montréal
 * University of Nebraska
-* U﻿niversity of North Georgia
-* U﻿niversity of Notre Dame
-* U﻿niversity of Nottingham
+* University of Notre Dame
 * UNC Chapel Hill
-* U﻿NC Greensboro
-* U﻿niversity of Oklahoma
+* UNC Greensboro
+* University of Nottingham
+* University of Oklahoma
 * University of Oregon
 * University of Ottawa
 * University of Pennsylvania
@@ -562,22 +473,18 @@ By opening our content and showing that monographs increase their usage, reach, 
 * University of Rhode Island
 * University of Richmond
 * University of Rochester
-* University of San Francisco
 * University of Saskatchewan
 * University of Sheffield
-* U﻿niversity of South Carolina
+* University of Southern California
+* University of South Carolina
 * University of Tennessee Knoxville
-* U﻿niversity of Texas Austin
-* University of Texas San Antonio
+* University of Texas Austin
 * University of Toronto
 * University of Utah
 * University of Virginia
 * University of Virginia's College at Wise
 * University of Washington
-* U﻿niversity of West Georgia
 * University of Wisconsin
-* V﻿aldosta State University
-* V﻿ancouver Island University
 * Vanderbilt University
 * Vassar College
 * Virginia Commonwealth University
@@ -588,17 +495,12 @@ By opening our content and showing that monographs increase their usage, reach, 
 * Virginia State University
 * Virginia Western Community College
 * Washington & Lee University
-* W﻿esleyan College
-* W﻿est Georgia Technical College
-* W﻿iregrass Georgia Technical College
 * Wytheville Community College
 * Yale University
-* Y﻿ork University
-* Y﻿oung-Harris College
+* York University
 * Big Ten Academic Alliance (BTAA) 
 * California Digital Library (CDL)
 * C﻿anadian Research Knowledge Network (CRKN)
-* G﻿eorgia  Library Learning Online (GALILEO)
 * J﻿oint Information Systems Committee (JISC)
 * Ontario Council of University Libraries (OCUL) 
 * Statewide California Electronic Library Consortium (SCELC) 
