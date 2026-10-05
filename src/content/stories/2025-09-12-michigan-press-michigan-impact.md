@@ -14,7 +14,10 @@ University of Michigan Press regional titles are enjoyed and read from Houghton 
 
 Michigan is one of the only US states to have three university presses - and all dedicated to the public good ([University of Michigan Press](https://press.umich.edu/), [Michigan State University Press](https://msupress.org/), and [Wayne State University Press](https://wsupress.wayne.edu/)). Each has a very different profile, but all are committed to the highest quality of publication and trusted quality in an age where misinformation is rampant. Alongside regional titles, the presses publish world-leading titles in subjects ranging from political science to African studies, from classics to Jewish studies, and from performing arts to environmental policy.
 
-A representative sample of usage data collected between 2021 and 2025 totaled over 50,000 reads. While urban centers show the most usage, all of the State's 83 counties feature some use.
+This interactive map displays a representative sample of usage data collected between 2021 and 2025, totaling over 50,000 reads. While urban centers show the most usage, all of the State's 83 counties feature some use.
+
+<iframe title="Interactive map of ebook usage by county in Michigan" src="/bibliolabs_map/zipcode_map_v1.html" width="750" height="1000" allowfullscreen></iframe>
+
 
 So, where are the most readers? Ann Arbor, Traverse City, East Lansing, Grand Rapids, Marquette? No, Redford Township, just west of Detroit. Congratulations to the [Redford Township District Library](https://www.rtdl.org/) for anchoring a community of true "bookavores."
 
